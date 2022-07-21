@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>EV 的投资笔记</title>
+  
+  <subtitle>记录下自己学习的点滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://invest.einverne.info/"/>
+  <updated>2022-07-21T06:21:44.352Z</updated>
+  <id>https://invest.einverne.info/</id>
+  
+  <author>
+    <name>Ein Verne</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FOF 基金简介</title>
+    <link href="https://invest.einverne.info/2022/04/19/fof-fund.html"/>
+    <id>https://invest.einverne.info/2022/04/19/fof-fund.html</id>
+    <published>2022-04-19T11:58:53.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是FOF基金？"><a href="#什么是FOF基金？" class="headerlink" title="什么是FOF基金？"></a>什么是FOF基金？</h2><p>FOF基金是 Fund of Funds 缩写，被称为“基金中的基金”，是一种专门投资于其他证券投资基金的基金。FOF 基金的概念起源于上世纪 70 年代。</p><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p>可以在不同的经济周期中保持合适的波动，可以以更低的风险获取稳健的回报。</p><h3 id="资产配置"><a href="#资产配置" class="headerlink" title="资产配置"></a>资产配置</h3><p>FOF 基金本质上是一种[[资产配置]]，在不同的经济周期中不同的资产有不同的表现，牛市中股票表现突出，在熊市中债券回报稳定。</p><p>FOF基金经理，可以在股票基金、债券基金、商品基金、黄金、REITs等资产中构建投资组合，实现灵活配置,以求中长期获得更加稳健的目标收益。</p><p>FOF 基金在大类资产上分散，并且通过专业人士的管理再平衡，可以有效地获取长期稳定收益。</p><h3 id="分散"><a href="#分散" class="headerlink" title="分散"></a>分散</h3><p>普通的基金已经通过调整股票、债券、现金的比例来分散风险了，FOF 基金则更进一步，二次分散风险。</p><p>FOF 还可以在传统的大类资产配置的基础上辅加以对冲基金等另类资产，丰富资产类别，降低组合波动。</p><h3 id="降低投资门槛"><a href="#降低投资门槛" class="headerlink" title="降低投资门槛"></a>降低投资门槛</h3><p>有一些基金因为市场规则，投资者可能无法直接参与其中，通过 FOF 基金，可以间接持有这些基金，拓宽了投资基金的种类，降低了多样化投资门槛。</p><h2 id="FOF基金和开放式基金的区别"><a href="#FOF基金和开放式基金的区别" class="headerlink" title="FOF基金和开放式基金的区别"></a>FOF基金和开放式基金的区别</h2><p>基金中的基金是以基金为投资标的，而开放式基金是以股票、债券等有价证券为投资标的，它通过专业机构对基金进行筛选，帮助投资者优化基金投资效果。</p><h2 id="申购费"><a href="#申购费" class="headerlink" title="申购费"></a>申购费</h2><p>基金管理人运用FOF基金财产如申购自家基金的（ETF除外），应当通过直销渠道申购且不得收取申购费、赎回费（按照相关法律法规、被投资基金招募说明书约定应当收取，并记入基金资产的赎回费用除外）、销售服务费等销售费用。</p><p>如申购其他基金公司管理的基金，需按其他基金公司的规定支付申购费、赎回费及销售服务费等，此费用由基金资产承担。</p><h2 id="申购平台"><a href="#申购平台" class="headerlink" title="申购平台"></a>申购平台</h2><p><a href="https://gtk.pw/qm" target="_blank" rel="noopener">且慢</a> 是一个专注于向个人提供简单、省心的公募基金投资方案，应用内就提供了专业人士管理的 FOF 基金。</p><p>在且慢中通过其规划的四笔钱，分别用于：</p><ul><li>活期现金，日常支出，随时取用</li><li>稳健理财，半年以上、三年以内，有具体用途随时动用的钱</li><li>长期投资，3年以上才有可能会用到，留给未来的钱</li><li>保险保障，在不确定的未来中，给你的生活托底的钱</li></ul><p>且慢中有几个非常著名的投资组合，比如货币三佳，我要稳稳的幸福，就是利用了 FOF 基金的思路。</p><h3 id="货币三佳"><a href="#货币三佳" class="headerlink" title="货币三佳"></a>货币三佳</h3><p>优选了市场收益最好的三个[[货币基金]]。</p><h3 id="我要稳稳的幸福"><a href="#我要稳稳的幸福" class="headerlink" title="我要稳稳的幸福"></a>我要稳稳的幸福</h3><p>我要稳稳的幸福则是交银施罗德基金多元资产管理部所负责的投资组合，比如购买10000元的组合，会分别购买如下的不同种类的基金。</p><p><img src="https://photo.einverne.info/images/2022/04/19/d5l9.jpg" alt="qieman 我要稳稳的幸福"></p><p>其中选择的基金在不同的时间可能会有不同。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是FOF基金？&quot;&gt;&lt;a href=&quot;#什么是FOF基金？&quot; class=&quot;headerlink&quot; title=&quot;什么是FOF基金？&quot;&gt;&lt;/a&gt;什么是FOF基金？&lt;/h2&gt;&lt;p&gt;FOF基金是 Fund of Funds 缩写，被称为“基金中的基金”，是一种专门投
+      
+    
+    </summary>
+    
+    
+      <category term="基金" scheme="https://invest.einverne.info/categories/%E5%9F%BA%E9%87%91/"/>
+    
+    
+      <category term="基金" scheme="https://invest.einverne.info/tags/%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="FOF基金" scheme="https://invest.einverne.info/tags/FOF%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="FOF" scheme="https://invest.einverne.info/tags/FOF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米股票分析：过度谨慎的市场使得长期机会变大</title>
+    <link href="https://invest.einverne.info/2022/04/12/xiaomi-an-overcautious-market-opens-long-term-opportunities.html"/>
+    <id>https://invest.einverne.info/2022/04/12/xiaomi-an-overcautious-market-opens-long-term-opportunities.html</id>
+    <published>2022-04-12T05:01:44.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先总结一下：</p><ul><li>过去5个季度，小米股票一直处于长期下跌状态（long-drawn-out decline）</li><li>长期的下跌的状况可能尚未结束，谨慎的投资者可能采取观望态度</li><li>宏观不利因素（macro headwind）减弱、小米公司核心基本面，使得其当前的价格可以获得长期投资价值</li></ul><p>过去一年中一些不利因素使得小米公司股票一直处于下跌状态，在撰写本文时，小米股票的交易价格相较于 2021 年 1月创下的历史新高跌去了近 60%.</p><p>过去一年中出现的利空因素包括：</p><ul><li>美国的禁令（后取消）</li><li>全球芯片短缺（预计该问题可能逐步缓解，可能在 2022 年下半年恢复）</li><li>中国市场份额缓慢下降的状态也出现逆转，在最近季度中甚至略有回升</li></ul><p><img src="/images/china-smartphone-market-share.png" alt="china-smartphone-market-share"></p><p>现在主要的不利因素已经减弱，或即将消失。目前的价格足够有吸引力。</p><p>下文就从几个关键点来分析一下小米股票的长期价值。</p><h2 id="收入"><a href="#收入" class="headerlink" title="收入"></a>收入</h2><p>在我看来，盈利能力（收入规模）是评估一家公司未来前景的一个关键指标。只要公司的收入数据是向上的，那么其他问题都可以通过一些手段克服，包括定价能力（pricing power）、盈余管理（margin management）、现金管理（cash management）、资本配置（capital allocation）、投资者回报（investor return）和对现有产品和服务的扩张。</p><p><img src="/images/xiaomi-stock-price-20220412211313.png" alt="xiaomi stock price 2021"></p><p>但是和小米公司盈利曲线不符合的是过去一年的股票价格波动。可以理解的是，上文提到的不利因素是导致这种稳步下跌的原因，但是现在市场已经过度谨慎。所以本文重点要讨论的就是，小米公司在全球智能手机市场的地位，以及当前的价格已经打开了一个潜在的长期投资机会。</p><h2 id="长期和近期的收入"><a href="#长期和近期的收入" class="headerlink" title="长期和近期的收入"></a>长期和近期的收入</h2><p>首先来看看小米公司的收入趋势，分析的最新报告截止到 21 年 Q4。</p><p>尽管很多的不利因素导致小米的收入从 FY-16 到 FY-17 的 68%，下降到 FY-19/FY-20 的 18~19%，小米公司的销售额依然保持着两位数的增长。</p><p>[[FY17]] 表示 the financial year of the Group ended 30 April 2017.</p><p>小米公司的收入从 15 财年的 670 亿人民币增长到了 21 财年的 3280 亿人民币，同期的复合年增长率高达 30%。这一增长的贡献主要来自中国和印度，智能手机占总收入的 60% 以上。</p><p>Canalys 的数据<a href="https://www.canalys.com/newsroom/global-smartphone-market-2021" target="_blank" rel="noopener">显示</a> 截止 21 年第四季度和 21 财年，小米是全球和中国出货量排名第三的智能手机供应商，其地位基本与前期持平。</p><p><img src="/images/xiaomi-canalys-smartphone-market-share-20220412212537.png" alt=""><br>第 4 季度数据</p><p><img src="https://photo.einverne.info/images/2022/04/12/5DEW.jpg" alt="xiaomi canalys smartphone market share"><br>全年出货量份额。</p><p>小米总裁兼合伙人王翔在 Q4-21 财报电话会议上表示：</p><blockquote><p>随着小米在全球的扩展，在 14 个市场中排名第一，在 62 个市场中排名前 5。特别是，以 23% 的市场份额位居欧洲第二，连续两年保持西班牙第一，连续 17 个季度保持印度第一。</p></blockquote><p>小米的收入增长中智能手机并不是唯一收入。物联网和智能产品部门，包括智能电视、平板电脑、笔记本电脑部分，贡献了总收入的四分之一。互联网服务部门，包括广告和互联网产品，有着 74.1% 的高利润率（21 年财报毛利率为 74.1%）。</p><p>总体而言，历史的增长非常强劲，并且最近一个季度也是如此。在 Q4-21 ,和上一季度相比，整体收入增长了 24.1%，在年收入更是增长了 34%。</p><p>小米的收入增长可以对股价有很好的支撑。</p><h3 id="定价能力和产品组合"><a href="#定价能力和产品组合" class="headerlink" title="定价能力和产品组合"></a>定价能力和产品组合</h3><p>公司报告了智能手机和智能电视的 ASP（平均售价）的增长。小米手机的平均售价增长主要来自于产品向高端手机的转变。</p><p>智能电视的 ASP 增长尽管幅度很小，但随着这些趋势的继续，可以转化为持续的定价能力。</p><h3 id="盈利"><a href="#盈利" class="headerlink" title="盈利"></a>盈利</h3><p>智能手机的定价，被其他业务的增长的更高利润所抵消。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5UUQ.jpg" alt=""><br>小米 FY-21 年报</p><p><img src="https://photo.einverne.info/images/2022/04/12/5X0X.jpg" alt=""><br>小米销售成本 21 年 </p><p>销量增加和平均售价提高，总销售额进一步上升，随着时间推移逐步扩大其毛利率。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5hFi.jpg" alt=""></p><p>当时间更长的时候更加明显。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5us0.jpg" alt=""></p><p>这种增加的杠杆还使得小米能在在不牺牲 21 财年的盈利的同时，在研发（增长 42.3%）和销售运营(增长 44.3%）上投入更多的资金。</p><p>高端智能手机出货量的成比例增长和高利润细分市场的强劲增长，使得公司的经营杠杆随着时间越来越高。进一步通过增加研发和销售营销来形成正向循环。</p><h3 id="资本配置和投资者回报。"><a href="#资本配置和投资者回报。" class="headerlink" title="资本配置和投资者回报。"></a>资本配置和投资者回报。</h3><p>21 年财报，公司研发支出为 132 亿人民币，去年同期 93 亿人民币。销售和营销支出从 20 年的 145 亿增加到 21 财年的 210 亿人民币。这些项目费用的增加，对盈利能力并没有造成重大的负面影响。从 22 财年到 26 财年的五年中，小米计划在研发上投入超过 1000 亿人民币，以帮助其实现在智能手机领域的高端化。</p><p>此外，小米积极参与收购具有协同效应和前瞻性的业务，包括逐步收购智能手机配件制造商紫米，以及收购自动驾驶汽车技术初创公司 Deepmotion。收购紫米有助于扩展智能手机配件的生态系统。收购 Deepmotion 将进一步推动小米在 2024 年上半年开始大规模产生电动汽车。</p><p>虽然小米不派发现金股息，但是他一直在回购在香港上市的股票。截止 21 财年，公司以约 87 亿港元的代价回购了约 3.58 亿股股份。</p><h3 id="投资者角度"><a href="#投资者角度" class="headerlink" title="投资者角度"></a>投资者角度</h3><p>从财务角度，小米公司的基础相当稳健。截止 2021 年底的[[资产负债表]]，流动性充足，流动资产为人民币 1860 亿，流动负债为人民币 1160 亿。</p><p><img src="https://photo.einverne.info/images/2022/04/12/54N9.jpg" alt=""></p><p>长期的 debt to equity 比率在 15 左右，是一个高杠杆，但是随着过去几年的增长和收入有所缓解。</p><p>在估值（valuation）方面，小米的价格和 <a href="TTM">[滚动市盈率]</a> ，估值约在 15 左右，而行业的中值为 29，这很大程度是过去 5 个季度下跌所致。</p><h2 id="风险"><a href="#风险" class="headerlink" title="风险"></a>风险</h2><p>投资小米股票的风险主要来自持续的供应链限制和普遍的政治不确定。如果能看到如今已经消退的逆风趋势，从长远来看，目前的价格（13 HKD）可能代表了一个极好的机会。</p><p>另外该股票的长期下跌可能尚未结束，可以采取谨慎观望的态度。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://gtk.pw/KUL2e" target="_blank" rel="noopener">Seeking Alpha</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;首先总结一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;过去5个季度，小米股票一直处于长期下跌状态（long-drawn-out decline）&lt;/li&gt;
+&lt;li&gt;长期的下跌的状况可能尚未结束，谨慎的投资者可能采取观望态度&lt;/li&gt;
+&lt;li&gt;宏观不利因素（macro headwind）
+      
+    
+    </summary>
+    
+    
+      <category term="股票分析" scheme="https://invest.einverne.info/categories/%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="小米" scheme="https://invest.einverne.info/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+      <category term="分析" scheme="https://invest.einverne.info/tags/%E5%88%86%E6%9E%90/"/>
+    
+      <category term="港股" scheme="https://invest.einverne.info/tags/%E6%B8%AF%E8%82%A1/"/>
+    
+      <category term="手机" scheme="https://invest.einverne.info/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐两个视觉化股市的网站</title>
+    <link href="https://invest.einverne.info/2022/03/15/recommend-two-visulized-stock-market.html"/>
+    <id>https://invest.einverne.info/2022/03/15/recommend-two-visulized-stock-market.html</id>
+    <published>2022-03-15T13:03:21.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>2022 年 3 月 15 日，上证指数跌了近 5个点</p><p><img src="/images/2022-03-15-china-stock-market-index-20220315210537.png" alt="2022-03-15-china-stock-market-index"></p><p>恒生指数跌了近 6 个点</p><p><img src="/images/2022-03-15-hang-seng-index-20220315210720.png" alt="2022-03-15-hang-seng-index"></p><p>各大中概股一路狂跌，注定是一个被记住的日子。</p><p>这里就推荐大家两个视觉化展示 A股市场大盘的网站吧。</p><h2 id="大盘云图"><a href="#大盘云图" class="headerlink" title="大盘云图"></a>大盘云图</h2><p>官方网址：<a href="https://dapanyuntu.com/" target="_blank" rel="noopener">https://dapanyuntu.com/</a></p><p>效果：</p><p><img src="/images/china-stock-market-visual-2022-03-15-184431.png" alt="china-stock-market-visual"></p><h2 id="美股云图"><a href="#美股云图" class="headerlink" title="美股云图"></a>美股云图</h2><p>网站：<a href="https://finviz.com/map.ashx" target="_blank" rel="noopener">https://finviz.com/map.ashx</a></p><p>效果</p><p><img src="/images/american-stock-market-2022-03-15-184803.png" alt="american-stock-market"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2022 年 3 月 15 日，上证指数跌了近 5个点&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2022-03-15-china-stock-market-index-20220315210537.png&quot; alt=&quot;2022-03-15-china-stock-
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="网站推荐" scheme="https://invest.einverne.info/tags/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="视觉化" scheme="https://invest.einverne.info/tags/%E8%A7%86%E8%A7%89%E5%8C%96/"/>
+    
+      <category term="股市" scheme="https://invest.einverne.info/tags/%E8%82%A1%E5%B8%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>债券基金购买指南</title>
+    <link href="https://invest.einverne.info/2022/01/12/bond-fund-guide.html"/>
+    <id>https://invest.einverne.info/2022/01/12/bond-fund-guide.html</id>
+    <published>2022-01-12T11:36:50.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>债券基金是基金大分类下的一个小分类，要了解债券基金就要先了解一下什么叫做[[债券]]，另外债券基金相较于股票基金或混合基金波动要小，但也并不意味着债券基金就一定保本，所以本文后面会按照介绍什么是债券，什么是债券基金，以及购买债券基金时需要注意的事项进行。</p><h2 id="什么是债券"><a href="#什么是债券" class="headerlink" title="什么是债券"></a>什么是债券</h2><p>债券是一种有价证券，是借贷主体为了筹集资金而向投资者出具的，承诺到期以一定利率支付利息，到期偿还本金的债券凭证。</p><p>债券的借款主体可能是中央政府、地方政府、金融机构、上市公司、私有企业等等。因不同的借款主体信用等级不一样，借款利率可能会有高低。</p><h2 id="什么是债券基金"><a href="#什么是债券基金" class="headerlink" title="什么是债券基金"></a>什么是债券基金</h2><p>[[债券基金]] 是以债券为主要投资对象的基金。主要的投资对象是国债、金融债、企业债。债券型基金资产的 80% 以上要投资于债券，也可能有一小部分投资于股票市场、可转债、打新股等等。债券基金风险相对较低、收益波动相对平稳。</p><h2 id="债券基金的分类"><a href="#债券基金的分类" class="headerlink" title="债券基金的分类"></a>债券基金的分类</h2><h3 id="投资方向划分"><a href="#投资方向划分" class="headerlink" title="投资方向划分"></a>投资方向划分</h3><p>按照投资方向，国内的债券基金可以大致划分：</p><ul><li>纯债基金（短债基金、信用债基金）</li><li>混合债券基金（一级基金、二级基金）</li><li>其他策略债券基金（可转债基金）</li></ul><h4 id="纯债基金"><a href="#纯债基金" class="headerlink" title="纯债基金"></a>纯债基金</h4><p>纯债基金，100%投资于债券市场，不投资股票。风险最小。短债基金长期收益比货币基金高1-2%左右。</p><h4 id="混合债券基金"><a href="#混合债券基金" class="headerlink" title="混合债券基金"></a>混合债券基金</h4><p>混合债券基金又可以细分为：</p><ul><li>一级债券基金，主要投资债券，还可以参与打新股。</li><li>二级债券基金，主要投资债券外，还会投资一小部分股票，以求获得总体更高的收益。风险高于纯债基金与一级债基，当然预期收益也高。</li></ul><h4 id="可转换债基金"><a href="#可转换债基金" class="headerlink" title="可转换债基金"></a>可转换债基金</h4><p>可转债基金的主要投资对象是可转换债券，境外的可转债基金的主要投向还包括可转换优先股，因此也称为可转换基金。</p><h3 id="投资时间划分"><a href="#投资时间划分" class="headerlink" title="投资时间划分"></a>投资时间划分</h3><p>因为债券通常有固定的到期时间，所以按照投资债券的时长又可以将债券基金分成短期债券基金，中长期债券基金。</p><h2 id="债券的风险"><a href="#债券的风险" class="headerlink" title="债券的风险"></a>债券的风险</h2><h3 id="利率风险"><a href="#利率风险" class="headerlink" title="利率风险"></a>利率风险</h3><p>债券波动的主要原因是[[利率]]，基准利率的调整会影响债券收益。</p><p>债券的价格和市场利率是反向的。利率下降，债券的价格会上升。</p><p>其中主要的原因是因为债券的利息和到期应该偿还的本息都是固定的。如果一个10年期的债券，价格是 100，每年 3% 的利息。如果基准利率上升到 4%，那么这个债券也需要提供相应的收益才有竞争力，否则投资者会卖出债券而选择其他收益率更高的品种。那么债券价格就会随之下跌，直到收益也是 4% 左右。越是长期的债券基金收到利率的影响越大。</p><h3 id="违约风险"><a href="#违约风险" class="headerlink" title="违约风险"></a>违约风险</h3><p>相对于其他类型的基金，债券型基金虽然是一种低风险的理财产品，但并不是没有风险。债券违约现象历年都有发生，违约必然导致所投资债券的基金盈利受影响。</p><p>投资者在购买债券型基金时，除了要考虑该债券型基金过去盈利及其相应基金公司管理能力、基金经理投研能力等因素外，还要查看该基金债券持仓情况，选择投资符合产业发展趋势、经营稳健、信誉良好的企业债券的债券型基金，或者主要投资于国债及地方政府债券的债券型基金，切勿盲目投资和跟风。</p><h2 id="债券基金的买入时机"><a href="#债券基金的买入时机" class="headerlink" title="债券基金的买入时机"></a>债券基金的买入时机</h2><ul><li>在利率低位时选择短期债券或货币基金，在利率高位时，选择长期债券基金</li><li>债券基金因为相对稳定，利率也很小概率在短期内发生巨幅波动，所以债券基金并不需要特意择时，大部分的时间都可以买入</li><li>经济下行时，货币宽松时，因为利率下降，债券价格会上升</li><li>当股市长期牛市，找不到被低估的[[指数基金]]时，可以选择投资债券基金</li></ul><h2 id="债券基金的投资时长"><a href="#债券基金的投资时长" class="headerlink" title="债券基金的投资时长"></a>债券基金的投资时长</h2><p>债券基金时候中长期投资，时间在1到3年比较适合。短期持有债券基金可能并不会获得一个较好的回报，如果在利率高点买入债券基金大概率会发生亏损。</p><h2 id="为什么要买债券基金"><a href="#为什么要买债券基金" class="headerlink" title="为什么要买债券基金"></a>为什么要买债券基金</h2><h3 id="长期收益稳定"><a href="#长期收益稳定" class="headerlink" title="长期收益稳定"></a>长期收益稳定</h3><p>上面也提及过，债券基金长期收益趋向稳定，将资金部分投入到债券基金中可以抵御股票市场的波动，是个人资产配置不可或缺的一部分。建议将债券基金作为中长期投资，买入后尽量持有一年以上。</p><p>债券基金可以作为资产配置的稳定器，可以稳定的获取长期的收益，规避股市波动风险。</p><h3 id="分散"><a href="#分散" class="headerlink" title="分散"></a>分散</h3><p>投资债券基金也是一种分散的思路，债券基金是一揽子债券，即使遇到个别债券违约，也只可能只会影响该基金短期的收益。</p><p>对于存在的违约风险，可以通过查看基金的规模来规避，购买债券基金时，不要购买 10 亿以下的基金，规模越大，通常风险越分散。</p><h3 id="流动性好"><a href="#流动性好" class="headerlink" title="流动性好"></a>流动性好</h3><p>债券基金通常手续费低，波动不大，所以可以在任何适合赎回，如果购买时间比较短可能最多也只会损失一些手续费。</p><h3 id="管理费用低"><a href="#管理费用低" class="headerlink" title="管理费用低"></a>管理费用低</h3><p>债券基金相较于混合基金、或股票基金来说一般都有着比较低的申购和管理费用，债券基金一般申购费为0.8%，低于混合型基金和股票型基金的1.5%，并且大多数债券基金在持有一段时间之后赎回费用会减免。</p><h2 id="购买指南"><a href="#购买指南" class="headerlink" title="购买指南"></a>购买指南</h2><h3 id="购买债券基金看什么"><a href="#购买债券基金看什么" class="headerlink" title="购买债券基金看什么"></a>购买债券基金看什么</h3><ul><li>看规模，购买规则比较大的债券基金</li><li>看基金经理，控制回撤，过去业绩比较稳定</li><li>看最大回撤，选择低回撤的基金，选择债券基金的初衷并不是追求高收益，回撤控制才是首位</li><li>看年化收益率，在合理的回撤下，如果能够稳定获取较高收益那是最好</li></ul><h3 id="债券基金是定投还是一次性购买"><a href="#债券基金是定投还是一次性购买" class="headerlink" title="债券基金是定投还是一次性购买"></a>债券基金是定投还是一次性购买</h3><p>通常来说债券基金选择投资的时间并没有那么重要，在购买之前查看一下当前十年国债利率曲线即可，定投和一次性购买相差不会太多。</p><h3 id="债券基金收费方式"><a href="#债券基金收费方式" class="headerlink" title="债券基金收费方式"></a>债券基金收费方式</h3><p>债券基金收费方式一般有三种，其中A类代表前端收费，B类代表后端收费，C类则没有申购赎回费，但有销售服务费，所以在选择上A类适合大额资金，而B类反而更适合大多数的投资者，至于C类则适合短期持有。</p><h2 id="债券基金的劣势"><a href="#债券基金的劣势" class="headerlink" title="债券基金的劣势"></a>债券基金的劣势</h2><ul><li>短期内难以获得理想的收益，债券基金回报率低，波动小</li><li>股市上行时会大幅落后于指数基金、股票基金</li></ul><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li>[[十年期国债收益率]]</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;债券基金是基金大分类下的一个小分类，要了解债券基金就要先了解一下什么叫做[[债券]]，另外债券基金相较于股票基金或混合基金波动要小，但也并不意味着债券基金就一定保本，所以本文后面会按照介绍什么是债券，什么是债券基金，以及购买债券基金时需要注意的事项进行。&lt;/p&gt;
+&lt;h2 i
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="债券基金" scheme="https://invest.einverne.info/tags/%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="基金" scheme="https://invest.einverne.info/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>民生银行香港卡激活教程</title>
+    <link href="https://invest.einverne.info/2021/10/04/cmbc-hk-activate.html"/>
+    <id>https://invest.einverne.info/2021/10/04/cmbc-hk-activate.html</id>
+    <published>2021-10-04T07:18:49.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇文章总结一下民生银行香港卡的激活过程。</p><h2 id="民生银行香港卡的优势"><a href="#民生银行香港卡的优势" class="headerlink" title="民生银行香港卡的优势"></a>民生银行香港卡的优势</h2><ul><li>一个民生银行的综合管理账户包含了港币、人名币、美元、英镑、欧元、日元在内的六中货币储蓄存款</li><li>民生银行香港卡的优势在于支持银证转账，非常方便管理和券商之间的转账关系，并且没有手续费。</li><li>综合结单可以查看当前账户下所有的交易记录</li><li>民生银行香港的应用简洁易用，相比于中信国际的应用界面要好看不少</li></ul><h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><p>民生银行相较于其他香港银行也有一些美中不足的地方：</p><ul><li>民生银行香港卡没有实体卡片，只有虚拟账户，只能通过应用去管理。</li><li>民生银行香港卡只有高于 100000 港币才会免去每个月的账户管理费用，当低于 10 万港币，高于 1 万港币时，每个月会收取 10 港币的费用，而低于 1 万港币则每个月会收取 50 港币账户管理费用。</li></ul><h2 id="账户管理费"><a href="#账户管理费" class="headerlink" title="账户管理费"></a>账户管理费</h2><p>从 2018 年开始实施的账户管理费细则，如下：</p><p><img src="/images/cmbc-fee-20211004161025.png" alt=""></p><h2 id="转账手续费"><a href="#转账手续费" class="headerlink" title="转账手续费"></a>转账手续费</h2><p>转账手续费如下：</p><p><img src="/images/cmbc-hk-transfer-fee-20211004161123.png" alt=""></p><p>推荐使用 [[FPS 转数快]] 进行转账。</p><h2 id="激活过程"><a href="#激活过程" class="headerlink" title="激活过程"></a>激活过程</h2><p>提交民生银行香港账户开户申请之后大概一个月左右的时间会有申请通知，会以短信和邮件的形式下发账户开通通知。</p><p>收到民生香港卡的下卡短信或者邮件之后，需要在手机上下载一个【民生香港个人手机银行】App ，然后根据以下步骤进行初始设置，以激活账户开始使用。</p><h3 id="下载民生香港应用"><a href="#下载民生香港应用" class="headerlink" title="下载民生香港应用"></a>下载民生香港应用</h3><p>第一步，下载民生香港 App(这个和内地大陆民生是分开的两个不同的应用)，苹果手机（iOS 系统）可以直接在 App Store 下载；安卓手机，可以到官网下载，链接如下：</p><ul><li><a href="http://hk.cmbc.com.cn/personal/mb/index.htm" target="_blank" rel="noopener">http://hk.cmbc.com.cn/personal/mb/index.htm</a></li></ul><p>1、立即登陆；2、首次登陆；3、首次登陆设置，然后按照指引一步一步设置账户登陆密码等等信息。</p><p>设置好之后，登陆民生香港App，然后点击【账户总览】-【账户名称】-【账户详情】这里可以看到你账户的账号号码，账户类型，账户状态，汇入账户信息等等。</p><h3 id="完成首次登录"><a href="#完成首次登录" class="headerlink" title="完成首次登录"></a>完成首次登录</h3><p>下载安装好民生银行香港应用之后，需要完成首次登录，也就是注册使用。这一步需要提前备好申请时使用的蓝牙 U 盾。操作步骤如下。</p><ul><li>进入应用，点击登录</li><li>点击界面中的「首次登录」</li><li>在新页面中输入个人信息，包括姓名、身份证等信息，获取验证码</li><li>再接下去一步需要设置账户别名，也就是账户的名称，密码，然后需要蓝牙 U 盾进行验证（注意蓝牙 U 盾的PIN码不要输错，初始的默认密码是 6 个 1）</li><li>设置完成后即可登录账户</li></ul><p>使用上面设置的别名和密码登录账户后会在右上角有一个小铃铛通知告诉你，需要使用同名的账户转账一笔进行激活才可以使用该账户。转账需要的信息在邮件和应用中都能找到。个人账户是一个 9 位 的数字。</p><h3 id="转账激活账户"><a href="#转账激活账户" class="headerlink" title="转账激活账户"></a>转账激活账户</h3><p>这一步需要注意的是，一定需要使用同名的账户进行转账。</p><h4 id="使用大陆民生银行购汇转账"><a href="#使用大陆民生银行购汇转账" class="headerlink" title="使用大陆民生银行购汇转账"></a>使用大陆民生银行购汇转账</h4><p>用同名大陆民生网银购汇，直接给办理好的民生香港账户汇入任意的金额，即可激活民生香港卡了。这一步需要注意几点的是：</p><ul><li>必须在下卡30天内转账激活香港卡；</li><li>一定要选择工作日早上的8点到下午17点之间转账；</li></ul><p>在大陆民生(或其它银行，建议用民生大陆卡，手续费最低)购汇(购汇 21000 港币激活)，再选择“境外汇款”(填写汇款理由，选择因私旅游)，汇款信息，就是您民生香港账号信息了，流程如下：</p><p>首先进行货币兑换</p><ul><li>打开民生银行（大陆）应用，点击「全部」</li><li>在跨境金融下，首先选择货币兑换</li><li>购汇时需要注意填写如下信息：<ul><li>预计用汇时间:当天即可</li><li>购汇属性:因私旅游</li><li>国家地区:香港</li><li>旅行方式:自由行</li></ul></li><li>购汇会以实时汇率进行结算，如果量大一定要注意汇率的波动</li></ul><p>然后进行境外汇款：</p><ul><li>完成货币兑换之后，民生银行（大陆）卡中就会有一定的港币</li><li>然后选择境外汇款，选择界面中的「立即汇款」，</li><li>填入民生香港账户的转账信息，完成转账<ul><li>收款人：填写姓名拼音</li><li>收款账号：香港账户的 9 位数字</li><li>地址所在国家/地区：选择中国香港 Hong Kong</li><li>地址所在城市和收款人详细地址：写国内的详细住址</li><li>[[SWIFT code|SWIFT代码]]：在民生香港应用中查看，一般为 MSBCHKHH 或 MSBCHKHHXXX</li><li>收款行名称，输入 SWIFT 代码后自动填写</li><li>收款行地址，SWIFT 后自动获取</li></ul></li><li>汇路选择：选择民生香港汇路</li><li>汇款用途：其他私人旅行</li></ul><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">SWIFT 代码:MSBCHKHHXXX(提示:SWIFT 代码填入后，收款银行名称和地址自动显示， 无需填写)</span><br><span class="line">收款银行全称:CHINA MINSHENG BANKING CORP.,LTD HONGKONG BRANCH 40F.,TWO INTERNATIONAL FINANCE CENTRE,8 FINANCE STREET,CENTRAL,HONG KONG(提示: SWIFT 代码填入后，收款银行名称和地址自动显示，无需填写)</span><br><span class="line">收款人名称:输入民生香港账户名称</span><br><span class="line">收款账户号码:输入民生香港账户账号</span><br><span class="line">收款人常驻国家(地区):香港</span><br><span class="line">付款账号:选择付款账号</span><br><span class="line">汇款金额:输入汇款金额</span><br></pre></td></tr></table></figure><h4 id="使用其他香港银行转数快转账"><a href="#使用其他香港银行转数快转账" class="headerlink" title="使用其他香港银行转数快转账"></a>使用其他香港银行转数快转账</h4><p>如果手上有其他香港银行卡，或账户也可以通过香港同名账户进行转账激活，以中信国际为例说明。打开中信银行国际应用，在「转账/转数快」页，选择转账。</p><ul><li>选择「账户」，通过输入民生银行香港的银行号 353 搜寻到民生银行</li><li>然后输入「账户号码」，香港银行之间转账需要在账户号之前加上银行号，所以这里要写 734 加上账户号码，一共 12 位（香港本地電子轉賬需填寫12位賬戶號碼，請在9位賬戶號碼前加上分行號734）</li><li>「账户持有人姓名」，输入账户持有人拼音</li><li>输入转账金额</li><li>然后使用「令牌」完成验证，完成转账</li></ul><p>因为香港卡使用[[FPS 转数快]]进行转账，所以不会产生任何费用。并且实时到账，非常方便。</p><h2 id="民生银行-跨境汇款节省手续费"><a href="#民生银行-跨境汇款节省手续费" class="headerlink" title="民生银行 跨境汇款节省手续费"></a>民生银行 跨境汇款节省手续费</h2><p>[[跨境汇款]] 的手续费主要来自于汇款银行收取的汇款手续费和中间银行收取的清算费用。</p><p>汇款银行收取的手续费又分为手续费和电报费两项。</p><ul><li>手续费与汇款金额有关系，各自银行有各自的收费标准，民生银行是万五，最低收费 25，最高 100 元。</li><li>电报费为固定费用，一般一次 50 元</li></ul><p>中间银行收取的清算费用则比较难以计算，一般直接在汇款金额中直接扣除。当款项达到收款行时已经扣除。</p><p>那么怎么样减少跨境汇款的费用呢，答案就是减少汇款的笔数，提高汇款的金额。一般汇款手续费都有最高限额，在最高限额内尽量增加每次汇款的金额，从而省去每笔汇款的电报费用。</p><p>另外也可以货比三家，选择最优惠的银行办理业务。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这篇文章总结一下民生银行香港卡的激活过程。&lt;/p&gt;
+&lt;h2 id=&quot;民生银行香港卡的优势&quot;&gt;&lt;a href=&quot;#民生银行香港卡的优势&quot; class=&quot;headerlink&quot; title=&quot;民生银行香港卡的优势&quot;&gt;&lt;/a&gt;民生银行香港卡的优势&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;一个民
+      
+    
+    </summary>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/categories/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/tags/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+      <category term="民生银行" scheme="https://invest.einverne.info/tags/%E6%B0%91%E7%94%9F%E9%93%B6%E8%A1%8C/"/>
+    
+      <category term="银证转账" scheme="https://invest.einverne.info/tags/%E9%93%B6%E8%AF%81%E8%BD%AC%E8%B4%A6/"/>
+    
+      <category term="教程" scheme="https://invest.einverne.info/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中信银行（国际）香港卡通过 FPS 入金券商</title>
+    <link href="https://invest.einverne.info/2021/08/07/cncbinternational-fps-futu.html"/>
+    <id>https://invest.einverne.info/2021/08/07/cncbinternational-fps-futu.html</id>
+    <published>2021-08-07T01:30:37.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文简单记录一下使用中信银行（国际）通过 FPS 方式转账到券商，以富途为例，的过程，方便第一次操作的人可以有一个参考。</p><h2 id="FPS-转数快"><a href="#FPS-转数快" class="headerlink" title="FPS 转数快"></a>FPS 转数快</h2><p>FPS转数快是香港金融管理局于2018年9月30日推出的全面连接银行的快速支付系统。</p><p>可以做到：</p><ul><li>跨行即时转账</li><li>无手续费</li><li>365<em>7</em>24 转账</li><li>只需要知道 FPS 转数快识别码、手机号码等等即可方便转账</li></ul><p>[[FPS 转数快]]</p><h2 id="中信银行（国际）使用-FPS-入金富途证券"><a href="#中信银行（国际）使用-FPS-入金富途证券" class="headerlink" title="中信银行（国际）使用 FPS 入金富途证券"></a>中信银行（国际）使用 FPS 入金富途证券</h2><p>本文以富途证券为例，富途提供的 FPS 转数快识别码为：7522014，具体可以参考其官网。</p><p>中信银行国际在使用 FPS 时需要注意：</p><ul><li>FPS 转账虽然可以实时到账但是有 1 万元港币单次的限制</li><li>在中信银行（国际）中设定转账范本需要 24 小时才能生效</li><li>对于一些设置的更改可能会需要使用到手机令牌（这个应该在初次设置账户的时候已经准备好）</li></ul><h2 id="网上银行操作步骤"><a href="#网上银行操作步骤" class="headerlink" title="网上银行操作步骤"></a>网上银行操作步骤</h2><p>登录中信银行（国际）<a href="https://www.cncbinternational.com/home/tc/index.jsp" target="_blank" rel="noopener">官方网站</a>–根据个人的情况选择登录方式，这里以个人理财为例：</p><p><img src="/images/cncbinternational-home-login.png" alt=""></p><p>弹出的页面输入自己的用户名密码</p><p>设置转账金额限制。设置个人转账限额，在菜单栏中依次点击，我的网上设定-设定交易限额-转账/汇款至范本户口-修改-递交）<strong>，同时设置小额转账金额</strong>（我的网上设定-小额转账设定-启动）</p><p><img src="/images/cncbinternational-set-transaction-limit.png" alt=""></p><p>设置交易限额，转账至范本户口至少1万港币</p><p>小额转账金额设置为<strong>启动</strong></p><p><strong>设置转账范本,需要等24小时范本生效</strong>（菜单路径：处理银行账户-我的转账范本-新增范本）</p><p>这里需要用到银信国际令牌，可以在「信银国际」公众号或者官网找到相应的下载链接</p><p>选择新增转账范本</p><ul><li>范本名称：起一个自己能够识别的名字，比如 FUTU HK</li><li>支帐账户：选择自己的港元账户</li><li>入帐账户：对于 FPS 转数快来说，需要选中「手机号/电邮地址/快速支付系统识别码」，然后填写，比如富途的为 7522014</li><li>货币：选择港元</li><li>备注：可以不填，或者根据需要自行填写</li></ul><p>最后选择递交即可，接下来会验证手机信银国际令牌，验证通过之后等待 24 小时范本生效就可以使用了。</p><p>一旦转账范本生效之后，在我的范本中可以看到「转账」字样，点击可以直接使用范本进行转账。点击范本里转账，输入转账的金额直接提交即可，接下来就按照提示操作就完成了。有些券商可能需要到 app 中通知收款，自行前往即可。</p><h2 id="手机应用-inMotion-操作"><a href="#手机应用-inMotion-操作" class="headerlink" title="手机应用 inMotion 操作"></a>手机应用 inMotion 操作</h2><p>从「信银国际」的公众号，或官网下载 inMotion 的中信国际的应用，登录后可以在下方的 Tab 中看到「转账/转数快」。</p><p>点击转账/转数快，然后在页面中点击「已登记收款人」，然后可以和网上应用一样进行转账操作。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文简单记录一下使用中信银行（国际）通过 FPS 方式转账到券商，以富途为例，的过程，方便第一次操作的人可以有一个参考。&lt;/p&gt;
+&lt;h2 id=&quot;FPS-转数快&quot;&gt;&lt;a href=&quot;#FPS-转数快&quot; class=&quot;headerlink&quot; title=&quot;FPS 转数快&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="老虎证券" scheme="https://invest.einverne.info/tags/%E8%80%81%E8%99%8E%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="券商" scheme="https://invest.einverne.info/tags/%E5%88%B8%E5%95%86/"/>
+    
+      <category term="入金" scheme="https://invest.einverne.info/tags/%E5%85%A5%E9%87%91/"/>
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/tags/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+      <category term="中信国际" scheme="https://invest.einverne.info/tags/%E4%B8%AD%E4%BF%A1%E5%9B%BD%E9%99%85/"/>
+    
+      <category term="富途证券" scheme="https://invest.einverne.info/tags/%E5%AF%8C%E9%80%94%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="FPS" scheme="https://invest.einverne.info/tags/FPS/"/>
+    
+      <category term="中信银行国际" scheme="https://invest.einverne.info/tags/%E4%B8%AD%E4%BF%A1%E9%93%B6%E8%A1%8C%E5%9B%BD%E9%99%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过卖出看涨期权止盈</title>
+    <link href="https://invest.einverne.info/2021/08/06/sell-call-option-to-keep-profit.html"/>
+    <id>https://invest.einverne.info/2021/08/06/sell-call-option-to-keep-profit.html</id>
+    <published>2021-08-06T14:07:47.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前写了一篇文章关于 <a href="/2021/08/06/sell-naked-put-to-open-a-position.html">通过卖出看跌期权建仓</a> ，同样可以灵活使用期权的另一个方式是「通过卖出看涨期权止盈」。</p><p>风险警告，和卖出 PUT 一样，任何卖出期权的操作都是高风险的，确定你知道自己在做什么的情况下，再进行操作。</p><p>如果股票上涨到达一定程度，或者上涨以及将要超出心理预期的情况的时候，最普通的做法就是挂出一个卖单，市价单或限价单，通过卖出股票来止盈。</p><p>但是在美股市场中，你还可以用 [[Sell Covered Call|持保看涨期权]] 的方式来在止盈之前继续稳稳地获得收入。</p><p>很多期权方面介绍的书都把这一个策略作为最基本的操作介绍，这也是一个比较好理解的入门策略。</p><h2 id="卖出看涨期权"><a href="#卖出看涨期权" class="headerlink" title="卖出看涨期权"></a>卖出看涨期权</h2><p>和之前一样，首先来简单介绍一下看涨期权，英文为 Call。看涨期权，是指的在未来某个时间，可以以一定的价格，买入某股票的权利。</p><p>那什么叫做 [[Sell Covered Call]] 呢，中文有很多的翻译，有人叫做卖出持保看涨期权，也有人称它为卖出备兑认购期权，不过说的都是这个策略。</p><p>那么[[Sell Call|卖出看涨期权]] 中的卖方，需要在未来某个时间，以一定的价格向期权买方，卖出一定数量的股票。</p><p>如果到这里还不好理解的话，可以举一个简单的例子。</p><p>比如[[老虎证券]] 当前（2021年4月1号）的股价为 17$ ，此时你持有 1000 股，持股的成本为 15$ ，但你心理的预估老虎证券的股价在 20$ 的样子，那么如果你想要在 20$ 的样子卖出股票，就可以卖出一个在 2021年5月2号到期（这里仅仅举一个例子，期权的行权日期一般是按照周或月来划定的，不一定正好是这个日期）并且行权价为 20$ 的 CALL。</p><p>期权的买方可能认为老虎的股价可能在一个月内涨到超过 20$ ，那么他们愿意为这个付出一点钱，购买这个权利（未来 5月2号以20美元的价格买入老虎的股票）。</p><p>而对于期权卖方来说，你认为 20$ 的价格可以卖出了，那么就把这个权利卖出去，先收到一定的权利金，当然权利金不会很多，但是如果每次都卖出去，并且没有被行权的话，一年一年下来也会不少的收益。</p><p>那么到期会发生这些情况：</p><ul><li>股价在 20$ 以下，那么获得最大的收益，就是权利金</li><li>如果股价在 20$ 或 20$ 以上，那么期权的买方，就会行权，你就必须以 20$ 的价格将老虎的股票卖给对方，但此时你依然没有亏损，赚得了股票的涨幅和权利金。</li></ul><h2 id="卖出看涨期权的优势"><a href="#卖出看涨期权的优势" class="headerlink" title="卖出看涨期权的优势"></a>卖出看涨期权的优势</h2><ul><li>提高收益率，采用滚动的方式，周期性的卖出看涨期权，可以以极低的风险，定期地获得一定的权利金，常年下来可以提升收益点数。并且这个策略也经常被大型基金所采用。</li><li>充分利用持有正股的时间收益，在一个震荡的、或温和上涨的股票交易趋势中，可能无法很快的交易卖出股票，那么可能浪费了宝贵的交易时间。</li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>在操作[[Sell Covered Call]]策略的时候，一定需要注意一下几点：</p><ol><li>至少持有 100 股正股，这也是美股一手期权的要求，并且在卖出期权的时候，也要注意，一手期权对应着100股正股，如果搞错可能造成不可估量的损失。并且期权的价格需要在显示的价格上面乘以 100，才是最后一手期权的价格。</li><li>尽量卖出短期的[[Call Option|看涨期权]]，虽然权利金相对少一点，但风险更可控</li><li>关注期权的交易量，一只股票通常有很多的期权，期权的交易量通常比正股要小很多，流动性较差，所以买卖之前一定关注交易量</li><li>关注股价的波动，波动率比较大的股票，一般期权也会比较贵</li><li>如果是着急卖的股票，不适合用这种策略</li></ol><h2 id="策略的风险"><a href="#策略的风险" class="headerlink" title="策略的风险"></a>策略的风险</h2><p>[[Sell Call|卖出看涨期权]] 虽然听起来很稳健，但必须要知道其风险在哪里。</p><h3 id="股价暴跌的风险"><a href="#股价暴跌的风险" class="headerlink" title="股价暴跌的风险"></a>股价暴跌的风险</h3><p>同样和持有正股一样，如果股价下跌，那么虽然可能赚得期权权利金，但是因为持有的正股，可能损失更多。</p><h3 id="股价暴涨而无法享受超出行权价的溢价"><a href="#股价暴涨而无法享受超出行权价的溢价" class="headerlink" title="股价暴涨而无法享受超出行权价的溢价"></a>股价暴涨而无法享受超出行权价的溢价</h3><p>由于卖出了期权，那么股票的收益范围就已经确定了，股价如果突然暴涨，并且大幅度地超过了行权价，那么超过行权价的收益就赚不到了。虽然也可以赚到钱，但可能不太舒服。不过这个时候就需要重新思考、并修正自己的估价方法了。</p><p>但让这个时候，你还可以继续买如 [[Call Option|看涨期权]] 来平仓，但是这个时候的看涨期权就不是当时卖的时候的价格了，可能上涨了很多，同样也会造成一定的损失。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>实践出真知，无论看多少的理论，如果不上手实践一下，无法获得真实的感受，也无法理解。所以不妨从你最熟悉的股票开始研究，并估计好自己的心理预期，既不要在暴跌的时候灰心丧气，也不要在暴涨的时候后悔没有把价格设定高一些。不过很好的是美股提供了很好的交易场所，即使是新手也可以很快的找到适合自己能力的期权范围。</p><p>如果你想试一试，可以使用我的 <a href="https://www-web.itiger.com/activity/forapp/invitation/*Y7Q78-signup.html?invite=Y7Q78&share=Twitter" target="_blank" rel="noopener">老虎邀请</a> 或者 <a href="https://growth1.futunn.com/new-customer-2001/share?code=dd6a6968b53d796963fe5c4261044d77&global_content=%7B%22promote_id%22%3A10025%2C%22sub_promote_id%22%3A9%2C%22promote_type%22%3A1%2C%22promote_content%22%3A%225%22%7D" target="_blank" rel="noopener">富途证券的邀请</a> </p><p>如果有兴趣想知道上面两个证券的区别，我之后也可以再写一篇新文章。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前写了一篇文章关于 &lt;a href=&quot;/2021/08/06/sell-naked-put-to-open-a-position.html&quot;&gt;通过卖出看跌期权建仓&lt;/a&gt; ，同样可以灵活使用期权的另一个方式是「通过卖出看涨期权止盈」。&lt;/p&gt;
+&lt;p&gt;风险警告，和卖出 PU
+      
+    
+    </summary>
+    
+    
+      <category term="交易策略" scheme="https://invest.einverne.info/categories/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/"/>
+    
+    
+      <category term="期权" scheme="https://invest.einverne.info/tags/%E6%9C%9F%E6%9D%83/"/>
+    
+      <category term="看涨期权" scheme="https://invest.einverne.info/tags/%E7%9C%8B%E6%B6%A8%E6%9C%9F%E6%9D%83/"/>
+    
+      <category term="call-option" scheme="https://invest.einverne.info/tags/call-option/"/>
+    
+      <category term="sell-call" scheme="https://invest.einverne.info/tags/sell-call/"/>
+    
+      <category term="sell-covered-call" scheme="https://invest.einverne.info/tags/sell-covered-call/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过卖出看跌期权抄底建仓</title>
+    <link href="https://invest.einverne.info/2021/08/06/sell-naked-put-to-open-a-position.html"/>
+    <id>https://invest.einverne.info/2021/08/06/sell-naked-put-to-open-a-position.html</id>
+    <published>2021-08-06T12:47:34.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>卖出期权（包括看涨或看跌）通常来说是一个风险比较大的操作，因为卖出期权的瞬间，这一笔交易的最大收益就已经固定了，就是权利金收入，但是带来的风险却是无限的。因为卖出期权的同时，就承担了相应的义务。</p><p>但是这一篇文章通过一个全新的视角分析一下如何活用卖出看跌期权（Sell PUT）。</p><h2 id="Sell-Put"><a href="#Sell-Put" class="headerlink" title="Sell Put"></a>Sell Put</h2><p>首先来介绍一下什么叫做 [[Sell Put|卖出看跌期权]] ，有的时候也称为 Short Put，中文翻译为卖出看跌期权。</p><p>我们先来了解一下，什么叫做期权：</p><blockquote><p>期权指的是未来某个时间，以一定的价格，买入或卖出股票的权力。</p></blockquote><p>那什么叫做[[Put Option|看跌期权]]：</p><blockquote><p>看跌期权指的是在未来某一个时间，以一定的价格，卖出某股票的权力。</p></blockquote><p>那么最后再来看一下，什么叫做[[Sell Put|卖出看跌期权]]：</p><blockquote><p>卖出期权，就成为了期权卖方，期权的<strong>卖方</strong>必须在未来某一个时间以特定价格向<strong>期权</strong>买方，买入一定数量的某种商品或者股票。</p></blockquote><p>如果读者先了解过期权相关的知识，这边会比较好理解一些。</p><h2 id="卖出看跌期权的风险"><a href="#卖出看跌期权的风险" class="headerlink" title="卖出看跌期权的风险"></a>卖出看跌期权的风险</h2><p>我们以实际例子来看，比如8月6号 AAPL 苹果的股票价格为 147。</p><p><img src="/images/AAPL-20210806210225-option.png" alt="AAPL-20210806210225-option.png"></p><ul><li>图中文字看涨期权和看跌期权中间的日期是行权日期</li><li>期权链中间是行权价格</li><li>两边则是看涨和看跌期权的成交量，成交金额等等信息</li></ul><p>这里我们重点关注右边的看跌期权 Put，可以看到 Put 有买价和卖价。</p><p>假如我们以 145 的行权价为例，可以看到买价是 3 美元，而卖价挂单是 3.1 美元。</p><p>那么这个时候如果你以 3.1 美元的价格挂出卖单并成交，这个时候你手中就有一手 Sell PUT，并且可以直接获得权利金 310 美元（美股期权一手为 100 股），并且这意味着你需要在 2021 年 9 月 10 号这一天，以 145 美元的价格卖出 AAPL 的100股票。</p><p>那来想一想可能出现的情况：</p><ol><li>情况一，苹果的股票在 9 月 10 号这一天达到了新的历史高点，假设是 200 美元，那么这个时候因为负有以 145 价格买入的义务，但这个时候价格已经超出 145 ，期权的卖方将不会行使自己的权力，期权到期作废，这个时候可以有最大的权利金收益 310 美元</li><li>情况二，苹果的股票在 9 月 10 号这一天，正好在 145 美元，当然这个概率超级小，这个时候假如期权买方行使权利，你就必须从对方手上以 145 美元的价格买入 AAPL 股票</li><li>情况三，假设苹果的股票在 9 月 10 号这一天暴跌至 100 美元，那么这个时候你依然需要以 145 美元的价格去购买 AAPL 的股票，这个时候会形成最大的亏损（145-100)* 100，也就是亏损 4500 美元，这个时候在卖出期权时收益的 310 美元几乎可以不计了。</li></ol><p>所以可以看到，如果股票价格下跌超过期权行权价，那么期权卖方的理论风险是无限的，当然价格不会跌超过0，但卖方承担的风险依然是巨大的。</p><p>但是看跌期权的这种特性，正好可以让我们在大跌的时候，以自己认为的合理的价格买入某些值得投资的股票。下面就简单的介绍一下以卖出看跌期权来建仓的策略。</p><h2 id="大跌之后的建仓策略"><a href="#大跌之后的建仓策略" class="headerlink" title="大跌之后的建仓策略"></a>大跌之后的建仓策略</h2><p>上面提到过，卖出看跌期权的最大风险就是股票无限制的下跌，并跌破行权价，但是判断出一个公司基本面良好，并且没有什么政策风险，对其的估值依然可靠，那么就可以在大跌之后，通过卖出看跌期权来建仓。</p><p>可以想到，一个基本面良好，现金流充沛的公司，在大跌之后的下行空间有限，并且这一段大跌可能是因为大行情原因引起，比如阶段性的贸易战，或疫情等等原因造成。</p><h3 id="两种建仓策略的区别"><a href="#两种建仓策略的区别" class="headerlink" title="两种建仓策略的区别"></a>两种建仓策略的区别</h3><p>而如果面对一只大跌到 150 美元的股票。</p><p>普通人的抄底就是挂一个 150 美元的买单，成本150 美元</p><p>而通过[[Sell Put|卖出看跌期权]]去操作：</p><ul><li>卖出一个行权价为 150 美元的近期看跌期权，可以得到一定的权利金收益，假设是 4 美元，到期被行权后你需要以 150 美元价格买入，成本 146 美元（150-4=146）</li></ul><p>1993 年 4 月，巴菲特想要增持可口可乐公司股票，但这个时候可口可乐公司的股价在 40 美元左右，而他对可口可乐股票的心理价位（估值）是 35美元。于是，他以 1.5 美元的权利金卖出500万份到期日（行权日）为 1993 年 12 月 17 日、行权价为35美元的可口可乐看跌期权（put）。</p><p>到了1993年12月17日(到期日)，会有两种情况：</p><p>如果可口可乐的股价高于35美元，那么期权就是废纸一张，巴菲特可以获得1.5美元×500万份=750万美元的权利金;</p><p>如果可口可乐的股价低于 35 美元，巴菲特就必须按照35美元买入500万股可口可乐股票，扣除之前收取的 1.5 美元权利金，最后巴菲特持有可口可乐股票的实际买入成本为33.5美元/股，低于心理价位。</p><h2 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h2><p>在进行卖出看跌期权建仓的时候有一些需要注意的问题。</p><p>首先要对期权有一定的基本认识，了解到期权实际是对股票波动率的交易，不同的股票因为波动率不相同，可能对期权的价格造成非常大的影响，如果是刚开始进行期权操作，推荐先尝试[[Buy Call|买入看涨期权]]，[[Buy Put|买入看跌期权]] 这样的方式进行。对其原理比较熟悉之后，再尝试卖出看跌期权建仓这样的操作。</p><h3 id="行权日期选择"><a href="#行权日期选择" class="headerlink" title="行权日期选择"></a>行权日期选择</h3><p>关于行权日期的选择有几个小技巧，在卖出看跌期权建仓的时候，最好不要选择远期的期权，受波动的影响，远期的期权会比近期的期权要贵很多，但是带来的波动性也不可预期，假如想快速建仓可以选择时间较近的期权进行交易。</p><p>同一个标的，同一个日期，看跌期权（put）的行权价越低，权利金也越低。千万不要为了贪图权利金的多少而进行危险的操作。</p><h3 id="行权价格选择"><a href="#行权价格选择" class="headerlink" title="行权价格选择"></a>行权价格选择</h3><p>同样假如想要达到建仓的目的，行权价的选择也是一个需要思考的地方，在对标的进行自己的估值分析之后，对其形成一个初步的判断，如果估值在当前价格之下，那么可以设定一个估值上下的价格作为行权价。</p><p>这里再补充一下期权价格和波动率之间的关系。波动率大的股票，对应的期权价格就高。波动大意味着被行权的概率也大。这对买方有利，因此要付出的成本就越高。</p><h2 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h2><p>当然通过[[Sell Put|卖出看跌期权]]建仓的方式也不是完美的，上面反复提过的问题，假如股票暴跌跌破了行权价，那么带来的风险是巨大的。</p><p>另外一个存在的问题便是，假如行权价定得太低，并且股价一路上涨，那可能不会被行权，虽然这个时候可以稳稳地拿到权利金，但也错过了股价的好行情。并且可能再没有机会能够买入正股。当然如果熟悉[[Call Option|看涨期权]]，可以花一些权利金来弥补这个问题。</p><h2 id="持有-Sell-Put-中的操作"><a href="#持有-Sell-Put-中的操作" class="headerlink" title="持有 Sell Put 中的操作"></a>持有 Sell Put 中的操作</h2><p>如果卖出看跌期权后，股价跌破了行权价，这个时候有这样几个选择：</p><ul><li>如果对股价有一定的把控，那么可以等待到期被行权，但这个时候面临股价继续下跌的风险</li><li>如果观察市场形势不行，在距离行权日有一定间隔的情况下可以买入期权平仓</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>最后再进行一次提醒，卖出期权的操作风险是巨大的，尤其是在不持有正股的情况下裸卖出期权。并且券商会在卖出期权的时对账户的资金有一定的保证金要求，并且如果在卖出看跌期权的时候没有对应的保证金，可能会被平仓，这个风险一定要提前了解清楚。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;卖出期权（包括看涨或看跌）通常来说是一个风险比较大的操作，因为卖出期权的瞬间，这一笔交易的最大收益就已经固定了，就是权利金收入，但是带来的风险却是无限的。因为卖出期权的同时，就承担了相应的义务。&lt;/p&gt;
+&lt;p&gt;但是这一篇文章通过一个全新的视角分析一下如何活用卖出看跌期权（S
+      
+    
+    </summary>
+    
+    
+      <category term="交易策略" scheme="https://invest.einverne.info/categories/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/"/>
+    
+    
+      <category term="option" scheme="https://invest.einverne.info/tags/option/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>汇丰银行转账汇款到汇丰香港</title>
+    <link href="https://invest.einverne.info/2021/07/20/hsbc-transfer-to-hongkong.html"/>
+    <id>https://invest.einverne.info/2021/07/20/hsbc-transfer-to-hongkong.html</id>
+    <published>2021-07-20T13:06:19.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>整理一下从汇丰银行国内转账到汇丰银行香港的过程。</p><h2 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h2><p>总所周知的原因，国内受到外汇管制，所以人民币不能直接汇款出境。</p><p>首先先简单的总结一下，主要分成如下几步：</p><ul><li>汇丰中国，购汇</li><li>汇款</li><li>汇丰香港应用操作</li></ul><h3 id="购汇"><a href="#购汇" class="headerlink" title="购汇"></a>购汇</h3><p>使用汇丰中国App，登录之后在页面选择「外汇服务」，通过购汇将人民币转成港币。</p><p><img src="/images/hsbc-app-transfer-service.png" alt=""></p><p>需要注意的是<strong>购结汇时间</strong>是工作日 9:30 到下午 6:00。汇丰中国目前支持9种外汇币种：美元USD，港币HKD，日元JPY，欧元EUR，英镑GBP，加拿大元CAD，澳大利亚元AUD，新西兰元NZD，新加坡元SGD。</p><p>使用人民币换外币，直接购汇。需要注意的是根据中国外汇局的规定，每人每年只有 50,000 美元的购汇额度。</p><p>然后点击页面中的申请购汇：</p><ul><li>阅读个人购汇申请书具体内容，点击下一步</li><li>选择转出账户，转入账户选择「多种外币现汇储蓄账户」</li><li>预计用汇时间：根据自己的情况选择</li><li>购汇资金用途：因私旅游</li><li>目的地/留学/对方国家或地区：选择香港</li><li>旅行方式：自由行</li></ul><p>然后会有界面显示实时的外汇汇率，确认即可。</p><h3 id="转账到香港卡"><a href="#转账到香港卡" class="headerlink" title="转账到香港卡"></a>转账到香港卡</h3><p>汇丰中国 APP 登录，在菜单中点击「汇丰环球转账」，然后点击「环球转账同名速汇」。</p><ul><li>转出账户</li><li>转入账户 [[港元往来账户和港元储蓄账户]]</li><li>转账金额</li><li>交易编码、原因</li><li>日期，选择即时</li><li>勾选两个条件</li></ul><p>生成安全编码</p><p>长按绿色按键 2 秒，然后输入密码器开机密码，等待屏幕出现 HSBC 时，按下绿色按键获取 6 位数字密码。</p><p>转账过程中需要在转出账户留有一点余额，去补足手续费。如果是卓越及以上的客户则是免费的。[[汇丰银行手续费]]</p><h3 id="现汇与现钞储蓄账户区别"><a href="#现汇与现钞储蓄账户区别" class="headerlink" title="现汇与现钞储蓄账户区别"></a>现汇与现钞储蓄账户区别</h3><p>在汇丰的账户体系中会存在多种账户：</p><ul><li>多种外币现汇储蓄账户（港币）</li><li>多种外币现汇储蓄账户（美元）</li><li>多种外币现钞储蓄账户（港币）</li><li>多种外币现钞储蓄账户（美元）</li><li>如果开通了其他币种会有其他币种存在</li></ul><p>在外汇体系中，「现汇」指的是可以在国际金融市场上自由买卖，可以在国际上偿付，并且可以自由兑换成其他国家货币的外汇。</p><p>而现钞指的是外币现金或以外币现金存入银行的款项。</p><p>所以如果在上面的转入账户中，可以选择「多种外币现汇储蓄账户」。</p><h3 id="HKD-Current-和-HKD-Savings-账户区别"><a href="#HKD-Current-和-HKD-Savings-账户区别" class="headerlink" title="HKD Current 和 HKD Savings 账户区别"></a>HKD Current 和 HKD Savings 账户区别</h3><p>Current 账户的目的是日常交易账户，账户内存款不产生利息。</p><p>Saving 账户在于帮助储蓄，提供存款利息，但是限制支出次数。</p><h2 id="其他情况"><a href="#其他情况" class="headerlink" title="其他情况"></a>其他情况</h2><h3 id="转账失败"><a href="#转账失败" class="headerlink" title="转账失败"></a>转账失败</h3><p>如果遇到转账失败，提示如下的错误：</p><blockquote><p>Application is temporarily unavailable, please try again later. （参考编号：1000）</p></blockquote><p>如果出现错误编码 1000，则表示需要通过密码器重新登录一下应用之后再进行转账操作。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;整理一下从汇丰银行国内转账到汇丰银行香港的过程。&lt;/p&gt;
+&lt;h2 id=&quot;流程&quot;&gt;&lt;a href=&quot;#流程&quot; class=&quot;headerlink&quot; title=&quot;流程&quot;&gt;&lt;/a&gt;流程&lt;/h2&gt;&lt;p&gt;总所周知的原因，国内受到外汇管制，所以人民币不能直接汇款出境。&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/categories/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/tags/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+      <category term="汇丰银行" scheme="https://invest.einverne.info/tags/%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>盈透证券取消每月账户闲置费用</title>
+    <link href="https://invest.einverne.info/2021/07/05/interactive-brokers-eliminate-our-monthly-inactivity-fee.html"/>
+    <id>https://invest.einverne.info/2021/07/05/interactive-brokers-eliminate-our-monthly-inactivity-fee.html</id>
+    <published>2021-07-05T00:58:42.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>[[Interactive Brokers]] 是美国的宜家券商，我在看完了[[算法帝国]] 后深深佩服其创始人 [[Thomas Peterffy]]，早些年通过[[期权]]的电子化交易拿到了人生的第一桶金，然后在 1977 年创建了 Interactive Brokers （盈透证券），在过去的几十年间，盈透证券逐渐发展成为了全球规模最大的综合股本资产的证券公司，在全球 80 多个市场都可以进行股票交易，交易的产品丰富，包括了股票、期权、期货、外汇、债券、基金等等。</p><p>盈透证券总部在美国康涅狄格州的格林威治，在全球多地都设有分部。盈透证券受SEC（美国证券交易监督委员会）、FINRA（金融行业规范权威）、NYSE（纽约股票交易所）、FCA（英国金融服务局）和世界其他监管机构的监管。它同时也是美股上市公司，市值200多亿美元，代码：IBKR。</p><h2 id="盈透证券的优势"><a href="#盈透证券的优势" class="headerlink" title="盈透证券的优势"></a>盈透证券的优势</h2><p>在对比多家券商之后，盈透证券唯一的一个劣势便是其每个月 10 美元的账户管理费用，如果资金量不是很大的话，一般都不会推荐盈透证券，因为以前的 10 美元账户管理费用只能通过下面两种方式免除：</p><ul><li>每月交易手续费超过 10 美元</li><li>资金量大于 10000 美元</li></ul><p>而如果不是进行频繁的操作的新手，可能很难达到，这样就会产生每年 120 美元的费用。</p><p>而这两天刚刚收到盈透证券的一封邮件，说已经取消了每个月的账户闲置费用。那么就正好把这唯一的缺点都弥补了。</p><blockquote><p>尊敬的客户：<br>许多客户账户或是交易活跃或是资产充足，我们现决定取消月账户闲置收费，您可放心持有IBKR账户，再无任何后顾之忧。<br>自2021年7月1日起，即使没有达到最低资产要求或维持交易活动，您账户UXXXX也无需再缴纳10美元的闲置费。这一调整将体现在您2021年8月的账户报表中。<br>我们取消账户闲置费的决定符合行业标准，印证了我们致力于为客户提供<a href="https://www.interactivebrokers.com/cn/index.php?f=2359" target="_blank" rel="noopener">低成本交易解决方案</a>的承诺。</p></blockquote><h2 id="盈透证券不免手续费"><a href="#盈透证券不免手续费" class="headerlink" title="盈透证券不免手续费"></a>盈透证券不免手续费</h2><p>不过需要注意的是盈透证券不会免除交易的手续费，盈透证券不像 [[Firstrade]]、[[TD Ameritrade]] 那样免除交易的手续费，但是盈透证券提供的交易手续费是相对便宜的，可以自行到官网查看。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li>[[Interactive Brokers|IB]]</li><li>[[IB 手续费]]</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[[Interactive Brokers]] 是美国的宜家券商，我在看完了[[算法帝国]] 后深深佩服其创始人 [[Thomas Peterffy]]，早些年通过[[期权]]的电子化交易拿到了人生的第一桶金，然后在 1977 年创建了 Interactive Broker
+      
+    
+    </summary>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/categories/%E5%88%B8%E5%95%86/"/>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/tags/%E5%88%B8%E5%95%86/"/>
+    
+      <category term="brokers" scheme="https://invest.einverne.info/tags/brokers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老虎证券环球账户和综合账户的区别</title>
+    <link href="https://invest.einverne.info/2021/06/26/itiger-broker-account-different.html"/>
+    <id>https://invest.einverne.info/2021/06/26/itiger-broker-account-different.html</id>
+    <published>2021-06-26T11:46:18.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>[[老虎证券]]成立于2014年，是一家专注美股的互联网券商。</p><p>因为创始人和其团队基本上是国内的，所以在用户交互体验和操作习惯方面更加符合国内人的使用。</p><p>老虎证券的背后其实是直接使用的 [[Interactive Brokers|盈透证券]]，同样盈透证券也投资了老虎证券。</p><p>虽然老虎证券提供了非常方便的开户方式，但是其应用内提供了两种类型的账号，一个叫做环球账户，一个叫做综合账户，我简单的搜寻之后发现只有环球账户是盈透的[[全披露经纪商]]。</p><h2 id="账号实体不一样"><a href="#账号实体不一样" class="headerlink" title="账号实体不一样"></a>账号实体不一样</h2><p>[[老虎证券]] 旗下有两种账户，一种是和美国[[Interactive Brokers|盈透证券]]合作的环球账户，实际是盈透的[[全披露经纪商]]，另外一种就是老虎自己搞的综合账户。</p><table><thead><tr><th></th><th>环球账户</th><th>标准账户</th><th>备注</th></tr></thead><tbody><tr><td>开户周期</td><td>1-3 交易日</td><td>1-3 交易日</td><td></td></tr><tr><td>入金门槛</td><td>0 门槛</td><td>0 门槛</td><td></td></tr><tr><td>交易品种</td><td>美股、美股 ETF、美股期权、港股、港股涡轮、牛熊证、英股</td><td>美股正股、港股、美股 ETF、期权、期货</td><td>标准账户期权开仓条件：总资产 &gt;= 5000美元、期货需要总资产 &gt;= 2000 美元</td></tr><tr><td>融资</td><td>日内最高 4 倍，隔夜 2 倍</td><td>日内最高 2.5 倍，隔夜 2 倍</td><td>个股下单页面中会显示融资可操作的内容</td></tr><tr><td>融券</td><td>日内最高 3 倍，隔夜 2 倍</td><td>仅支持美股标普 500 中的 400 多只</td><td></td></tr><tr><td>订单类型</td><td>市价单，限价单，止损单，止损限价单，跟踪止损单，附加订单</td><td>市价单，限价单</td><td></td></tr><tr><td>佣金</td><td>无差异</td><td></td><td></td></tr><tr><td>日内交易（T+0)</td><td>总资产 25000 USD 以上 T+0 无限制，低于 25000 以下连续5个交易日三次 T+0</td><td>无限制</td><td></td></tr></tbody></table><h2 id="入金账号不同"><a href="#入金账号不同" class="headerlink" title="入金账号不同"></a>入金账号不同</h2><p>老虎的环球和综合两种账户的入金账户也是不同的。环球账户是盈透底层券商，环球账户入的是盈透美国的账户，户名也是盈透，转账附言需要写上开户人名字和账号。</p><p>综合账户入金的托管银行是新加坡的 DBS，账户名可以是证券开户人的名字加上老虎的英文，转账附言里还需要标明开户人的名字和账号。资金不是入的盈透券商的账户。 </p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>开环球账户，[[Interactive Brokers|盈透证券]]对资金更有保障。</p><p>开通环球账户后，还可以联系老虎的客服索要盈透证券的账号名及密码。</p><p>如果你想开通老虎证券的户口，可以<a href="https://www-web.itiger.com/activity/forapp/invitation/*Y7Q78-signup.html?invite=Y7Q78&share=Twitter" target="_blank" rel="noopener">点击这里</a>。或者如果你是百度，小米，网易，理想，腾讯，京东等等企业的员工可以<a href="https://www-web.itiger.com/activity/forapp/corporate-benefits/$Y7Q78-index.html?account_display=global&lang=zh_CN&skin=1&edition=full&invite=Y7Q78&share=Twitter#/auth" target="_blank" rel="noopener">开户并认证</a> 享受更多的开户优惠，以及股票赠送。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[[老虎证券]]成立于2014年，是一家专注美股的互联网券商。&lt;/p&gt;
+&lt;p&gt;因为创始人和其团队基本上是国内的，所以在用户交互体验和操作习惯方面更加符合国内人的使用。&lt;/p&gt;
+&lt;p&gt;老虎证券的背后其实是直接使用的 [[Interactive Brokers|盈透证券]]，同
+      
+    
+    </summary>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/categories/%E5%88%B8%E5%95%86/"/>
+    
+    
+      <category term="老虎证券" scheme="https://invest.einverne.info/tags/%E8%80%81%E8%99%8E%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="券商" scheme="https://invest.einverne.info/tags/%E5%88%B8%E5%95%86/"/>
+    
+      <category term="盈透证券" scheme="https://invest.einverne.info/tags/%E7%9B%88%E9%80%8F%E8%AF%81%E5%88%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TD Ameritrade 开户及介绍</title>
+    <link href="https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html"/>
+    <id>https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html</id>
+    <published>2021-06-03T12:58:12.000Z</published>
+    <updated>2022-07-21T06:21:44.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>TD Ameritrade（德美利证券）是一家美国上市的券商，股票代码是 AMTD（后简称TD）。在外国的券商评级中常年处于前列。TD Ameritrade 诞生于 1975 年，创始人 Joe Ricketts（乔·里基茨）在美国内布拉斯加州奥马哈创建了公司。</p><p>2009年1月，TD Ameritrade 以 6.06 亿美金的价格收购了另一家上市的网上证券交易商 Thinkorswim (原NASDAQ:SWIM)。</p><p>TD 提供了强大的 thinkorswim 桌面平台和移动端的应用可以用来进行股票、期权和期货的交易。</p><p>下面是 thinkorswim 模拟账户网页版的样子。 </p><p><img src="/images/td-ameritrade-thinkorswim-web.png" alt="td-ameritrade-thinkorswim-web"></p><p>其他桌面版或手机端的应用可以查看官网。</p><h2 id="开户过程"><a href="#开户过程" class="headerlink" title="开户过程"></a>开户过程</h2><p>开户之前提前准备好自己的基本信息，包括住址、就业信息、身份证或护照号，以及地址证明。</p><ul><li>国内 <a href="https://ola.tdameritrade.com/" target="_blank" rel="noopener">https://ola.tdameritrade.com/</a></li><li>在国外<a href="https://invest.tdameritrade.com/grid/p/accountApplication#" target="_blank" rel="noopener">https://invest.tdameritrade.com/grid/p/accountApplication#</a></li></ul><p>如实填写注册信息即可，主要的过程分为下面几大部分，官方的页面可能会随着时间有调整，如实的填写即可。</p><h3 id="国籍状况"><a href="#国籍状况" class="headerlink" title="国籍状况"></a>国籍状况</h3><p>如实填写，大多数情况选「不是美国公民」，但如果人在美国，有工作或学生签证常居美国的，那就选第二个，选择「美国永久居民」的话后面会要求填写 SSN。</p><p><img src="/images/td-ameritrade-register-nation.png" alt="td-ameritrade-register-nation.png"></p><h3 id="账户类型"><a href="#账户类型" class="headerlink" title="账户类型"></a>账户类型</h3><p>一般选择个人账户，然后「投资新手」选否。</p><p><img src="/images/td-ameritrade-account-type.png" alt="td-ameritrade-account-type.png"></p><h3 id="融资融券账户"><a href="#融资融券账户" class="headerlink" title="融资融券账户"></a>融资融券账户</h3><p>在下面的账户类型中，可以选择「高级融资融券交易」，这样就可以把期权的交易权限都开了。</p><p><img src="/images/td-ameritrade-margin-account.png" alt="td-ameritrade-margin-account"></p><h3 id="地址和就业状况"><a href="#地址和就业状况" class="headerlink" title="地址和就业状况"></a>地址和就业状况</h3><p>所有需要填写地址的地方一定要使用英文。常用的英文地址书写方式：</p><ul><li>号 No.</li><li>室、房间，使用 Room</li><li>单元 Unit</li><li>栋、Building</li><li>街道 Street</li><li>区 District</li></ul><p>北京市海淀区香山路某某小区6栋7单元附202，就是 Room 202, Unit 7, Building 6, MouMou, Xiangshan Road, Haidian District, Beijing</p><p>就业状况最好如实填写，如果不想透露也可以写自雇（Self Employed），企业名称同样也可以写 Self Employed。</p><h3 id="护照或者身份证号码"><a href="#护照或者身份证号码" class="headerlink" title="护照或者身份证号码"></a>护照或者身份证号码</h3><p>填写身份证号（或者护照号），名字也要写成英文的。</p><h3 id="密码提示和信息渠道"><a href="#密码提示和信息渠道" class="headerlink" title="密码提示和信息渠道"></a>密码提示和信息渠道</h3><p>密码提示同样要写成英文的</p><p>安全提示问题，和提示答案也填写成英文的，最好用相关的应用保存下来，我个人使用 Bitwarden 记录。</p><h3 id="交易经验和资产收入"><a href="#交易经验和资产收入" class="headerlink" title="交易经验和资产收入"></a>交易经验和资产收入</h3><p>交易经验和收入尽量填高一些，股票 [[ETF 基金|ETF]] 的交易经验最好都6年以上，期权交易策略也都全部选上，不然无法开通「高级融资账户」</p><h3 id="通知偏好"><a href="#通知偏好" class="headerlink" title="通知偏好"></a>通知偏好</h3><p>这里选择电子的。</p><h3 id="用户协议"><a href="#用户协议" class="headerlink" title="用户协议"></a>用户协议</h3><p>散户这里一路选否就行，后面应该选”我是一个非专业人士”</p><p><img src="/images/td-ameritrade-license.png" alt="td-ameritrade-license"></p><h3 id="W8表格"><a href="#W8表格" class="headerlink" title="W8表格"></a>W8表格</h3><p>表格中内容如实填写即可，不过需要注意的是，地址需要和之前填写的保持一直，以及之后需要提交的住址证明也需要保持一致。</p><p>表格中遇到如下的问题，按照如下填写：  </p><ul><li>上述人士是否为填写本表格之人？选是</li><li>账户持有人无美国纳税人识别号，非美国居民就勾上</li><li>账户持有人是否根据美国与其他国家之间的税收协定要求降低扣缴率？选否</li></ul><h3 id="证明文件"><a href="#证明文件" class="headerlink" title="证明文件"></a>证明文件</h3><p>证明文件这里需要提供两类证明：</p><ul><li>身份证明</li><li>地址证明</li></ul><p>身份证明比较好弄，身份证复印件即可，但是地址证明，对于中国大陆的居民需要提供如下之一：</p><ul><li>天然气账单</li><li>电费账单</li><li>水费账单</li><li>银行或经纪账户月结单</li><li>户籍管理部门盖章认证的户口本复印件，含户口本首页和本人信息页</li><li>社区居委会盖章的地址证明</li><li>有效的驾照</li><li>居民身份证正反面</li><li>任职公司出具的地址证明</li><li>银行出具的客户信息单（必须由银行抬头以及签名或盖章）</li></ul><p>这个提前准备好即可。</p><p><img src="/images/td-ameritrade-address-prove.png" alt="td-ameritrade-address-prove"></p><p>TD Ameritrade 提交了开户申请之后不会立即就能开通账户，现在 TD 的申请人数很多，会等待非常长的一段时间，所以提交申请之后就慢慢等待邮件通知即可，如果有材料不对或不准确在审核到的时候会有人员来通知，再次提交即可。</p><h2 id="存款入金"><a href="#存款入金" class="headerlink" title="存款入金"></a>存款入金</h2><p>TD Ameritrade 提供了很多存款方式：</p><ul><li>[[ACH|自动结算公司网络]]</li><li>电汇</li><li>支票存入</li><li>从另一家券商转入</li><li>实质股票凭证存入</li></ul><p><img src="/images/td-ameritrade-deposit.png" alt="td-ameritrade-deposit"></p><p>如果有美国本土银行就可以使用 ACH，如果没有美国银行，只能使用电汇转账。详细的提示在开户之后都有。</p><h2 id="提款"><a href="#提款" class="headerlink" title="提款"></a>提款</h2><p>TD Ameritrade 也提供了多样的提款方式：</p><ul><li>[[ACH|自动结算公司网络]]</li><li>电汇</li><li>支票提额</li></ul><p><img src="/images/td-ameritrade-withdraw.png" alt="td-ameritrade-withdraw"></p><h2 id="TD-Ameritrade-的优势"><a href="#TD-Ameritrade-的优势" class="headerlink" title="TD Ameritrade 的优势"></a>TD Ameritrade 的优势</h2><ul><li>TD Ameritrade 交易无需手续费</li><li>有强大的 thinkorswim 交易平台</li><li>开户之后在其网页上有分析师报告可以免费查看</li></ul><h2 id="TD-Ameritrade-的劣势"><a href="#TD-Ameritrade-的劣势" class="headerlink" title="TD Ameritrade 的劣势"></a>TD Ameritrade 的劣势</h2><ul><li>相较于[[老虎证券]]、[[富途证券]]这一类国内创业团队的交易客户端，TD Ameritrade 提供的 thinkorswim 有一定的学习成本</li><li>TD Ameritrade 的入金方式对持有美国银行卡的人比较有利，ACH 注资不需要手续费，但是通过电汇方式，中转行会收取一定的手续费。</li></ul><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://www.tdameritrade.com/zh_CN/funding-and-transfers.page" target="_blank" rel="noopener">https://www.tdameritrade.com/zh_CN/funding-and-transfers.page</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;TD Ameritrade（德美利证券）是一家美国上市的券商，股票代码是 AMTD（后简称TD）。在外国的券商评级中常年处于前列。TD Ameritrade 诞生于 1975 年，创始人 Joe Ricketts（乔·里基茨）在美国内布拉斯加州奥马哈创建了公司。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/categories/%E5%88%B8%E5%95%86/"/>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/tags/%E5%88%B8%E5%95%86/"/>
+    
+      <category term="TD Ameritrade" scheme="https://invest.einverne.info/tags/TD-Ameritrade/"/>
+    
+      <category term="德美利证券" scheme="https://invest.einverne.info/tags/%E5%BE%B7%E7%BE%8E%E5%88%A9%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="美股券商" scheme="https://invest.einverne.info/tags/%E7%BE%8E%E8%82%A1%E5%88%B8%E5%95%86/"/>
+    
+      <category term="免佣金券商" scheme="https://invest.einverne.info/tags/%E5%85%8D%E4%BD%A3%E9%87%91%E5%88%B8%E5%95%86/"/>
+    
+      <category term="开户" scheme="https://invest.einverne.info/tags/%E5%BC%80%E6%88%B7/"/>
+    
+      <category term="入金" scheme="https://invest.einverne.info/tags/%E5%85%A5%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美股期权学习笔记</title>
+    <link href="https://invest.einverne.info/2020/03/15/option-learning-notes-1.html"/>
+    <id>https://invest.einverne.info/2020/03/15/option-learning-notes-1.html</id>
+    <published>2020-03-15T14:41:43.000Z</published>
+    <updated>2022-07-21T06:21:44.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>《麦克米伦谈期权》，以下是一些总结。</p><h2 id="什么是期权"><a href="#什么是期权" class="headerlink" title="什么是期权"></a>什么是期权</h2><p>期权是以特定价格买入或者卖出特定标的物的权利，该权利在特定时间内有效。</p><p>期权有几个关键的概念：</p><ul><li>过期时间（expiration date），到了时间就过期。有期权的一方可以在到期前选择执行期权或放弃执行。</li><li>行权价（strike price），买卖双方按行权价执行。</li><li>权利金（premium），也就是期权的现金价值。期权的现金价值会随着时间以及股价波动。</li><li>类型。分为买入权利（CALL）和卖出权利（PUT）。CALL 又被称为看涨期权，PUT 被称为看跌期权。</li><li>标的物。指目标期权。</li></ul><p>期权在美股上按手交易，每手代表 100 份标的。据说历史上有人把 1 手当成 1 股，结果就是多买了 100 倍的期权。</p><h2 id="行权时间"><a href="#行权时间" class="headerlink" title="行权时间"></a>行权时间</h2><p>美式期权和欧式期权不一样，美式期权可以在到期前的任意时间随时行权，欧式期权只能在到期时行权。美股上交易的股票期权都是美式期权。大部分的指数期权是欧式期权。</p><p>所以，对于美式期权，如果你通过卖 CALL 或者卖 PUT 做空一个期权，即使最终到了过期时间你的期权收益为正，但是有可能在中段波动的时候，你的期权在某一个时间点是亏损的，只要你的对手方提前行权了，你的这个亏损就被确定了。</p><p><img src="/images/tws-1.jpg" alt=""><br><img src="/images/tws-2.jpg" alt=""></p><h2 id="期权拥有方到期的默认操作"><a href="#期权拥有方到期的默认操作" class="headerlink" title="期权拥有方到期的默认操作"></a>期权拥有方到期的默认操作</h2><p>期权拥有方按理说在到期时有行权和不行权的权利，那么如果不进行任何操作，默认的操作是行权还是不行权呢？美股的规则如下：</p><ul><li>到期日，期权在价内 0.01 或以上的股票期权将被自动行权，但是当投资者的保证金不满足行权条件时则会按照市场价平仓。</li><li>到期日，价格已低于 0.01 且投资者不主动行权或者平仓。这时候期权会自动失效，您的损失为全部期权费；一般情况下，这时候如果主动行权损失会更多。</li></ul><h2 id="实值期权与虚值期权"><a href="#实值期权与虚值期权" class="headerlink" title="实值期权与虚值期权"></a>实值期权与虚值期权</h2><p>如果行权价低于股票的价格，则我们称这个期权是有实值的，是实值期权，反之则称为虚值期权。</p><p>虚值期权之所以有交易，是因为它们具有时间价值，随着时间的变化，股价也会变动，有可能当时还是虚值的期权，未来就是实值了。</p><p>如果到了期权的到期时间，期权还是一个虚值期权，则它的价值就会归为 0。比如一个以 30 元买入的看涨期权，如果到期时股票价格是 20 元，那么期权所有者肯定不会行权，因为行权的价格比从市场上直接买还贵，这个期权就相当于废纸。</p><h2 id="盈亏曲线"><a href="#盈亏曲线" class="headerlink" title="盈亏曲线"></a>盈亏曲线</h2><p>我们假设某家公司的股价是 50 元，然后可以画出不同期权的盈亏曲线。不得不说，画这些图还挺有意思的，笔者用 keynote 完成的所有图的绘制。</p><h3 id="买入看涨期权"><a href="#买入看涨期权" class="headerlink" title="买入看涨期权"></a>买入看涨期权</h3><p>买入行权价 52 元的看涨期权的价格是 2 元，则盈亏曲线如下：</p><img src="/images/buy-call.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价低于 52 元时，损失为 200 元（1手期权的价格）</li><li>当股价等于 54 元时，刚好盈亏平衡</li><li>当股价高于 54 元时，有盈利</li><li>买入看涨期权，最大损失为 200 元，最大盈利无上限</li></ul><h3 id="卖出看涨期权"><a href="#卖出看涨期权" class="headerlink" title="卖出看涨期权"></a>卖出看涨期权</h3><p>卖出看涨期权的盈亏曲线和买入的刚好上下对称，因为两者互为对手盘，期权交易是零和游戏。你盈多少，对手就亏多少，所以盈亏曲线如下：</p><img src="/images/sell-call.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价低于 52 元时，盈利为 200 元（1手期权的价格）</li><li>当股价等于 54 元时，刚好盈亏平衡</li><li>当股价高于 54 元时，有亏损</li><li>卖出看涨期权，最大收益为 200 元，最大亏损无上限</li></ul><h3 id="买入看空期权"><a href="#买入看空期权" class="headerlink" title="买入看空期权"></a>买入看空期权</h3><p>如果我们买入一个 48 元的期权，期权价格是 2 元，则盈亏曲线如下：</p><img src="/images/buy-put.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价高于 48 元，则亏损为 200 元（1手期权的价格）</li><li>当股价等于 46 元，刚好盈亏平衡</li><li>当股价低于 46 元，则有盈利。理论上，最高盈利是 4600 元，对应股价是 0 元。</li></ul><h3 id="卖出看空期权"><a href="#卖出看空期权" class="headerlink" title="卖出看空期权"></a>卖出看空期权</h3><p>同样，卖出看跌期权的盈亏曲线和买入的刚好上下对称，因为两者互为对手盘。盈亏曲线如下：</p><img src="/images/sell-put.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价高于 48 元，则盈利为 200 元（1手期权的价格）</li><li>当股价等于 46 元，刚好盈亏平衡</li><li>当股价低于 46 元，则有亏损。理论上，最高亏损是 4600 元，对应股价是 0 元。</li></ul><h2 id="保证金"><a href="#保证金" class="headerlink" title="保证金"></a>保证金</h2><p>当你买 CALL 或者买 PUT ，你付出的就是权利金，损失是有限的，最坏情况下就是期权价值变为 0，损失掉所有的权利金。但是你的理论收益是无穷的。</p><p>当你卖 CALL 或者卖 PUT，你就会收到权利金，但是你的收益上限就是权利金。当你的对手方行权的时候，你需要执行相应的义务：</p><ul><li>对于 CALL 期权，你需要按指定价格卖出标的股票</li><li>对于 PUT 期权，你需要按指定价格买入标的股票</li></ul><p>为了保证你有行使这个义务的能力，你需要在帐户中保留足够的保证金。保证金的计算规则比较复杂，与你的期权仓位占比以及期权集中性都有关系，在盈透证券的<a href="https://www.interactivebrokers.com.hk/cn/index.php?f=27149" target="_blank" rel="noopener">帮助页面</a>上有详细的介绍。</p><p>如果你的证券价值和现金加起来的保证金不足，则系统会随机平仓你的一部分股票以维持保证金要求。</p><h2 id="期权的组合（一）"><a href="#期权的组合（一）" class="headerlink" title="期权的组合（一）"></a>期权的组合（一）</h2><p>期权组合起来，可以构建一些特殊的盈利曲线。比如我们同时卖出看涨和看跌期权，就可以将以下两种曲线叠加。《麦克米伦谈期权》在 2.5.5 小结中介绍了这种被称为跨式期权的组合。</p><p>下图中的红色和蓝色分别为卖出看跌和卖出看涨的盈亏曲线，而黄色则表示叠加之后的组合盈亏曲线。</p><img src="/images/sell-buy-put.jpg" class=""><p>这个曲线很有意思，它表示不管股票是上涨还是下跌，只要股价到期时的波动范围在 44 ~ 52 元之间，这个组合就是盈利的。</p><p>想当然的，你可以构建一个波动范围极宽的跨式组合期权，虽然这种组合期权盈利不多，但是盈利的概率极大。历史上曾经这种策略很流行，但是市场总是会出现小概率事件，这种跨式期权收益有上限，但是亏损无限的特点，遇上一次极端事件就能让投资者破产。</p><h2 id="期权的组合（二）"><a href="#期权的组合（二）" class="headerlink" title="期权的组合（二）"></a>期权的组合（二）</h2><p>相比刚刚介绍的那种组合，以下的期权组合更被做市商所采用，即：买入看涨期权 + 卖出看跌期权。</p><p>你看完下图就能明白这个组合的有趣之处了：</p><img src="/images/buy-call-sell-put.jpg" class=""><p>这种组合的收益曲线和直接买入股票是完全一样的。但是在这种组合下，你所需要的资金只是买入股票的一部分，所以你可以以更小的资金成本，达到同样的收益曲线。</p><p>实际当中，这种策略与买入股票并不是完全一样收益，因为股票还会涉及分红，而持有期权是没有分红权的。另外则是交易费率和交易次数的差异。</p><h2 id="组合套利"><a href="#组合套利" class="headerlink" title="组合套利"></a>组合套利</h2><p>因为买卖价差的原因，有些时候做市商会通过组合，构建一个收益为正，但是风险为零的套利。</p><p>刚刚说到<code>期权的组合（二）</code>就是一种持有股票的策略，如果我们用<code>期权组合（二）</code>再加上<code>卖空股票</code>，就构建出一种组合。由于买卖价差的原因，这种组合虽然相当于什么都没干，但是却会有收益。</p><p>以下我就以一个实际的案例进行说明。我们拿好未来在美股的真实股价与期权价举例。</p><p>好未来在 3 月 6 日的收盘价格是 56.49，同时</p><ul><li>4.17 到期的 50 元看涨期权挂单价格是 7.8(买) ~ 9.8（卖），最近成交价是 7.62</li><li>4.17 到期的 50 元看跌期权挂单价格是 1.45（买）~ 1.95（卖），最近成交价是 1.69</li></ul><p>我们假设，我们在 3.6 收盘前，以：</p><ul><li>以 56.49 的价格卖空 100 股股票</li><li>以 7.62 的成交价买入 1 手看涨期权</li><li>以 1.69 的成交价卖出 1 手看跌期权</li></ul><p>那我们的收益应该是多少呢？为了计算收益，我们需要搬出初中学习的二元一次方程。如果你不想跟着我计算，可以直接看最后的结论。</p><h3 id="计算卖空的收益函数"><a href="#计算卖空的收益函数" class="headerlink" title="计算卖空的收益函数"></a>计算卖空的收益函数</h3><p>假设未来股价为 x，则卖空 100 股股票的收益函数 y1 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">y1 &#x3D; (56.49 - x) * 100</span><br><span class="line">   &#x3D; (50 - x) * 100 + 6.49 * 100</span><br><span class="line">   &#x3D; (50 - x) * 100 + 649</span><br></pre></td></tr></table></figure><p>应该很简单对吧？因为是做空，x 越大，则 y1 越小。</p><h3 id="计算买入看涨期权的收益函数"><a href="#计算买入看涨期权的收益函数" class="headerlink" title="计算买入看涨期权的收益函数"></a>计算买入看涨期权的收益函数</h3><p>假设未来股价为 x，则期权到期时收益函数 y2 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50 时：</span><br><span class="line">y2 &#x3D; -7.62 * 100 &#x3D; -762</span><br><span class="line">x &gt;&#x3D; 50 时：</span><br><span class="line">y2 &#x3D; (x - 50) * 100 - 762</span><br></pre></td></tr></table></figure><p>因为期权行权价是 50，所以股价少于 50 则期权就作废了，损失为 762 元的权利金。如果股价高于 50，则可以按上面的公式来计算盈亏。</p><h3 id="计算卖出看跌期权的收益函数"><a href="#计算卖出看跌期权的收益函数" class="headerlink" title="计算卖出看跌期权的收益函数"></a>计算卖出看跌期权的收益函数</h3><p>假设未来股价为 x，则期权到期时收益函数 y3 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50 时：</span><br><span class="line">y3 &#x3D; (x - 50) * 100 + 169</span><br><span class="line">x &gt;&#x3D; 50 时：</span><br><span class="line">y3 &#x3D; 1.69 * 100 &#x3D; 169</span><br></pre></td></tr></table></figure><p>因为我们是卖出看跌，所以如果股价高于 50，我们的收益就是 169 的权利金，否则我们就需要按上面的公式计算收益。</p><h3 id="求和"><a href="#求和" class="headerlink" title="求和"></a>求和</h3><p>我们将 y1, y2, y3 进行求和</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50时：</span><br><span class="line">y1 &#x3D; (50 - x) * 100 + 649</span><br><span class="line">y2 &#x3D; -762</span><br><span class="line">y3 &#x3D; (x - 50) * 100 + 169</span><br><span class="line">  求和：</span><br><span class="line">y &#x3D; y1 + y2 + y3</span><br><span class="line">  &#x3D; (50 - x) * 100 + 649 -762</span><br><span class="line">   + (x - 50) * 100 + 169</span><br><span class="line">  &#x3D; 649 - 762 + 169</span><br><span class="line">  &#x3D; 56</span><br><span class="line"></span><br><span class="line">y &gt;&#x3D; 50时：</span><br><span class="line">y1 &#x3D; (50 - x) * 100 + 649</span><br><span class="line">y2 &#x3D; (x - 50) * 100 - 762</span><br><span class="line">y3 &#x3D; 169</span><br><span class="line">  求和：</span><br><span class="line">y &#x3D; y1 + y2 + y3</span><br><span class="line">  &#x3D; (50 - x) * 100 + 649</span><br><span class="line">   + (x - 50) * 100 - 762</span><br><span class="line">   + 169</span><br><span class="line">  &#x3D; 649 - 762 + 169</span><br><span class="line">  &#x3D; 56</span><br></pre></td></tr></table></figure><p>最后，我们发现，x 不管是大于 50 还是小于 50，情况都一样，<code>y = 56</code>。</p><p>你看，如果你当时按市场价同时完成了这 3 笔交易，你就构建了一个套利。这也是做市商的生意模式。</p><p>这种组合在《麦克米伦谈期权》的 6.2 章节中被称作 <strong>Delta 中性头寸</strong>。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>期权是以特定价格买入或者卖出特定证券的权利，该权利在特定时间内有效。</li><li>美式期权是可以提前行权的。</li><li>卖出期权收到权利金，但是需要帐户中留有足够执行期权义务的保证金。</li><li>期权的组合可以用来构建各种特殊的盈利曲线。</li><li>如果一个组合与标的股价无关，我们就说这个组合是 Delta 中性的。它可以用来做无风险套利。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;《麦克米伦谈期权》，以下是一些总结。&lt;/p&gt;
+&lt;h2 id=&quot;什么是期权&quot;&gt;&lt;a href=&quot;#什么是期权&quot; class=&quot;headerlink&quot; title=&quot;什么是期权&quot;&gt;&lt;/a&gt;什么是期权&lt;/h2&gt;&lt;p&gt;期权是以特定价格买入或者卖出特定标的物的权利，该权利在特定时间内
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="books" scheme="https://invest.einverne.info/tags/books/"/>
+    
+      <category term="读书笔记" scheme="https://invest.einverne.info/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="读书" scheme="https://invest.einverne.info/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="期权" scheme="https://invest.einverne.info/tags/%E6%9C%9F%E6%9D%83/"/>
+    
+  </entry>
+  
+</feed>
