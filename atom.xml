@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>EV 的投资笔记</title>
+  
+  <subtitle>记录下自己学习的点滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://invest.einverne.info/"/>
+  <updated>2024-03-15T13:30:09.320Z</updated>
+  <id>https://invest.einverne.info/</id>
+  
+  <author>
+    <name>Ein Verne</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>华泰涨乐全球通 V 会员</title>
+    <link href="https://invest.einverne.info/2023/12/29/htsc-v-membership.html"/>
+    <id>https://invest.einverne.info/2023/12/29/htsc-v-membership.html</id>
+    <published>2023-12-29T04:03:08.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前有<a href="https://invest.einverne.info/2022/07/26/htsc.html">一篇</a> 文章已经介绍过华泰证券在香港开展的业务涨乐全球通，这是一款美港股交易软件。对于它丰厚入金奖励也可以参考之前的文章。今天主要是要来介绍一下华泰涨乐全球通里面的会员体系。</p><p>最初的时候我完全不清楚华泰搞的这个复杂的会员体系，又是 V 会员，又是 M 会员。但是仔细了解一下这个会员体系，以及最近推出的「一世免佣」的活动，看起来还是能节省不少的费用。</p><p>我们先来看看美港股交易的时候产生的费用。[[港股交易费用]]</p><ul><li>平台费，顾名思义就是平台收取的费用，华泰证券是会员免佣金，而其他平台则会根据交易金额来区分，比如富途，港股每单 15 固定，或者可以调整为阶梯收费</li><li>打新手续费，也顾名思义，就是港股打新手续费，一般券商收取 50 HKD 一笔，华泰证券则是会员免费</li><li>交易费用，不同券商收取方式不同，华泰证券是按照</li></ul><table><thead><tr><th>收费情况</th><th>非会员</th><th>V1</th><th>V2</th><th>V3</th></tr></thead><tbody><tr><td>港股佣金</td><td>0.029%（最低 2.9 HKD）</td><td>0 HKD</td><td>0 HKD</td><td>0 HKD</td></tr><tr><td>港股平台费</td><td>每笔 15 HKD</td><td>免平台费</td><td>免平台费</td><td>免平台费</td></tr><tr><td>港股打新</td><td>现金 50 HKD，融资 100 HKD</td><td>0 HKD</td><td>0 HKD</td><td>0 HKD</td></tr><tr><td>港股暗盘佣金</td><td>0.03% （最低 3 HKD）</td><td>0.03%（最低 3 HKD）</td><td>0.03%（最低 3 HKD）</td><td>0.03%（最低 3 HKD）<br></td></tr><tr><td>港股暗盘平台费</td><td>每笔 15 HKD</td><td>免平台费</td><td>免平台费</td><td>免平台费</td></tr><tr><td>美股佣金</td><td>0.0039 USD/股，最低 0.99 美元</td><td>0.0039 USD/股，最低 0.99 美元</td><td>0 佣金</td><td>0 佣金</td></tr><tr><td>美股平台费</td><td>0.0039 USD/股，最低 0.99 美元</td><td>0.0039 USD/股，最低 0.99 美元</td><td>免平台费</td><td>免平台费</td></tr><tr><td>港股融资利率</td><td>6.8%</td><td>6.8%</td><td>6.8%</td><td>6.8%</td></tr></tbody></table><h2 id="收费"><a href="#收费" class="headerlink" title="收费"></a>收费</h2><table><thead><tr><th>收费</th><th>月</th><th>年</th></tr></thead><tbody><tr><td>V1</td><td>推广期 8 HKD</td><td>88 HKD</td></tr><tr><td>V2</td><td>推广期 78 HKD</td><td>888 HKD</td></tr><tr><td>V3</td><td>推广期 88 HKD</td><td>988 HKD</td></tr></tbody></table><h2 id="M-会员和-V-会员区别"><a href="#M-会员和-V-会员区别" class="headerlink" title="M 会员和 V 会员区别"></a>M 会员和 V 会员区别</h2><p>M 会员可以享受更低的融资利率</p><p>如下的适合 M 会员</p><ul><li>习惯使用融资</li><li>交易额不大</li><li>不经常参与新股申购</li></ul><p>如下的适合 V 会员</p><ul><li>打新爱好者</li><li>盯盘交易</li><li>每月交易额大于月均融资余额的 5 倍</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前有&lt;a href=&quot;https://invest.einverne.info/2022/07/26/htsc.html&quot;&gt;一篇&lt;/a&gt; 文章已经介绍过华泰证券在香港开展的业务涨乐全球通，这是一款美港股交易软件。对于它丰厚入金奖励也可以参考之前的文章。今天主要是要来介绍一
+      
+    
+    </summary>
+    
+    
+      <category term="证券" scheme="https://invest.einverne.info/categories/%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="券商" scheme="https://invest.einverne.info/categories/%E8%AF%81%E5%88%B8/%E5%88%B8%E5%95%86/"/>
+    
+    
+      <category term="华泰" scheme="https://invest.einverne.info/tags/%E5%8D%8E%E6%B3%B0/"/>
+    
+      <category term="证券" scheme="https://invest.einverne.info/tags/%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="会员等级" scheme="https://invest.einverne.info/tags/%E4%BC%9A%E5%91%98%E7%AD%89%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在中国国内投资日本股市</title>
+    <link href="https://invest.einverne.info/2023/11/09/invest-japan-market-in-china.html"/>
+    <id>https://invest.einverne.info/2023/11/09/invest-japan-market-in-china.html</id>
+    <published>2023-11-08T16:16:17.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>在 A 股市场中通过 [[QDII 基金]] 也是可以投资全球市场的，看到日经 225 指数在一年内就有 16% 的涨幅，所以想好好了解一下 QDII 基金，已经学习一下如何在 A 股市场中投资日本资本市场。</p><h2 id="日本股市主要指数"><a href="#日本股市主要指数" class="headerlink" title="日本股市主要指数"></a>日本股市主要指数</h2><h3 id="日经-225-指数"><a href="#日经-225-指数" class="headerlink" title="日经 225 指数"></a>日经 225 指数</h3><p>由日本经济新闻社推出，由东京证券交易所上市股票中挑选的 225 只代表性股票编制而成。类似于沪深 300。</p><p>该指数首发于 1979 年（基期为 1947 年 = 225），是国内外投资者最熟悉的反映日本股票市场的指数。</p><p>日经 225 指数的最高点是 1989 年 12 月 29 日的 38957.44 点。如今（2022.10.21）也只有 26890.58 点。</p><p><img src="https://photo.einverne.info/images/2023/11/08/fZBc.jpg" alt="fZBc"></p><h3 id="东证证券指数-Tokyo-Stock-Price-Index"><a href="#东证证券指数-Tokyo-Stock-Price-Index" class="headerlink" title="东证证券指数 Tokyo Stock Price Index"></a>东证证券指数 Tokyo Stock Price Index</h3><p>有时也翻译成东京股价指数，是东京证券交易所市场一部上市的所有日本企业的价格总额股价指数。</p><p>东证证券指数（TOPIX）将基期 1968 年 1 月 4 日的市价总额定为 100 点，从而计算当前市价总额的指数。东交所于 1969 年 7 月 1 日开始计算并公布 TOPIX，实时（每隔 15 秒）发布给国内外的各金融机构及信息咨询商。</p><p>该指数的构成股有 1700 多种，覆盖范围广泛，能够准确反应日本股票市场的总体趋势，类似上证综指（笑~）。与日经 225 相比，小盘股数量更多，表现和日经 225 整体类似，不过收益略差。</p><p>东京证券指数是日本 ETF 追踪规模最大，最受欢迎的指数标的，跟踪该指数的 ETF 大约占据了日本国内 ETF 市场一半的规模。</p><p><img src="https://photo.einverne.info/images/2023/11/08/fkLd.png" alt="fkLd"></p><h2 id="QDII"><a href="#QDII" class="headerlink" title="QDII"></a>QDII</h2><p>2019 年有四只投资日本股市的 [[QDII 基金]] ETF 成立</p><ul><li>513520，日经 225，交易型开放式指数基金，华夏基金公司管理</li><li>513880，日经 225，华安基金公司管理</li><li>513000，日经 225 ETF，易方达基金公司管理</li><li>513800，东证指数 ETF，南方基金公司管理</li></ul><p>2021 年，工银瑞信</p><ul><li>159866，日经 225，工银瑞信基金公司管理</li></ul><h2 id="对比"><a href="#对比" class="headerlink" title="对比"></a>对比</h2><p>截止 2023 年 11 月，大部分的 ETF 规模都在 3~5 亿 RMB，每日的成交量在 2000 万左右。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>目前日本的资本市场因为涌进来国际资本比较多，并且随着日元的贬值，很多资金开始关注日本市场。目前的日本市场已经存在一定的溢价。</p><p>日股走高的原因猜测：</p><ul><li>维持宽松货币政策，低利率有助于风险资产的表现</li><li>一季度 GDP 同比增长 1.3% 好于预期</li><li>外资持续流入，截止 2023 年 5 月，外资净买入日股已经超过 7800 亿日元</li><li>日本上市企业持续回购股票</li></ul><p>但是目前的行情下，日元已经有了一定的溢价，此时入场需要谨慎，可以待市场稍微回调时入局。回答最初的问题，日股是否还有投资价值，日股的 [[市净率]] 相较于美股和 A 股还是偏低，长期来看还是有一定的升值空间。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在 A 股市场中通过 [[QDII 基金]] 也是可以投资全球市场的，看到日经 225 指数在一年内就有 16% 的涨幅，所以想好好了解一下 QDII 基金，已经学习一下如何在 A 股市场中投资日本资本市场。&lt;/p&gt;
+&lt;h2 id=&quot;日本股市主要指数&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="投资" scheme="https://invest.einverne.info/tags/%E6%8A%95%E8%B5%84/"/>
+    
+      <category term="日本" scheme="https://invest.einverne.info/tags/%E6%97%A5%E6%9C%AC/"/>
+    
+      <category term="日经指数" scheme="https://invest.einverne.info/tags/%E6%97%A5%E7%BB%8F%E6%8C%87%E6%95%B0/"/>
+    
+      <category term="日经225" scheme="https://invest.einverne.info/tags/%E6%97%A5%E7%BB%8F225/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学校里面不会教的财务公式</title>
+    <link href="https://invest.einverne.info/2023/11/06/knowledge-not-in-school.html"/>
+    <id>https://invest.einverne.info/2023/11/06/knowledge-not-in-school.html</id>
+    <published>2023-11-06T03:48:28.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>[[穷爸爸富爸爸]] 的作者 Robert T.Kiyosaki 在书中提出了一个著名的 Cashflow Quadrant 公式，现金流四象限。</p><p>这个象限图将收入来源分成了四个部分，并解读了收入来源底层逻辑的不同。</p><ul><li>Employee 打工收入</li><li>Self-employed 自雇收入</li><li>Business Owner 经营收入</li><li>Investor 投资收入</li></ul><p><img src="https://photo.einverne.info/images/2023/11/06/fzWg.png" alt="fzWg"></p><p>从赚钱的稳定性来说，打工&gt;自雇&gt;经营&gt;投资。 打工和自顾都属于主动收入，也就是说做一天活挣一天钱，但区别在于自由职业者可以自由的选择自己的工作方式不用受老板的 PUA 和资本的压榨自由度更高 。</p><p>经营者的收入介于主动和被动之间， 因为老板通过公司这一个框架构造了一个收益系统，并雇用所需的人产生收益 。</p><p>主动收入来源于老板也要干活，参与公司的经营管理，不可能撒手不管， 而被动收益则来源于整个行业向上走的趋势所带来的超额利润 。</p><p>正如那句名言猪站在风口也会飞 ， 这只会飞的猪跟大部分打工人可没有半毛钱关系，因为打工人拿的还是固定的月收入，超额的利润都被老板拿走了 。</p><p>而最后的投资人群拿到的则是真正躺赚的收入，他们将资金再次投入到资产中，从而产生新的收益 。 潜入都雪球一样，越过越大，与此同时，风险也是最高的 。 因为一个认知不到位，或者风险控制没有做好，就有可能本金都拿不回来 。</p><p>现金流四项线的理论揭示了一个事实，打工和自雇人群占所有总人口的 90%，但却只拥有财富的 10%而企业主和投资人占人口的 10%却拥有着 90%的财富 。</p><p>打工和自雇带来的收益意识受到了工作时间的影响，二是剩余价值会被老板税收等方式抽走 。 而企业和投资人群可以通过走费用再投资来进行合法避税最大程度的将收入放进自己的口袋 。</p><p>但好在问题是这四个象限的人群并不是固定的，你可以从左边的打工自雇人群，慢慢地向右边的企业和投资向线转移 。 如果你只是一个普通人，没有资源加进，成为一个企业家，那么像被动收入象限移动的唯一选择就是学会如何投资，既如何钱生钱。</p><p>投资的本质是一个认知的积累，也是需要交学费的一件事。如果你没有建立自己的认知体系，下场就是被割韭菜。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[[穷爸爸富爸爸]] 的作者 Robert T.Kiyosaki 在书中提出了一个著名的 Cashflow Quadrant 公式，现金流四象限。&lt;/p&gt;
+&lt;p&gt;这个象限图将收入来源分成了四个部分，并解读了收入来源底层逻辑的不同。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Employee
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="理财" scheme="https://invest.einverne.info/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="金融" scheme="https://invest.einverne.info/tags/%E9%87%91%E8%9E%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么人民币贬值了还通缩</title>
+    <link href="https://invest.einverne.info/2023/10/09/rmb-devaluation-deflation.html"/>
+    <id>https://invest.einverne.info/2023/10/09/rmb-devaluation-deflation.html</id>
+    <published>2023-10-09T01:04:54.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文转自知乎回答。</p><p>高赞的回答说，「贬值是因为钱印太多，通缩是因为钱没有给到老百姓手上」。</p><p>后半句是对的，但是前半句不对。</p><p>直觉上，会觉得钱印多了就不值钱了。但实际上，钱是流通的概念，只有流通中的货币，才参与对币值的定价。如果一个经济体中发行了很多钱，但是大部分都沉积下来，没有形成流通，是不回构成贬值压力的。这些年中国确实印了很多钱，但是大部分都被少数人给囤积起来了。</p><p>要么像是《人民的名义》中那样，放在床底，要么被存在银行账户，没有通过投资和消费进入到流通领域。</p><blockquote><p>第一财经记者根据 Wind 资讯数据统计，截止 2022 年末，6 大国有银行以及 7 家股份制银行，吸收客户存款合计超过 150 万亿元。增速创下历年新高，而这还仅仅是 13 家上市银行的数据。</p></blockquote><p>总之，钱印多，并不是贬值的真正原因。</p><p>黄渤的电影《一出好戏》，一群人流浪到了荒岛，组成一个原始社会。有一个积贼的张总，使用扑克牌当作货币，启动了最初的商品交换，他说整个岛上只有两副扑克牌，来证明货币的稀缺性。但是，实际上，他手上有很多牌，因为张艺兴发现自己手上有 4 个红桃 2，肯定不止两副牌。</p><p>为什么其他人没有发现？ 因为岛上的物价没有涨。</p><p>一开始他们每天只能抓 10 条鱼，后来熟练了，每天能抓 100 条。</p><p>这个过程中，张总慢慢地拿出自己手上的牌，而不是一股脑儿全部拿出来。</p><p>所以即便张总手上的牌再多（ M2 高，印钱多） ，只要不再流通领域，都不会使物价上涨（发生通胀）。</p><p>张总藏的牌，就相当于在银行账户或床底藏的钱，没有进入流通，就不会影响物价。</p><p>汇率的关系是，货币 A - 商品 - 货币 B</p><p>对应到现实中，出口商品给美国，换美元。拿到美元，再换回人民币，在国内投资，扩产。整个过程就相当于抛美元，增人民币，所以顺差国的货币通常是有升值压力的。但为什么人民币还是贬值了呢？</p><p>因为人民币资产的收益率太低了。</p><p>假设出现了另外一个岛，收益率更高，张总想去那个岛上搞投资，就会把手里的牌全部换成那个岛的货币。一股脑全部抛出这些牌，那么牌就贬值了。</p><p>现在美国相当于另外一个岛，美元加息，使得美元资产收益率更高，吸引了全球的资金流入，使得人民币相对于美元贬值。</p><p>美国现在的无风险利率是 5.5%，而国内的定存利率还不到 2%。</p><p>3% 的利差，加上汇率贬值的浮动收益，使得大量的人民币资金逃离，转成美元资产。</p><p>现在的问题变成了，为什么国内收益率低？</p><p>因为钱没有发到老百姓手上，贫富分化严重。也就是说，汇率贬值和通缩的原因是同一个，都是货币分配机制出了问题，使得钱流向了不缺钱的人，使得债务流向了打工人。</p><p>通缩是因为大部分人没有钱，这很好理解—-没有钱，就没有消费能力，大家都没有钱，市场就会陷入萧条。</p><p>而总需求锐减，那生产的东西都卖不出去，就会亏损，投资的风险扩大，收益缩小，体现为资本收益率下降。因为不管是信托也好，理财也罢，最终都是要依托实体经济来进行财富蛋糕的切割。 比如暴雷的中融信托，买的资产都是房企的理财或者高息债。</p><p>房企需要卖得出房，才能兑付，但也得老百姓有钱才能买得起房子。买不起房子，房地产的高息杠杆就得崩溃，顺带搞死了绑定其中的一系列理财。从资本市场来看，这就是投资收益不靠谱。那么现在老百姓是什么情况，老百姓都在主动去杠杆。房地产最大的作用，就是杠杆放大版的印钞机。而且其债务循环非常有问题，因为它就是典型的使债务流向打工人，使货币流向少数人的循环结构。</p><p>什么叫做负债？负债就是承诺未来的负责。从这个角度讲，不光贷款是负债，结婚，生育都是负债，都是承诺未来持续努力，贡献自己的劳动成果。而现在的年轻人不婚不育不买房，笼统地说，都是主动去杠杆的行为。</p><p>所以问题说来说去就一个，就是分配不合理，钱没有给到老百姓的手里。所以想要救汇率，救消费，必须先救老百姓，去提高劳动收入，提高就业，落实劳动法，降低生活成本。还救房地产的话，只会让问题越来越严峻。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文转自知乎回答。&lt;/p&gt;
+&lt;p&gt;高赞的回答说，「贬值是因为钱印太多，通缩是因为钱没有给到老百姓手上」。&lt;/p&gt;
+&lt;p&gt;后半句是对的，但是前半句不对。&lt;/p&gt;
+&lt;p&gt;直觉上，会觉得钱印多了就不值钱了。但实际上，钱是流通的概念，只有流通中的货币，才参与对币值的定价。如果一个经
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="经济" scheme="https://invest.einverne.info/tags/%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="人民币" scheme="https://invest.einverne.info/tags/%E4%BA%BA%E6%B0%91%E5%B8%81/"/>
+    
+      <category term="通缩" scheme="https://invest.einverne.info/tags/%E9%80%9A%E7%BC%A9/"/>
+    
+      <category term="贬值" scheme="https://invest.einverne.info/tags/%E8%B4%AC%E5%80%BC/"/>
+    
+      <category term="汇率" scheme="https://invest.einverne.info/tags/%E6%B1%87%E7%8E%87/"/>
+    
+      <category term="消费" scheme="https://invest.einverne.info/tags/%E6%B6%88%E8%B4%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FlowBank 瑞士数字银行开户及使用</title>
+    <link href="https://invest.einverne.info/2023/08/25/flowbank-swiss-digital-bank.html"/>
+    <id>https://invest.einverne.info/2023/08/25/flowbank-swiss-digital-bank.html</id>
+    <published>2023-08-25T12:20:30.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.flowbank.com/" target="_blank" rel="noopener">FlowBank</a> 是一家总部位于瑞士日内瓦的在线银行，是专业做外汇、贵金属和加密货币交易的银行，同时也是一家证券经纪商。受到瑞士金融市场监管局（FINMA）监管。享有 10 万瑞士法郎的存款保障。Flowbank 对加密货币市场比较友好，可以进行外汇，股票，和加密货币的交易。</p><p>FlowBank 在 2020 年底上线经营，总部位于日内瓦，苏黎世设有办公室。FlowBank 提供的账户分为股票类账户，外汇 CFD 账户。FlowBank 是一个创新的数字银行平台，提供给了用户更低廉的交易佣金，目前是瑞士惟一一家提供免佣金的交易平台。FlowBank 还提供一定的数字货币交易，2021 年 Coinshares 收购了 FlowBank 大约 9% 的股份，在 2022 年再次收购了该公司 20% 左右的股份，Coinshares 是一家颇具规模的加密货币资产管理公司。</p><p>Flowbank 在持有证券类资产的情况下会收取托管费用，每三个月收十瑞郎的管理费 一年 40 瑞郎，约 280 人民币。如果不持有就不会收取。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul><li>瑞士持牌银行，FINMA 牌照</li><li>瑞士存款保护</li><li>保护金达 10 万瑞郎</li><li>优惠价格，交易超过 50000 种金融商品</li><li>外汇，证券交易业务</li><li>股票托管费 每年 0.1%</li><li>账户不使用无闲置费用</li><li>购买美国股票，佣金比例为 0.15%，最低 6.50 美元（如果是交易以美股为主建议使用 [[Interactive Brokers|盈透证券]]）</li><li>购买瑞士本土股票和 ETF 免佣金</li><li>货币兑换费用 0.5%</li><li>提供英语，法语，德语，华语等等客服语言，开户时也支持中文客服协助开户</li><li>是否提供移动应用：是（外汇 CFD 账户可使用 MT4 或 MT5）</li><li>是否提供网页版交易平台和电脑端交易软件：是</li><li>资金托管银行：瑞士信贷银行（Credit Suisse）</li></ul><h2 id="提前准备"><a href="#提前准备" class="headerlink" title="提前准备"></a>提前准备</h2><ul><li>材料：护照、身份证、水电煤气账单</li><li>美国或日本的 IP 不推荐</li><li>视频认证</li></ul><h2 id="账户收费情况"><a href="#账户收费情况" class="headerlink" title="账户收费情况"></a>账户收费情况</h2><ul><li>入金是免费的</li><li>注意！出金是不免费的</li><li>在瑞士或列支敦士登境内转账瑞士法郎或欧元需要 2 瑞士法郎费用</li><li>向瑞士境外转出瑞士法郎至少需要 10 瑞士法郎的费用</li><li>向瑞士境外转账欧元至少需要 10 瑞士法郎的费用</li><li>每年有 0.10%的投资账户托管费，该费用每季度支付一次（每季度 0.025%），每季度最低为 10 瑞士法郎（每年最低 40 瑞士法郎）；而每季度最高为 50 瑞士法郎（每年最高 200 瑞士法郎）。</li></ul><h2 id="手机应用"><a href="#手机应用" class="headerlink" title="手机应用"></a>手机应用</h2><ul><li>FlowBank App，界面简洁，适合新手投资者，只能交易股票类产品</li><li>FlowBank Pro，适合专业交易员，有手机版，桌面版和网页版，支持股票交易，外汇 CFD 等所有 FlowBank 支持的项目</li><li>MetaTrade 4 和 MetaTrade 5，交易外汇和 CFD 产品</li></ul><h2 id="交易费用"><a href="#交易费用" class="headerlink" title="交易费用"></a>交易费用</h2><p>FlowBank 提供两种类型的账户</p><ul><li>普通账户</li><li>白金账户（一旦账户资金达到 10 万瑞士法郎就会升级到该账户）</li></ul><p>Euronext（欧洲股票交易所）：<br>经典账户佣金费率：0.15%，最低为 6.50 欧元<br>白金账户佣金费率：0.10%，最低为 6.50 欧元</p><p>纽约证券交易所（美国股票）：<br>经典账户佣金费率：0.15%，最低为 6.50 美元<br>白金账户佣金费率：0.10%，最低为 6.50 美元</p><h2 id="和其他产品的比较"><a href="#和其他产品的比较" class="headerlink" title="和其他产品的比较"></a>和其他产品的比较</h2><ul><li>与 [[Swissquote|瑞讯银行]] 相比，佣金费率有一定优势，交易费用和货币转换费用都比瑞讯低一些</li><li>[[Dukascopy|杜高斯贝]] 暂时不提供股票类交易（只有股票差价合约 CFD），但是自有交易软件 JForex 体验最好</li><li>与前两家老牌的银行相比，FlowBank 还是一家新新银行，安全性上还有待继续观察</li><li>[[Interactive Brokers|盈透证券]] 的各项费率低于 FlowBank，特别是美股和货币兑换方面</li></ul><h2 id="related"><a href="#related" class="headerlink" title="related"></a>related</h2><ul><li>[[Swissquote]]</li><li>[[Dukascopy]]</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.flowbank.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;FlowBank&lt;/a&gt; 是一家总部位于瑞士日内瓦的在线银行，是专业做外汇、贵金属和加密货币交易的银行，同时也是一家证券经纪商。受到瑞士金融
+      
+    
+    </summary>
+    
+    
+    
+      <category term="数字银行" scheme="https://invest.einverne.info/tags/%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
+    
+      <category term="flowbank" scheme="https://invest.einverne.info/tags/flowbank/"/>
+    
+      <category term="数字游民" scheme="https://invest.einverne.info/tags/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91/"/>
+    
+      <category term="瑞士银行" scheme="https://invest.einverne.info/tags/%E7%91%9E%E5%A3%AB%E9%93%B6%E8%A1%8C/"/>
+    
+      <category term="瑞士数字银行" scheme="https://invest.einverne.info/tags/%E7%91%9E%E5%A3%AB%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BTC 地址格式</title>
+    <link href="https://invest.einverne.info/2023/07/12/btc-address-formats.html"/>
+    <id>https://invest.einverne.info/2023/07/12/btc-address-formats.html</id>
+    <published>2023-07-12T05:42:49.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果使用 [[Ledger]] 硬件钱包，那么在生成 BTC 账户地址的时候会产生三种不同的类型的地址：</p><ul><li>Legacy</li><li>Native SegWit</li><li>Taproot</li></ul><p><img src="https://photo.einverne.info/images/2023/07/13/DWc3.png" alt="DWc3"></p><h2 id="Bitcoin-address-formats-比特币地址样式"><a href="#Bitcoin-address-formats-比特币地址样式" class="headerlink" title="Bitcoin address formats 比特币地址样式"></a>Bitcoin address formats 比特币地址样式</h2><p>BTC 地址是由长度 27 到 34 位不等的数字字母组成的。BTC 地址通过不同的开头区分不同类型的地址。最初的比特币地址是以 1 开头的 Legacy 地址。但是随着比特币价格上涨，每一笔交易所需要支付的费用也开始变得昂贵，并且比特币交易的速度也变得很慢。</p><p>于是一方面为了增强比特币网络的功能和安全性，另一方面为了加速比特币成交的速度，新的地址格式被引入了进来，如 P2SH（Pay-to-Script-Hash）地址和 Segregated Witness（SegWit）地址。这些新地址格式提供了更多的功能和更高级别的安全性。</p><p>但尽管如此，Legacy 地址仍然被广泛使用，并且在许多钱包和交易所中仍然可用。对于那些持有旧版比特币钱包或与旧版服务交互的用户来说，Legacy 地址仍然是他们可以接受和发送比特币的有效方式。</p><p>不同类型的比特币钱包地址：</p><ul><li>1 开头，是 Legacy（P2PKH） 地址，是比特币最早的地址格式之一。这种地址是由比特币创始人之一的 Satoshi Nakamoto 在比特币网络刚刚启动时引入的。Legacy 地址使用了 Base58Check 编码，由 1 开头，后跟一串数字和字母组成。这种地址格式广泛应用于早期的比特币交易和存储中。</li><li>3 开头地址，被称为 SegWit 地址（P2SH），应用非常广泛</li><li>bc1q 开头地址，被称作 Native Segwit 地址（P2WPKH），应用非常广泛。Native SegWit 地址支持隔离见证（Segregated Witness）技术，这种技术可以提高交易效率和安全性，并减少交易费用。</li><li>bc1p 开头，被称作 Taproot 地址（P2TR），Taproot 将结合隔离见证技术和多重签名功能，提供更高的隐私性和交易效率，并增强比特币的智能合约功能。</li></ul><p>区别主要在于地址格式、交易效率、隐私性以及智能合约功能的支持程度。不同的地址格式适用于不同的用途和需求，用户可以根据自己的需求选择适合的地址格式。</p><p>默认情况下 Ledger Live 会添加 Native Segwit 地址。</p><h2 id="SegWit-vs-Native-SegWit"><a href="#SegWit-vs-Native-SegWit" class="headerlink" title="SegWit vs Native SegWit"></a>SegWit vs Native SegWit</h2><p>SegWit（Segregated Witness，隔离见证）通过减少每笔交易数据的大小，通过交易签名某些数据来和交易做区分。通过使交易规模更轻，单个比特币区块可以容纳更多交易，着使得比特币网络更具扩展性，交易速度更快，并且大大地降低了交易手续费。</p><p>Native SegWit，也被称为 bech32，是最新的地址格式，比前身更轻，与 SegWit 交易相比，交易速度更快，扩展性更好，每笔交易的费用更低。bech32 具有更好的错误检测功能，并且将地址变为小写。bech32 的唯一缺点就是并非每个平台都支持这种格式。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://support.ledger.com/hc/en-us/articles/9068401160221-How-to-add-different-formats-of-Bitcoin-accounts-in-Ledger-Live?support=true" target="_blank" rel="noopener">https://support.ledger.com/hc/en-us/articles/9068401160221-How-to-add-different-formats-of-Bitcoin-accounts-in-Ledger-Live?support=true</a></li><li><a href="https://www.ledger.com/academy/difference-between-segwit-and-native-segwit" target="_blank" rel="noopener">https://www.ledger.com/academy/difference-between-segwit-and-native-segwit</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;如果使用 [[Ledger]] 硬件钱包，那么在生成 BTC 账户地址的时候会产生三种不同的类型的地址：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Legacy&lt;/li&gt;
+&lt;li&gt;Native SegWit&lt;/li&gt;
+&lt;li&gt;Taproot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+    
+      <category term="cryptocurrency" scheme="https://invest.einverne.info/tags/cryptocurrency/"/>
+    
+      <category term="btc" scheme="https://invest.einverne.info/tags/btc/"/>
+    
+      <category term="bitcoin" scheme="https://invest.einverne.info/tags/bitcoin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>经典白 生日十倍积分刷卡方式</title>
+    <link href="https://invest.einverne.info/2023/06/01/cmb-birthday-10x-points.html"/>
+    <id>https://invest.einverne.info/2023/06/01/cmb-birthday-10x-points.html</id>
+    <published>2023-06-01T05:42:49.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>招商银行的所有收年费的信用卡中，经典白可以通过积分免年费，所以是一张非常好持有的卡。而其他卡都是刚性年费，必需是真实付费才能持有的。经典白金信用卡主卡的年费是 3600 元每年，附属卡是 2000 元每年，核卡之后一年收取。</p><p>经典白金信用卡可以使用 10000 永久积分兑换主卡 3600 元的年费，5000 永久积分可以兑换附属卡 2000 元年费，如果积分充足会自动兑换年费。</p><p>总结一下经典白金信用卡的积分获取方式。</p><p>招行消费每 20 元累积 1 积分（多倍积分活动除外），不满 20 元不积分。所以招商的一万积分相较于其他银行的积分获取还是比较难的。</p><h2 id="积分种类"><a href="#积分种类" class="headerlink" title="积分种类"></a>积分种类</h2><p>招商银行的积分有两种：</p><ul><li>永久积分，经典白的年费积分抵扣只能使用永久积分</li><li>活动积分，非永久，有效期 3 年，只能用于兑换礼品</li></ul><p>积分获取渠道：</p><ul><li>线下 POS 机，每 20 元 1 分永久积分</li><li>云闪付二维码被扫</li><li>支付宝</li><li>京东支付，非特约<ul><li>特约指的是银行和京东约定的优惠费率支付，京东只需要向银行支付很少的手续费</li><li>特约是京东决定，无法控制</li><li>判断是否特约，可以在云闪付或掌上生活 APP 的交易明细看到，商户名称前有（特约）前缀</li></ul></li><li>微信支付，每月领取积分资格后给 500 分</li></ul><h2 id="生日-10-倍积分获取方式"><a href="#生日-10-倍积分获取方式" class="headerlink" title="生日 10 倍积分获取方式"></a>生日 10 倍积分获取方式</h2><p>[[招商银行经典白]] 信用卡在生日当天有 10 倍积分的活动。如果在微信支付 2 万人民币，在支付宝支付 2.3 万人民币，就可以在生日当天获得 2 万永久积分。<br>在生日当天，刷招行特定卡种（比如经典白金卡）就有多倍积分奖励，并且奖励的积分为永久积分，可用于兑换经典白的 3600 元年费。生日 10 倍积分是生日当然刷卡多少照常返回积分，但是之后会再增加 9 倍积分到账户中。</p><p>需要注意的是微信支付需要在掌上生活内报名参加，生日月月初的时候记得报名即可。</p><p>另外招商银行的生日十倍积分是可以拨打人工客服申请修改日期的，但是只对支付宝有效，一般积分会在下个月 7 号左右返还，但如果是修改过日期，一般需要人工返回，拨打客服电话之后 3 个工作日到帐。</p><h2 id="刚性消费获取积分"><a href="#刚性消费获取积分" class="headerlink" title="刚性消费获取积分"></a>刚性消费获取积分</h2><p>在生日当天如果有大额的支出需要支付，比如家中的燃气，电话费，网络费用，油费等等，可以在生日当天进行支付。通过支付宝刷够 22240，通过微信刷够 20000 就够了。在京东购物商城的支出是占用支付宝 22240 的额度。</p><ul><li>充话费，每个人充 500</li><li>电费</li><li>燃气费、暖气费</li><li>网络费</li><li>油卡</li><li>购物卡，包括京东卡，线下的华联、家乐福、永惠等超时购物卡</li><li>物业费</li><li>更新电子设备，购买年货等等</li><li>购买黄金</li></ul><h3 id="京东支付"><a href="#京东支付" class="headerlink" title="京东支付"></a>京东支付</h3><p>在京东支付，只要是不跳特约的，京东支付也是有永久积分的。所谓特约，指的是银行和京东约定好的优惠费率支付通道，京东只需向银行支付非常少的手续费，银行没得赚，当然就不会给用户返还积分了。但是需要注意的是，这个特约是京东随机产生的，用户无法控制，所以如果是为了获取积分的，则在支付的时候注意看一下。</p><p>对于是否跳特约，可以在云闪付或掌上生活 APP 的交易明细中看到，商户名称前有（特约）前缀，就表示跳特约通道了。</p><p>如果生日当天没有大额消费，那么在京东商城购买实体购物卡也是可以活得招商银行的积分的。</p><h3 id="微信支付"><a href="#微信支付" class="headerlink" title="微信支付"></a>微信支付</h3><p>默认情况下微信支付招行是一分不给的，只有每月领取积分资格后才给区区 500！非永久积分！领取路径：掌上生活 APP-右上角小招猫图像-我的客服，输入“微信支付领积分”。</p><p>但是生日当月，可以在掌上生活中报名参与微信支付返还积分的活动，报名后微信支付也可以参与十倍积分的活动，微信支付的积分将在一个月之后到帐。</p><p>报名路径是： 掌上生活-金融-手机支付-微信支付-我要报名</p><h3 id="天猫超市"><a href="#天猫超市" class="headerlink" title="天猫超市"></a>天猫超市</h3><p>和购买京东卡一样，也可以通过购买天猫超市购物卡来获得积分，如果在天猫超市购物比较多，也可以在生日当天适当购买一些购物卡。</p><h3 id="闲鱼信用卡"><a href="#闲鱼信用卡" class="headerlink" title="闲鱼信用卡"></a>闲鱼信用卡</h3><p>另外一种获取积分的方法就是通过自己开淘宝店铺的方式，在咸鱼上开通使用信用卡购买，那么就可以让朋友发布一个产品，然后通过信用卡去购买，但是需要注意的是这种方式需要手续费 222 左右。</p><h2 id="十倍积分到帐时间"><a href="#十倍积分到帐时间" class="headerlink" title="十倍积分到帐时间"></a>十倍积分到帐时间</h2><p>倍数奖励积分下个月 7 号左右发，正常积分入账后就会给。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;招商银行的所有收年费的信用卡中，经典白可以通过积分免年费，所以是一张非常好持有的卡。而其他卡都是刚性年费，必需是真实付费才能持有的。经典白金信用卡主卡的年费是 3600 元每年，附属卡是 2000 元每年，核卡之后一年收取。&lt;/p&gt;
+&lt;p&gt;经典白金信用卡可以使用 10000
+      
+    
+    </summary>
+    
+    
+    
+      <category term="招商银行" scheme="https://invest.einverne.info/tags/%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C/"/>
+    
+      <category term="经典白" scheme="https://invest.einverne.info/tags/%E7%BB%8F%E5%85%B8%E7%99%BD/"/>
+    
+      <category term="积分获取" scheme="https://invest.einverne.info/tags/%E7%A7%AF%E5%88%86%E8%8E%B7%E5%8F%96/"/>
+    
+      <category term="信用卡" scheme="https://invest.einverne.info/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/"/>
+    
+      <category term="积分" scheme="https://invest.einverne.info/tags/%E7%A7%AF%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加密货币交易所 Kraken 注册</title>
+    <link href="https://invest.einverne.info/2023/05/27/kraken-register.html"/>
+    <id>https://invest.einverne.info/2023/05/27/kraken-register.html</id>
+    <published>2023-05-27T13:37:58.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.kraken.com/" target="_blank" rel="noopener">Kraken</a> 是<strong>美国最大的加密资产交易平台之一，也是全球第四大加密资产交易所</strong>，服务超过 700 万用户，以优质的服务、低廉的费用、多样化的资产选择和严格的安全标准跻身美国最活跃的加密资产交易所阵营。</p><p>Kraken 已经是美国第二大加密货币交易所，Kraken 最大的优点就是其下的加密货币可以通过银行卡转出，兑换成各国法币。</p><ul><li>支持超过 200 种加密货币</li></ul><p><img src="https://photo.einverne.info/images/2023/05/27/9yOl.png" alt="9yOl"></p><h2 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h2><p>注册须知：</p><ul><li>不能使用日本的 IP 地址（Kraken 已经决定从 2023 年 1 月 31 日起停止日本的业务，并从日本金融局注销）</li></ul><p>注册流程。</p><ul><li>直接在 <a href="https://www.kraken.com/sign-up" target="_blank" rel="noopener">Kraken</a> 注册</li><li>接收邮件，输入验证码激活</li></ul><p>注册完成之后验证身份：</p><ul><li>初级验证：基本资料填写</li><li>中级验证：上传身份证明（护照、身份证或驾照）、地址证明（水电煤气账单或信用卡账单）</li><li>2 FA 身份验证</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.kraken.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kraken&lt;/a&gt; 是&lt;strong&gt;美国最大的加密资产交易平台之一，也是全球第四大加密资产交易所&lt;/strong&gt;，服务超过 700 万用户
+      
+    
+    </summary>
+    
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="加密货币交易所" scheme="https://invest.einverne.info/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E6%89%80/"/>
+    
+      <category term="交易所" scheme="https://invest.einverne.info/tags/%E4%BA%A4%E6%98%93%E6%89%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cloudflare 股价暴跌 22% 是为什么</title>
+    <link href="https://invest.einverne.info/2023/05/06/cloudflare-stock-dive.html"/>
+    <id>https://invest.einverne.info/2023/05/06/cloudflare-stock-dive.html</id>
+    <published>2023-05-06T12:12:33.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>前两天 Cloudflare（股票代号 NET） 在发布财报之后突然暴跌 22%，开始我还以为财报中出现了什么大问题，但是仔细地看了一下，Cloudflare 的营收并没有收到什么大的冲击，虽然收入预期 3.05 亿美元不及预测，但股价还是依然跌去了不少。这是为什么呢？于是我找了很多文章看了一下。发现原来是 Cloudflare 将自己年度营收的预期下调了，导致市场突然一下对未来的预期降低了。股价从 60 美元一下子跌倒了 44 美元。</p><h2 id="下降的原因"><a href="#下降的原因" class="headerlink" title="下降的原因"></a>下降的原因</h2><p>下降的原因：</p><ul><li>收入为 2.902 亿美元，同比增长 36.8%，这是一个非常高的增长，但是依然比市场预期的低了 0.2%。高估值的成长型股票，定价溢价的股票如果低于收入预期，就必然会引发崩盘，及时差距很小</li><li>第二个原因就是 Cloudflare 自己将目标降低了 4.7%，2023 年预期的收入是 13.3 亿美元，但是 Cloudflare 将预期调整到了 12.8 亿到 12.84 亿之间，这意味着 Cloudflare 今年的增长在 31%~32$ ，增速比预期的减缓。可以看到每季度的增速有一个大的滑坡。<ul><li>放缓的原因主要有两个，规模和宏观环境<ul><li>规模越大，保持相同百分比的增长就越困难</li><li>宏观环境导致公司有意识减少支出，虽然 Cloudflare 管理层并没有看到交易减少，但是看到了交易谈判时间变长了。</li></ul></li></ul></li></ul><p><img src="https://photo.einverne.info/images/2023/05/06/qkF8.jpg" alt="qkF8"></p><ul><li>第三个原因是投资者确保安全边界，投资者害怕经济衰退，未来几个月不会出现什么情况，就会撤回资金，和中小公司相比，投资者更喜欢大型科技公司的安全性。</li></ul><h2 id="是否值得买"><a href="#是否值得买" class="headerlink" title="是否值得买"></a>是否值得买</h2><p>但这两天，尤其是昨天 5 月 5 号，跌至 40 美元的 NET，又涨到了 44 美元。那问题就出现了， Cloudfare 还值不值得买？尽管很多评级机构已经下调了 Cloudflare 的评级价格，但我还是认为 Cloudflare 值得长期持有。</p><p>2023 年 Cloudflare 实现了 30% 的增长率，但是受到宏观环境的影响，下半年可能很难维持高增长，但用过 Cloudflare 这些基础平台的用户就知道大客户如果在 CDN，对象存储上付费之后，很难在短时间内迁移，平台有一定的黏滞性，虽然这个黏滞性可能无法和社交软件的黏滞性做类比，但显然 toB 的软件，在吸引付费上就会相对比较稳定。</p><p>我的另外一个观点就是 Cloudflare 在个人开发者，以及小型团队中的口碑非常好，有赖于 Cloudflare 对出的大量的免费的服务吸引了大量的个人开发者，大量的个体开发者厌恶 AWS，Google Cloud 等这些平台复杂的管理后台和收费方式，以最低成本的方式可以从 Cloudflare 开始，进而将这些个体开发者聚集到了 Cloudflare 平台，虽然从一定程度上提供免费的服务会影响到其成本，但是未来几年随着大量的 AI 应用的产生，必然会出现更大一批的创业潮，这些开发者的成功会给 Cloudflare 也带来一定的收入。有些人称 Cloudflare 是一家为人工智能时代打造的云基础设施公司。</p><p>另外的好消息就是 Cloudflare 的盈利能力，自由现金流是 1390 万美元，比预期多。GAAP (Generally Accepted Accounting Principles) 盈利是指按照普遍接受的会计原则计算出的公司盈利，包括所有必要的费用和收入，以反映公司的真实财务状况。</p><p>GAAP 盈利能力是每家公司的目标，但是科技的初始增长阶段，专注于盈利能力是没有意义的。占据市场份额和增加收入才是重要的。当公司专注于盈利能力时，不能指望有 37% 的收入增长。</p><p>评估两者平衡的一个方法是 40 法则。如果将自由现金流和收入增长相加，40 或者一个更高的分数是一个不错的分数。在本季度，Cloudflare 达到了 42%，但是比前几个季度低了很多。</p><p>Cloudflare 每一股的收益为 0.08 美元，比市场普遍预期的 0.03 高出不少。整个财年，EPS 价格目前是 0.34 美元到 0.35 美元，是 0.16 的两倍多。</p><p>股票薪酬影响价格上行，Cloudflare 收购了 Area 1，就这次收购公司签订了 1590 万美元的股票奖励和现金奖励。截止 2023 年 3 月 31 日，Area 1 相关的未确认股票补偿是 970 万美元。Area 1 的收购会对未来一段时间的股价造成一定的影响。</p><p>2023 年第一季度，Cloudflare 新增了 114 个大客户，这些客户为每年支付超过 100000 美元。这是所有季度中最低的数字，Cloudflare 现在有 2156 个大客户，同比增长 40%。</p><p>最后再分享几个令人印象深刻的数据，现在有 492 万的 Worker 应用程序，比过去 6 个月增长了 146%，30000 名付费用户激活了 R2，并存储超过了 7 PB 的数据，环比增长了 25%。</p><h2 id="Cloudflare-透明文化"><a href="#Cloudflare-透明文化" class="headerlink" title="Cloudflare 透明文化"></a>Cloudflare 透明文化</h2><p>Cloudflare 会为公司出现的每一个问题写一篇博客，透明是 Cloudflare 的核心价值观。调查这些事故的背后可以让 Cloudflare 做得更好。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://seekingalpha.com/article/4599838-cloudflare-bull-case-busted" target="_blank" rel="noopener">https://seekingalpha.com/article/4599838-cloudflare-bull-case-busted</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前两天 Cloudflare（股票代号 NET） 在发布财报之后突然暴跌 22%，开始我还以为财报中出现了什么大问题，但是仔细地看了一下，Cloudflare 的营收并没有收到什么大的冲击，虽然收入预期 3.05 亿美元不及预测，但股价还是依然跌去了不少。这是为什么呢？于是
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Cloudflare" scheme="https://invest.einverne.info/tags/Cloudflare/"/>
+    
+      <category term="美股" scheme="https://invest.einverne.info/tags/%E7%BE%8E%E8%82%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>双币投资</title>
+    <link href="https://invest.einverne.info/2023/04/22/binance-dual-investment.html"/>
+    <id>https://invest.einverne.info/2023/04/22/binance-dual-investment.html</id>
+    <published>2023-04-22T10:33:40.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>上个礼拜和朋友吃饭的时候突然聊起来 [[Sell Covered Call]] 和 [[Naked Sell Put]]，当他听我说完这两个在金融股票市场上的交易策略时，和我说了在加密货币市场有一个非常类似的理财产品，一般的交易所都将其包装成一个浮动收益率的投资产品，对用户隐藏了其操作细节，这个理财方式叫做—-双币投资。这个投资策略向用户隐藏了其具体的操作步骤，用户只需要以一个特定的利率买入，到期结算的时候会得到不同的加密货币。说到那个时候，我就想着要回来之后好好研究一下这个「双币投资」。</p><h2 id="开始之前"><a href="#开始之前" class="headerlink" title="开始之前"></a>开始之前</h2><p>在介绍双币投资之前，可以先看看我之前的两篇文章</p><ul><li><a href="https://invest.einverne.info/2021/08/06/sell-naked-put-to-open-a-position.html">通过卖出看跌期权抄底建仓</a></li><li><a href="https://invest.einverne.info/2021/08/06/sell-call-option-to-keep-profit.html">通过卖出看涨期权止盈</a></li></ul><p>这两个交易策略是股市上最基本的操作策略。</p><h2 id="什么是双币投资"><a href="#什么是双币投资" class="headerlink" title="什么是双币投资"></a>什么是双币投资</h2><p>双币投资是一种浮动收益的非保本型投资产品。在<a href="https://gtk.pw/bnb" target="_blank" rel="noopener">币安</a> 中，双币投资是理财板块下面的一个理财方式。</p><ul><li>双币投资是一种<strong>短期</strong>投资产品，周期从几天到数月，满足不同用户对流动性与风险的不同需要</li><li>收益率在购买时是明确且固定的，但是结算货币是不确定的</li><li>产品到期时，结算货币取决于到期时结算价与挂钩价的对比结果。</li></ul><h2 id="双币投资的优势"><a href="#双币投资的优势" class="headerlink" title="双币投资的优势"></a>双币投资的优势</h2><ul><li>低买高卖</li><li>不论市场走势，都可以获取高额的被动收入</li><li>选择面广，可以自行选择加密货币种类，自行设置交割日期和目标价格</li><li>零交易费用</li></ul><h2 id="如何操作"><a href="#如何操作" class="headerlink" title="如何操作"></a>如何操作</h2><p>用户只需要选择相应加密货币在特定日期的目标价格，然后选择高卖还是低买，即可享受更高收益。无论市场走势如何，都将可以获得一定收益。</p><p>术语解释：</p><ul><li>投资金额：申购双币投资后，希望买入/卖出多少金额的何种代币</li><li>目标价格：希望以什么价格买卖加密货币</li><li>投资时长：通常是 1 到 5 天</li><li>结算价格，结算日期当天 8:00 UTC，30 分钟前 Bybit 的现货市场价格的平均值。</li></ul><h3 id="低买"><a href="#低买" class="headerlink" title="低买"></a>低买</h3><p>用户有机会在特定的日期（结算日）以更低的价格（稳定币 USDT）买入所选加密货币（BTC），同时通过更高收益获得更多 [[USDT]]。</p><p>结算当天可能会出现两种情况：</p><ul><li>达到目标价格，结算当天，市场价格平均值等于或低于目标价格，系统将自动买入目标加密货币（BTC）</li><li>未达到目标价格，市场价高于目标价格，系统不会买入目标加密货币，用户仍然会获得 USDT 收益。</li></ul><h3 id="高卖"><a href="#高卖" class="headerlink" title="高卖"></a>高卖</h3><p>用户有机会在特定的日期以更高的价格卖出某加密货币（BTC），同时获得更多收益。</p><ul><li>目标达成，结算日，市场价格等于或高于目标价格，将加密货币（BTC）出售换成稳定币（USDT）</li><li>目标未达成，结算日，市场价格低于目标价格，继续保有加密货币（BTC）</li></ul><p>以上两种情况都可以获得 USDT 产生的收益。</p><p>其实到这个地方，大家应该都可以看出来了，其实双币投资的底层逻辑和股票市场中的期权中的 [[Sell Covered Call]] 和 [[Naked Sell Put]] 其实是一样的。</p><h2 id="何时利用双币投资"><a href="#何时利用双币投资" class="headerlink" title="何时利用双币投资"></a>何时利用双币投资</h2><ul><li>止盈，目标价格卖出</li><li>抄底，在市场低谷期，以目标价格买入加密货币</li><li>赚取更多加密货币，持有加密货币，持有的同时赚取额外收益</li><li>赚取更多稳定币，持有稳定币，在持有同时赚取额外收益</li></ul><h2 id="如何获取收益"><a href="#如何获取收益" class="headerlink" title="如何获取收益"></a>如何获取收益</h2><p>每笔已确认的双币投资申购都有相应的结算时间，即结算日期当天的 8:00 (UTC)。</p><p>结算时间后的 5 分钟内，您通过双币投资申购获得的收益将返还到您的理财账户。如果未达到目标价格，且您启用了自动复投功能，您的加密货币将自动复投到下一期双币投资方案中。</p><h2 id="什么是自动复投"><a href="#什么是自动复投" class="headerlink" title="什么是自动复投"></a>什么是自动复投</h2><p>用户打开自动复投功能后，如果在结算日期未达到目标价格，则系统会自动重新申购双币投资方案。</p><p>启用自动复投功能后，系统将协助交易者使用初始申购的收益，自动重新申购新的双币投资计划。</p><p>自动复投将申购相同代币，并选择相同的目标价格和下一个可选的结算时间。</p><p>只有前一个订单的“低买”或“高卖”目标价格未达到的情况下，才会启用“自动复投”申购。</p><h2 id="双币投资的风险"><a href="#双币投资的风险" class="headerlink" title="双币投资的风险"></a>双币投资的风险</h2><p>双币投资当然存在风险</p><ul><li>收到市场波动性的影响，资产价值回报无法保证<ul><li>根据投资规则，唯一的不确定性在于结算币种。结算币种将由到期时的结算价与挂钩价的比较结果决定。高波动性市场情况下，用户较难预测到期时的结算价，以及到期时结算价和挂钩价的差距。</li></ul></li><li>用户申购的资产将被锁定， 在结算日期之前不能撤回撤销或赎回</li><li>价格进一步偏离目标价格，用户将失去以更低价格买比特币的计划</li><li>只有根据结算日期当天的价格完成</li></ul><p>双币投资并非 0 风险投资。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上个礼拜和朋友吃饭的时候突然聊起来 [[Sell Covered Call]] 和 [[Naked Sell Put]]，当他听我说完这两个在金融股票市场上的交易策略时，和我说了在加密货币市场有一个非常类似的理财产品，一般的交易所都将其包装成一个浮动收益率的投资产品，对用户
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="期权" scheme="https://invest.einverne.info/tags/%E6%9C%9F%E6%9D%83/"/>
+    
+      <category term="币安" scheme="https://invest.einverne.info/tags/%E5%B8%81%E5%AE%89/"/>
+    
+      <category term="binance" scheme="https://invest.einverne.info/tags/binance/"/>
+    
+      <category term="双币投资" scheme="https://invest.einverne.info/tags/%E5%8F%8C%E5%B8%81%E6%8A%95%E8%B5%84/"/>
+    
+      <category term="卖出看涨期权" scheme="https://invest.einverne.info/tags/%E5%8D%96%E5%87%BA%E7%9C%8B%E6%B6%A8%E6%9C%9F%E6%9D%83/"/>
+    
+      <category term="看出看跌期权" scheme="https://invest.einverne.info/tags/%E7%9C%8B%E5%87%BA%E7%9C%8B%E8%B7%8C%E6%9C%9F%E6%9D%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国债逆回购以及购买小贴士</title>
+    <link href="https://invest.einverne.info/2023/04/11/government-bonds.html"/>
+    <id>https://invest.einverne.info/2023/04/11/government-bonds.html</id>
+    <published>2023-04-11T02:36:21.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>国债逆回购本质上可以理解为短期贷款。将钱借给别人获得固定利息。</p><p>他人使用债券作为质押，由沪深交易所监督，到期还本付息。</p><h2 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h2><ul><li>稳健，风险相对较低，本质是国债抵押贷款，国债作为担保</li><li>收益不错，在月末，季度末，年底等市场资金比较紧张时，可能出现较高的年化收益率</li><li>流动性好，投资事件可以分为 1 天，2 天，3 天，4 天，7 天，28 天，半年等等</li><li>门槛低，深市和沪市都是 1000 元以上就可以参与。</li></ul><p>门槛低，稳健，收益率不错，灵活取用，适合短期资金的理财产品。</p><h2 id="手续费"><a href="#手续费" class="headerlink" title="手续费"></a>手续费</h2><p>根据持有天数为十万分之一 到 万分之三不等。</p><p>国债逆回购的手续费，1 天期的手续费 10 万交易费 1 元。</p><table><thead><tr><th>期限</th><th>手续费率</th><th>10 万元手续费</th><th>代码</th></tr></thead><tbody><tr><td>1 天</td><td>0.001%</td><td>1</td><td>204001/131810</td></tr><tr><td>2</td><td>0.002%</td><td>2</td><td>204002/131811</td></tr><tr><td>3</td><td>0.003%</td><td>3</td><td>204003/131800</td></tr><tr><td>4</td><td>0.004%</td><td>4</td><td>204004/131809</td></tr><tr><td>7</td><td>0.005%</td><td>5</td><td>204007/131801</td></tr><tr><td>14</td><td>0.010%</td><td>10</td><td>204014/131802</td></tr><tr><td>28</td><td>0.020%</td><td>20</td><td>204028/131803</td></tr><tr><td>91</td><td>0.030%</td><td>30</td><td>204091/131805</td></tr><tr><td>182</td><td>0.030%</td><td>30</td><td>204182/131806</td></tr></tbody></table><h2 id="风险"><a href="#风险" class="headerlink" title="风险"></a>风险</h2><p>可能出现的亏损</p><ul><li>利率太低不足以抵扣手续费。</li></ul><h2 id="收益率波动"><a href="#收益率波动" class="headerlink" title="收益率波动"></a>收益率波动</h2><p>一般来说，上午、下午开盘时收益率较高。收盘时根据市场资金需求，有高低。</p><h2 id="收益计算"><a href="#收益计算" class="headerlink" title="收益计算"></a>收益计算</h2><p>固定收益率。</p><pre><code>收益 = 交易金额 * 收益率 * 计息天数 / 365</code></pre><h2 id="一些操作小技巧"><a href="#一些操作小技巧" class="headerlink" title="一些操作小技巧"></a>一些操作小技巧</h2><ul><li>购买事件，除了月末，季度末，年底，节假日前等大节点购买，每周四买更合适，会把周末两天的收益都算进去。一般上午购买年化收益较高，建议在 9:30 到 10:00 区间购买</li><li>提取时间，T 日操作国债逆回购，T+N 期清算，若 T+N 非交易日，顺延至下一个交易日清算，本息都会自动返回到证券账户。</li></ul><p>[[如何交易国债逆回购]]</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;国债逆回购本质上可以理解为短期贷款。将钱借给别人获得固定利息。&lt;/p&gt;
+&lt;p&gt;他人使用债券作为质押，由沪深交易所监督，到期还本付息。&lt;/p&gt;
+&lt;h2 id=&quot;优点&quot;&gt;&lt;a href=&quot;#优点&quot; class=&quot;headerlink&quot; title=&quot;优点&quot;&gt;&lt;/a&gt;优点&lt;/h2
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="国债逆回购" scheme="https://invest.einverne.info/tags/%E5%9B%BD%E5%80%BA%E9%80%86%E5%9B%9E%E8%B4%AD/"/>
+    
+      <category term="国债" scheme="https://invest.einverne.info/tags/%E5%9B%BD%E5%80%BA/"/>
+    
+      <category term="理财" scheme="https://invest.einverne.info/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="投资" scheme="https://invest.einverne.info/tags/%E6%8A%95%E8%B5%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是 LP 池</title>
+    <link href="https://invest.einverne.info/2023/03/21/what-is-liquidity-pool.html"/>
+    <id>https://invest.einverne.info/2023/03/21/what-is-liquidity-pool.html</id>
+    <published>2023-03-21T12:47:59.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天在阅读文章的时候，作者在文中提到了一个专有名词 LP 池，现在就来学习一下什么是 LP 池。</p><p>LP 池的全称是 Liquidity Pool（指流动性提供池），也称为做市商池（Market Maker Pool）。它是一种由去中心化交易所（DEX）使用的机制，用于在区块链上提供资金池以供交易。</p><p>LP 池通常由两种代币组成，这些代币可以在交易所上交换。这两种代币的数量和价值相等，但代币数量可能会随着时间的推移而变化。举例来说，如果一个 LP 池由代币 A 和代币 B 组成，一个交易者想要购买代币 A，他可以将代币 B 交换成代币 A，并使 LP 池中代币 B 的数量减少，代币 A 的数量增加。交易者支付的费用一部分会作为奖励分配给 LP 提供者，以鼓励更多的流动性提供者参与。</p><p>通过使用 LP 池，交易者可以在不需要集中的交易所的情况下交换代币。这也使得资产定价更加公正和透明，因为价格是由 LP 池中代币的供需关系所决定的。同时，流动性提供者也可以通过提供资金来赚取收益，从而使其资金更有利用价值。</p><h2 id="什么叫做提供流动性"><a href="#什么叫做提供流动性" class="headerlink" title="什么叫做提供流动性"></a>什么叫做提供流动性</h2><p>[[流动性]] 指的是能够交易某种资产而不会造成大幅的价格变化。比如，BTC 是具有高流动性的资产，可以在数千个交易所以任何金额交易，而不会显著地影响其价格。然而不是每一个代币都拥有 BTC 类似的流动性，因为可能交易量很小而导致少量的交易就可能对价格变化影响非常大。</p><h2 id="LP-池如何运作"><a href="#LP-池如何运作" class="headerlink" title="LP 池如何运作"></a>LP 池如何运作</h2><p>在 LP 池中存入一定代币之后，会收到 LP 代币作为借贷收据。LP 代币表示在 LP 池中的份额，并允许用户取回存款并获得一定的利息。</p><h2 id="在哪里能获取-LP-池代币"><a href="#在哪里能获取-LP-池代币" class="headerlink" title="在哪里能获取 LP 池代币"></a>在哪里能获取 LP 池代币</h2><p>LP 代币只会发给流动性提供者，如果要收到代币，必须使用 DeFi [[去中心化应用程序 DApp]] 来提供流动性，比如 PancakeSwap, [[Uniswap]]。LP 代币系统在很多区块链、DeFi 平台、自动造市者模式与去中心化交易所（DEXs）上都很常见。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://academy.binance.com/zt/articles/what-are-liquidity-pool-lp-tokens" target="_blank" rel="noopener">https://academy.binance.com/zt/articles/what-are-liquidity-pool-lp-tokens</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天在阅读文章的时候，作者在文中提到了一个专有名词 LP 池，现在就来学习一下什么是 LP 池。&lt;/p&gt;
+&lt;p&gt;LP 池的全称是 Liquidity Pool（指流动性提供池），也称为做市商池（Market Maker Pool）。它是一种由去中心化交易所（DEX）使用的机
+      
+    
+    </summary>
+    
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="代币" scheme="https://invest.einverne.info/tags/%E4%BB%A3%E5%B8%81/"/>
+    
+      <category term="数字货币" scheme="https://invest.einverne.info/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中信国际提款卡无法在日本提款问题解决</title>
+    <link href="https://invest.einverne.info/2023/03/17/citic-hk-card-atm.html"/>
+    <id>https://invest.einverne.info/2023/03/17/citic-hk-card-atm.html</id>
+    <published>2023-03-17T13:57:45.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>中信（中信银行）国际香港卡提供一张实体的银行卡，这张卡上有银联和香港的易辦事 Logo，也就意味着可以作为一张提款卡在全球支持银联的 ATM 机器上进行提款。</p><p>但是因为这些天来日本就在中信国际的香港卡上开通了日元账户，并把港币兑换成了日元，但是我万万没有想到的是在日本 7-11 的 ATM 机器上竟然没有办法取出来日元。机器报错说是超过了限额，然而我已经在中信国际的页面中开通了海外自动柜员机提款限额 20000 港币，而我只取了 20000 日元，是完全在限额内的。</p><p><img src="https://photo.einverne.info/images/2023/03/17/OTiH.png" alt="OTiH"></p><p>但是我仔细查阅了相关资料之后才发现，中信国际的提款卡默认是扣取的港币账户，也就是说在 ATM 取现的时候会从港币账户扣款，而我的港币已经被我操作兑换成了日元，里面只有几十港币，所以才出现了上面一幕提款超过限额，这里的限额指的是我账户里面没有余额了。o&lt;(=╯□╰=)&gt;o</p><p>在日本 7-11 ATM 取款默认需要 110 日元的手续费。</p><p>以 2023 年 3 月的实时汇率，我在 7-11 取款 20000 日元，实际从港币账户扣除 1206.11 港币，我实时查了一下汇率，是 20110 日元兑换的实时汇率。也就是在扣款的时候已经加上了 110 的手续费。</p><h2 id="在大陆使用中信国际提款"><a href="#在大陆使用中信国际提款" class="headerlink" title="在大陆使用中信国际提款"></a>在大陆使用中信国际提款</h2><p>顺便在这里补充一下在大陆使用 ATM 来取款的话，会收取 15 人民币的手续费，会直接在港币账户扣款。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;中信（中信银行）国际香港卡提供一张实体的银行卡，这张卡上有银联和香港的易辦事 Logo，也就意味着可以作为一张提款卡在全球支持银联的 ATM 机器上进行提款。&lt;/p&gt;
+&lt;p&gt;但是因为这些天来日本就在中信国际的香港卡上开通了日元账户，并把港币兑换成了日元，但是我万万没有想到的
+      
+    
+    </summary>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/categories/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+    
+      <category term="香港卡" scheme="https://invest.einverne.info/tags/%E9%A6%99%E6%B8%AF%E5%8D%A1/"/>
+    
+      <category term="提款卡" scheme="https://invest.einverne.info/tags/%E6%8F%90%E6%AC%BE%E5%8D%A1/"/>
+    
+      <category term="ATM" scheme="https://invest.einverne.info/tags/ATM/"/>
+    
+      <category term="取现" scheme="https://invest.einverne.info/tags/%E5%8F%96%E7%8E%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>转入 TRX 激活 TRON 钱包以便接受 USDT 转入</title>
+    <link href="https://invest.einverne.info/2023/01/21/activate-tron-wallet.html"/>
+    <id>https://invest.einverne.info/2023/01/21/activate-tron-wallet.html</id>
+    <published>2023-01-21T06:59:44.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>在 [[Binance]] 上开设了一个 USDT 的收款地址，但是这个地址没有进行注资，所以还是未激活状态，需要转入 TRX 对地址进行激活。</p><p>报错的内容：</p><blockquote><p>this address is not activated it will cost 1 trx to activate<br>Sending TRC20 to a new account won’t activate it</p></blockquote><p>新创建的账户不存在链上，需要激活账户才能查询到。</p><p>USDT 代币是在 TRON 网络上，所有的 Tron 新账户在使用之前都需要激活：<a href="https://developers.tron.network/docs/account#account-activation" target="_blank" rel="noopener">^1</a></p><ul><li>在向这个地址储值 TRC-20 token 之前都需要激活 Tron 账户</li><li>需要至少向该地址发送 0.1 TRX 来开启 TRC-20 的存入</li></ul><h2 id="什么是-USDT"><a href="#什么是-USDT" class="headerlink" title="什么是 USDT"></a>什么是 USDT</h2><p>[[USDT]] ，常被翻译成泰达币（Tether），是由 Tether 公司发行的一种将加密货币与法定货币美元挂钩的数字货币。Tether 将现金转成数字货币，与美元 1:1 挂钩。Tether 声称起法定储备账户会定期接受审查。所有 Tether 交易记录都记录在公共区块链上。</p><h2 id="什么是-TRON"><a href="#什么是-TRON" class="headerlink" title="什么是 TRON"></a>什么是 TRON</h2><p>[[TRON]] 波场是一个去中心化的区块链网络，2018 年 5 月正式上线主网，其原生代币为 TRX。在比特币、以太坊上转账时需要通过 BTC、ETH 来支付手续费。在波场进行转账时消耗的是<strong>带宽和能量</strong>。</p><p>BTC、ETH 和 TRX 都是主网币，而基于这些主网创建的代币相当于租住在主网币房东的家里，缴纳手续费的方式是由主网这个房东决定的。比特币和以太坊立下的规矩是，代币转账需要用 BTC 和 ETH 来支付，而波场立下的规矩则是用能量和带宽来支付。</p><p>波场上有两类常见租客（两类常见的代币格式）：TRC-10 和 TRC-20。转账 TRX 和 TRC-10 代币时需要消耗带宽，转账 TRC-20 代币时需要消耗带宽和能量。</p><p>例如波场上的 USDT 就是 TRC-20 格式。每个波场账户每天能免费收到 1500 B 的带宽点（Bandwidth Points 简称 BP）。由于 1KB = 1024 B，所以 1500 B = 1500/1024 KB ≈ 1.46 KB。如果你想获得能量或者更多的带宽，有两种方法。</p><ul><li>方法一：燃烧 TRX（推荐）<ul><li>在波场钱包中转入 50-100 个 TRX 代币，转账时会自动燃烧 TRX 以抵扣转账所需的带宽和能量。</li></ul></li><li>方法二：冻结 TRX<ul><li>进入 TRON 资源管理界面，选择想获得的资源类型，输入需冻结的 TRX 数量，建议冻结 3000 个。冻结后的 TRX 在 3 天后可以解冻取回。</li></ul></li></ul><h2 id="如何购买-Tether-USDT"><a href="#如何购买-Tether-USDT" class="headerlink" title="如何购买 Tether(USDT)"></a>如何购买 Tether(USDT)</h2><p>在加密货币交易所，可以通过法币购买 USDT。但是由于各个国家的法律政策不尽相同，所以不同地区可选择的方式不同，但是大致可以分成如下几种方式：</p><ul><li>使用信用卡购买</li><li>使用银行转账，通过 SWFIT 转账购买</li><li>C2C 交易，直接向其他用户购买</li><li>第三方支付等</li></ul><h2 id="激活-USDT-地址"><a href="#激活-USDT-地址" class="headerlink" title="激活 USDT 地址"></a>激活 USDT 地址</h2><p>首次使用 Binance 上的 USDT，需要先向其中转账超过 1 TRX 以激活该地址。向钱包的地址中转入 TRX 即可激活钱包，激活后如果要发起转账需要消耗带宽、能量等资源。向钱包地址中转入 TRX 即可激活账户。</p><p>激活后如果要发起转账，需消耗带宽、能量等资源。若钱包中没有足够可用的 TRX 来提供这些资源，转账时就会出现失败或被提示没有足够的带宽。因此建议你向钱包中转入 50 ～ 100 个 TRX，即可激活账户并满足后续转账等操作的需求。</p><h2 id="如何激活钱包地址"><a href="#如何激活钱包地址" class="headerlink" title="如何激活钱包地址"></a>如何激活钱包地址</h2><p>当创建了 Tron 钱包，用户无法直接转账到该钱包，因为交易会消耗带宽（bandwidth），如果没有足够的带宽会消耗一定的 TRX。 所以，需要有一定的 TRX 余额来激活（Activate）TRON 钱包。</p><p>主要是分成两个步骤：</p><ul><li>在交易所购买 TRX</li><li>将 TRX 存入钱包</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在 [[Binance]] 上开设了一个 USDT 的收款地址，但是这个地址没有进行注资，所以还是未激活状态，需要转入 TRX 对地址进行激活。&lt;/p&gt;
+&lt;p&gt;报错的内容：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this address is not activated 
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="tron" scheme="https://invest.einverne.info/tags/tron/"/>
+    
+      <category term="usdt" scheme="https://invest.einverne.info/tags/usdt/"/>
+    
+      <category term="trx" scheme="https://invest.einverne.info/tags/trx/"/>
+    
+      <category term="binanceA" scheme="https://invest.einverne.info/tags/binanceA/"/>
+    
+      <category term="cryptocurrency" scheme="https://invest.einverne.info/tags/cryptocurrency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加密货币数字钱包的助记词是什么</title>
+    <link href="https://invest.einverne.info/2023/01/20/cryptocurrency-mnemonic-phrase.html"/>
+    <id>https://invest.einverne.info/2023/01/20/cryptocurrency-mnemonic-phrase.html</id>
+    <published>2023-01-20T02:14:21.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>对于刚刚入门加密货币的小伙伴来说，可能有一个疑问，为什么生成的随机 12 个或 24 个英文单词就可以产生一个钱包，或者恢复一个数字钱包。</p><p>这一组英文单词的序列被称为钱包助记词，是用来唯一表示你是该钱包的所有人的方法。这个助记词需要保管好，千万不能泄漏。</p><h2 id="钱包助记词"><a href="#钱包助记词" class="headerlink" title="钱包助记词"></a>钱包助记词</h2><p>钱包助记词英文是 mnemonic phrase ，也叫做 recovery phrase，或 seed phrase 。</p><p>我们知道钱包是存钱的，我们只有创建了数字钱包才能够接受或者发送加密货币。在区块链中，数字资产会对应到一个账户中，用户只需要拥有钱包的私钥就可以对钱包内的资产进行消费，私钥会对交易进行签名。</p><h2 id="创建钱包"><a href="#创建钱包" class="headerlink" title="创建钱包"></a>创建钱包</h2><p>我们回归到数字钱包创建的时候，如果我们要生成一个数字钱包，只需要使用[[加密货币数字钱包]]（包括了软件钱包，硬件钱包等等）生成一个私钥，这个私钥是一个 32 字节的数，私钥生成的方法本质上是在 2^256 次方之间选择一个数字。</p><h3 id="生成私钥"><a href="#生成私钥" class="headerlink" title="生成私钥"></a>生成私钥</h3><p>当生成了一个随机 256 位的私钥之后，会通过一次 SHA256，然后在 SHA256 前加入两位版本号，后面加入 2 位压缩记号，以及再附加 8 bit 的 Checksum 校验码。之后再进行 Base58 编码。</p><p><img src="https://photo.einverne.info/images/2023/06/04/9ryL.png" alt="9ryL"></p><p>而助记词本质上是私钥的另一种表现，最早是由 <a href="https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki" target="_blank" rel="noopener">BIP39</a> 提案提出，其目的是为了帮助用户记忆复杂的私钥。助记词一般由 12、15、18、24 个单词构成，这些单词都取自一个固定词库，其生成顺序也是按照一定算法而来，所以用户没必要担心随便输入 12 个单词就会生成一个地址。有了 BIP39，用户就不需要再记忆二进制或者十六进制复杂的私钥。</p><p>BIP39 提案中助记词可以用 10 种语言来表示，但我们接触最多的还是英文单词，BIP39 规范中英文部分会使用 2048 个单词的组合，我们试想一下 2048 个不同单词的 24 种组合方式，也就是存在 2048^24 次方种可能，这是一个巨大无比的数字。所以这也是我们不用担心随便找 24 个单词组合一下就能出现一个钱包的问题。</p><ul><li><a href="https://iancoleman.io/bip39/" target="_blank" rel="noopener">助记词转换器</a></li></ul><p>但是需要注意的是任何人得到了你的助记词，可以不费吹灰之力的夺走你的资产。</p><blockquote><p>Know your key, Know your coin。</p></blockquote><p>在交易所钱包中的资产并不属于你，在去中心化的加密货币领域，只有当用户掌握了私钥，掌握了助记词，数字资产才真正属于用户。</p><h2 id="生成公钥（钱包地址）"><a href="#生成公钥（钱包地址）" class="headerlink" title="生成公钥（钱包地址）"></a>生成公钥（钱包地址）</h2><p>得到私钥之后，私钥会通过椭圆曲线相乘的方式生成公钥，然后公钥会通过哈希函数单向生成比特币地址。而这中间的加密，Hash 的过程都是不可逆的。所以也就是当我们知道私钥时，我们可以推出公钥和加密货币地址。但是当我们拥有加密货币地址时无法逆向推出私钥。</p><p><img src="https://photo.einverne.info/images/2023/06/04/AIw3.png" alt="AIw3"></p><p>数字钱包本质上是一个管理私钥的工具，提供了生成，存储，签名等等。钱包并不实际保存资产，所有的资产都是在链上的。</p><h2 id="助记词和私钥的关系"><a href="#助记词和私钥的关系" class="headerlink" title="助记词和私钥的关系"></a>助记词和私钥的关系</h2><p>另外就是当我们使用硬件钱包或者其他软件钱包的时候，会发现可能每一次钱包给出的地址都不一样，其实是因为一个助记词（Mnemonic）会对应着很多的私钥地址。助记词通过编码形成一个钱包种子（Seed），对应多个私钥（Private Key），而每一个私钥都对应着一个钱包地址（Address）。其他人转账到这些钱包地址都可以让我们通过这个助记词所在的钱包来进行管理。比特币每次在发送的时候，都会有一个新地址接收剩余余额，这些地址都是相同的私钥种子（Seed）派生的钱包地址，都受同一个助记词控制，只要你掌握着助记词，你就掌握着所有这些地址的资产，你在接受别人付款的时候，原来的地址继续用于收款，没有任何影响。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;对于刚刚入门加密货币的小伙伴来说，可能有一个疑问，为什么生成的随机 12 个或 24 个英文单词就可以产生一个钱包，或者恢复一个数字钱包。&lt;/p&gt;
+&lt;p&gt;这一组英文单词的序列被称为钱包助记词，是用来唯一表示你是该钱包的所有人的方法。这个助记词需要保管好，千万不能泄漏。&lt;/p
+      
+    
+    </summary>
+    
+    
+    
+      <category term="cryptocurrency" scheme="https://invest.einverne.info/tags/cryptocurrency/"/>
+    
+      <category term="加密货币" scheme="https://invest.einverne.info/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/"/>
+    
+      <category term="wallet" scheme="https://invest.einverne.info/tags/wallet/"/>
+    
+      <category term="hardware-wallet" scheme="https://invest.einverne.info/tags/hardware-wallet/"/>
+    
+      <category term="mnemonic-phrase" scheme="https://invest.einverne.info/tags/mnemonic-phrase/"/>
+    
+      <category term="助记词" scheme="https://invest.einverne.info/tags/%E5%8A%A9%E8%AE%B0%E8%AF%8D/"/>
+    
+      <category term="硬件钱包" scheme="https://invest.einverne.info/tags/%E7%A1%AC%E4%BB%B6%E9%92%B1%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再次理解债券</title>
+    <link href="https://invest.einverne.info/2022/12/21/bond.html"/>
+    <id>https://invest.einverne.info/2022/12/21/bond.html</id>
+    <published>2022-12-20T16:00:00.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>我原本以为我已经完全理解了债券市场，债券基金，但是没想到 2022 年 11 月的债券大跌又冲击了我的知识体系，暴露了我原来认识债券的不足。所以正好有这个机会来再全面理解一下债券。</p><h2 id="什么是债券"><a href="#什么是债券" class="headerlink" title="什么是债券"></a>什么是债券</h2><p>债券是一种有价证券，经济主体为了筹措资金而向债券投资者出具，并承诺一定利率定期支付利息和到期偿还本金的债权债务凭证。债券，就是借钱的凭证，借款人，<strong>有中央政府、地方政府、金融机构、上市公司、企业</strong>。债券的本质是债的证明书，具有法律效力。债券购买者与发行者之间是一种债权债务关系、债券发行人即债务人，投资者（或债券持有人）即债权人。</p><p>不同的借款主体，因为信用等级不一样，因此借款利率有高有低。</p><p>债券的两个特点：</p><ul><li>固定利息</li><li>有固定期限</li></ul><p>当你购买债券时，实际上是在向政府、公司或其他实体贷款。贷款给联邦政府，就是国库券；当贷款给某城市、州或县，就是市政债券；当贷款给公司，就是公司债券。 from [[不可撼动的财务自由]]</p><p>债券是有贷款期限的。</p><p>时间越长，风险越大，但收益也越高。</p><h2 id="债券的类型"><a href="#债券的类型" class="headerlink" title="债券的类型"></a>债券的类型</h2><h3 id="国债"><a href="#国债" class="headerlink" title="国债"></a>国债</h3><p>由财政部代表中央政府发行的债券。以国家信用作为偿还的保障，信用等级高。</p><h3 id="公司债券"><a href="#公司债券" class="headerlink" title="公司债券"></a>公司债券</h3><p>公司发行的公司债。</p><h2 id="为什么债券值得买"><a href="#为什么债券值得买" class="headerlink" title="为什么债券值得买"></a>为什么债券值得买</h2><ul><li>比股票安全，法律要求借款人偿还你的债务（除非发行人破产）</li></ul><h2 id="债券的风险"><a href="#债券的风险" class="headerlink" title="债券的风险"></a>债券的风险</h2><p>债券存在的风险：</p><ul><li>信用风险，指债券发行机构的偿还能力，也就是违约风险。如果发行机构无法按时偿还本金或利息，投资者的收益就会受到影响</li><li>利率风险，指债券市场的利率水平变化对投资者收益的影响。如果利率升高，债券价值就会下降，从而导致投资者的收益降低</li><li>汇率风险，指投资者持有的债券是外币债券时，汇率变化对投资者收益的影响。如果汇率变化使得外币贬值，投资者持有的债券价值就会降低。</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>2022 年 11 月份的债券几天时间跌去了过去几个月的收益，不仅影响到了债券基金本身，部分银行稳健理财也是持有债券居多，影响面颇广。如果总结 11 月份债券市场的下跌主要原因还是因为利率波动，利率长期处于低位，加之疫情防控措施变化，利率反转，债券下跌，同时下跌引起机构的抛售操作导致债券价格进一步下跌，同时由于市场恐慌，导致大量投资者赎回，进一步下跌。总体来说债券的价格受到利率影响比较多，如果重仓债券，债券基金可以对利率关注多一些。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我原本以为我已经完全理解了债券市场，债券基金，但是没想到 2022 年 11 月的债券大跌又冲击了我的知识体系，暴露了我原来认识债券的不足。所以正好有这个机会来再全面理解一下债券。&lt;/p&gt;
+&lt;h2 id=&quot;什么是债券&quot;&gt;&lt;a href=&quot;#什么是债券&quot; class=&quot;hea
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="债券基金" scheme="https://invest.einverne.info/tags/%E5%80%BA%E5%88%B8%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="bond" scheme="https://invest.einverne.info/tags/bond/"/>
+    
+      <category term="fund" scheme="https://invest.einverne.info/tags/fund/"/>
+    
+      <category term="债券" scheme="https://invest.einverne.info/tags/%E5%80%BA%E5%88%B8/"/>
+    
+      <category term="利率" scheme="https://invest.einverne.info/tags/%E5%88%A9%E7%8E%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华泰证券美港股 涨乐全球通使用</title>
+    <link href="https://invest.einverne.info/2022/07/26/htsc.html"/>
+    <id>https://invest.einverne.info/2022/07/26/htsc.html</id>
+    <published>2022-07-26T05:49:45.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>[[华泰证券]] 是一家内地的证券公司，涨乐全球通是华泰证券推出的一款美港股交易软件。涨乐全球通是香港证监会认可的持牌机构。</p><h2 id="入金奖励"><a href="#入金奖励" class="headerlink" title="入金奖励"></a>入金奖励</h2><ol><li>新开户认证送：1 年港美股 0 佣金 0 平台费 +50 港币基金券</li><li>首次入金 ≥2w 港币送：100 元京东卡 +2 股港交所 +200 港币基金券；<br>首次入金 &gt;=10w 港币送：100 元京东卡 +3 股港交所 +200 港币基金券</li></ol><h2 id="出入金手续费"><a href="#出入金手续费" class="headerlink" title="出入金手续费"></a>出入金手续费</h2><p>华泰入金支持 FPS ，0 费用，入金到子账户就可以，注意使用 FPS 通道，不要走普通转账。</p><p>出金是中银香港，走的转账，中银企业账户收 25 港币，入账看大家的银行卡，一般都是 15 港币，有些是免费首次入金一定要 2 万以上，股票激励是首次入金才有的。</p><p>在开户完成注册之后，华泰国际会发一封信到你邮箱：标题是“华泰金融控股（香港）有限公司 - 交易账户存款途径”，里面有转款需要的信息。</p><p>一般选择“直接存至本公司为您开立的银行子账户内”。</p><h2 id="交易费用"><a href="#交易费用" class="headerlink" title="交易费用"></a>交易费用</h2><p>电子渠道，线上交易</p><p>如果是非会员，</p><ul><li>佣金：每宗交易金额的 0.029%，最低收费 2.9 港元</li><li>平台费：15 港元</li><li>打新手续费：融资认购申请每次 100 港元，非融资申购每次 50 港元</li></ul><p>V1，V2，V3 会员则免去了佣金、平台费、打新手续费等等费用。</p><p>其他渠道，比如电话挂单等等可以参考官网说明。</p><p>美股交易费用<br><img src="https://photo.einverne.info/images/2022/10/01/zt6p.png" alt="华泰证券涨乐全球通美股收费"></p><p><img src="https://photo.einverne.info/images/2022/10/01/RInN.png" alt="华泰证券交易美股费用"></p><p>港股交易费用</p><p><img src="https://photo.einverne.info/images/2022/10/01/RVK2.png" alt="华泰证券全球通港股交易费用"></p><p><img src="https://photo.einverne.info/images/2022/10/01/R7GG.png" alt="华泰证券港股交易其他费用"></p><p><img src="https://photo.einverne.info/images/2022/10/01/RGRM.png" alt="华泰证券交易港股费用"></p><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p>会员免佣金和平台费，打新免申购费用</p><h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><p>涨乐全球通的应用可能是刚刚发布，在易用性和实用性方面距离一个成熟易用的证券交易应用还有一些距离。但是鉴于华泰大陆的应用易用性还可以，所以可以继续观察一下。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[[华泰证券]] 是一家内地的证券公司，涨乐全球通是华泰证券推出的一款美港股交易软件。涨乐全球通是香港证监会认可的持牌机构。&lt;/p&gt;
+&lt;h2 id=&quot;入金奖励&quot;&gt;&lt;a href=&quot;#入金奖励&quot; class=&quot;headerlink&quot; title=&quot;入金奖励&quot;&gt;&lt;/a&gt;入金奖励
+      
+    
+    </summary>
+    
+    
+      <category term="券商" scheme="https://invest.einverne.info/categories/%E5%88%B8%E5%95%86/"/>
+    
+    
+      <category term="华泰证券" scheme="https://invest.einverne.info/tags/%E5%8D%8E%E6%B3%B0%E8%AF%81%E5%88%B8/"/>
+    
+      <category term="美港股" scheme="https://invest.einverne.info/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/"/>
+    
+      <category term="涨乐" scheme="https://invest.einverne.info/tags/%E6%B6%A8%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何理解 FIRE 财务独立 提前退休</title>
+    <link href="https://invest.einverne.info/2022/07/25/fire.html"/>
+    <id>https://invest.einverne.info/2022/07/25/fire.html</id>
+    <published>2022-07-25T11:36:55.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是-FIRE"><a href="#什么是-FIRE" class="headerlink" title="什么是 FIRE"></a>什么是 FIRE</h2><p>[[FIRE]] 是 Financial Independence to Retire Early 的缩写，翻译成中文就是「财务独立，提前退休」。这个理念自上世纪 90 年代被提出之后已经被无数人实践。很多人总结出一个简单的实践方式，通过累积存款和投资迅速积累<strong>年支出</strong>的 25 倍的资产，在 30~40 岁左右就退休或脱离全职工作。</p><h3 id="FIRE-的历史"><a href="#FIRE-的历史" class="headerlink" title="FIRE 的历史"></a>FIRE 的历史</h3><p>Vicki Robin &amp; Joe Dominguez 在 1992 年出版过一本叫做《跟钱好好相处：幸福的关键是找到金钱与人生的平衡点》。</p><p>后来以为加拿大人 Pete Adeney 成立了 FIRE 组织，大力提倡 FIRE 理念。FIRE 作为一种新的理念已经从美国蔓延到了全球各地，实践 FIRE 的人们被称为 FIRE 族。</p><h3 id="FIRE-的-25-倍法则"><a href="#FIRE-的-25-倍法则" class="headerlink" title="FIRE 的 25 倍法则"></a>FIRE 的 25 倍法则</h3><p>FIRE 族推崇一种简约的生活，提早审视自己的基本生活开销，在过去多年的实践经验中，如下三个法则被提了出来。</p><p>4% 法则，25 倍法则，300 倍法则</p><ul><li>积累<strong>年支出</strong>除以 4% (等于年支出 * 25，或者月支出 * 300) 的金额</li><li>资产达到年化 4% 以上利息</li><li>并且以每年领取不超过 4% 来支付生活，就能满足退休条件。</li></ul><p>财富自由的目标和生活支出有很大的关系，如果你一个月只需要花费 1 万元，300 万就能财富自由。</p><h3 id="被动收入-gt-总支出"><a href="#被动收入-gt-总支出" class="headerlink" title="被动收入 &gt; 总支出"></a>被动收入 &gt; 总支出</h3><p>在之前阅读 [[富爸爸穷爸爸]] 的时候，作者提出来另一个财务自由的定义，<strong>被动收入&gt;总支出</strong>。</p><p>那什么是被动收入呢？不同人对于此有不同的定义，[[Pat Flynn]] 关于被动收入的定义：</p><blockquote><p>Building online businesses that take advantage of systems of automation that allow transactions, cash flow, and growth to happen without requiring a real-time presence.</p></blockquote><p>而我认为的最直接的定义就是那些在你睡觉的时候还在为你赚钱的事业 —- By [[Naval Ravikant]]。</p><h2 id="为什么要实践-FIRE"><a href="#为什么要实践-FIRE" class="headerlink" title="为什么要实践 FIRE"></a>为什么要实践 FIRE</h2><p>当 FIRE 的理念深入人心的时候，就迫使我们重新思考我们的人生，我们想要的生活，以及去思考如何分配有限的时间、金钱和精力。</p><p>FIRE 不是目的，FIRE 的目的是让我们有更多的时间用于实践自身的价值，比如增加见识（比如看书，看世界），增加感兴趣的技能（包括想要学习的手艺），增加对世界的思考（通过文章，书，音频，视频分享交流）。</p><p>FIRE 的目标并不是为了摆脱工作，而是让自己有能力选择并规划自己真正想要的生活，不为金钱所裹挟，可以不受时间，地域，经济条件的约束而自由地行动。FIRE 运动的发起人 Pete Adeney 也曾经说过，提前退休不意味着从此不再工作，也不意味着当达到足以财务独立的资产时，就该立即停止工作。</p><p>FIRE 也绝不是[[躺平]]，躺平是什么都不干，而 FIRE 是想做什么就做什么。这恰好对应于西方哲学中关于 [[积极自由]] 的讨论。</p><p>FIRE 的重点不是有了多少资产，而是意识到自己想要过什么样的生活，并为之努力。</p><h2 id="如何实践-FIRE"><a href="#如何实践-FIRE" class="headerlink" title="如何实践 FIRE"></a>如何实践 FIRE</h2><p>财富是 FIRE 的前提，财富不应该只包含特定的资产数量，而应该让该财富可以提供保障生活，抵御物价上涨的稳定现金流。</p><p>人们可以选择不同的方式去实践 FIRE，可以重新审视自己的物质需求，减少开销，过极简的生活，让自己尽早的进入到 FIRE 的状态。也可以选择构建自己的被动收入，让被动收入覆盖日常支出，打造稳定的现金流。也可以保持日常的工作提高自己的主动收入，并与此同时保持日常的开销不扩大。</p><ul><li>降低物欲，极简生活</li><li>提高被动收入</li><li>提升生活价值，提升主动收入。</li></ul><p>人的一生中，时间比金钱更重要。</p><h3 id="快速积累足够的本金"><a href="#快速积累足够的本金" class="headerlink" title="快速积累足够的本金"></a>快速积累足够的本金</h3><ul><li>积极存钱，积累本金。</li><li>提高工作的价值，创造更高的主动收入</li><li>避免[[消费主义]]，理性消费</li></ul><h3 id="构建被动收入"><a href="#构建被动收入" class="headerlink" title="构建被动收入"></a>构建被动收入</h3><p>或许构建[[被动收入]]是这些实践经验中最难的。</p><p>这里简单的总结一下</p><ul><li>学习投资，定投，股息</li><li>房地产，房租</li><li>通过技术打造知识产权作品，版权</li><li>持续提供对别人有价值的内容，广告，订阅</li><li>企业经营，人力杠杆</li></ul><h2 id="FIRE-可能的问题"><a href="#FIRE-可能的问题" class="headerlink" title="FIRE 可能的问题"></a>FIRE 可能的问题</h2><p>FIRE 中最关键的因素包括资产，支出，那么就存在如下问题：</p><ul><li>资产贬值</li><li>外部环境的变化导致开支增加，比如通胀</li><li>因自身原因导致的开销变化，比如育儿，疾病</li></ul><h3 id="资产贬值"><a href="#资产贬值" class="headerlink" title="资产贬值"></a>资产贬值</h3><p>4% 法则有一个前提是积累的初始资产能够产生每年至少 4% 的「利息」，如果遇到黑天鹅事件，比如河南村镇银行倒闭，或者股市大跌的情况，可能会导致资产贬值。</p><p>所以为了克服这一个问题，别将资产放在一个篮子中，并且要进行[[资产配置]]，不仅要配置权益类资产，也要适当保证稳健的比例。</p><h3 id="如何克服通胀"><a href="#如何克服通胀" class="headerlink" title="如何克服通胀"></a>如何克服通胀</h3><p>2022 年是各国通胀非常严重的一年，瘟疫，战争导致物价飞涨，如果仅靠之前积累的资本，没有考虑到通货膨胀带来的开支的增加，那么就可能在未来无法支出日常开销。</p><p>个人认为克服通胀最好的办法就是有一份稳定的被动收入，如果遇到通胀，那么被动收入同样也会随之涨价，克服通胀的最好的办法就是利用通胀。</p><h3 id="开支的动态变化"><a href="#开支的动态变化" class="headerlink" title="开支的动态变化"></a>开支的动态变化</h3><p>在之前提到 4% 法则仅仅将年支出作为一个静态的变量去计算，忽略了生活中很多的变化，可能结婚有了孩子之后年支出会有大幅的上升，亦或是遇到重疾病也可能导致支出大幅增加。所以在制定开销的时候需要留有一定的 Buffer。</p><p>对于自身原因造成的开支膨胀那只有提前规划好才能解决，而对于突发的疾病则可以使用保险来抵御。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>就像上面提到的那样，积累足够的本金是为了能够提供覆盖日常开支的稳定现金流，本金是一种方式，构建被动收入也是一种方式。最后，FIRE 的不是目的，FIRE 之后的生活才是目的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是-FIRE&quot;&gt;&lt;a href=&quot;#什么是-FIRE&quot; class=&quot;headerlink&quot; title=&quot;什么是 FIRE&quot;&gt;&lt;/a&gt;什么是 FIRE&lt;/h2&gt;&lt;p&gt;[[FIRE]] 是 Financial Independence to Retire Ea
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://invest.einverne.info/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="FIRE" scheme="https://invest.einverne.info/tags/FIRE/"/>
+    
+      <category term="财务独立" scheme="https://invest.einverne.info/tags/%E8%B4%A2%E5%8A%A1%E7%8B%AC%E7%AB%8B/"/>
+    
+      <category term="提前退休" scheme="https://invest.einverne.info/tags/%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FOF 基金简介</title>
+    <link href="https://invest.einverne.info/2022/04/19/fof-fund.html"/>
+    <id>https://invest.einverne.info/2022/04/19/fof-fund.html</id>
+    <published>2022-04-19T11:58:53.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是FOF基金？"><a href="#什么是FOF基金？" class="headerlink" title="什么是FOF基金？"></a>什么是FOF基金？</h2><p>FOF基金是 Fund of Funds 缩写，被称为“基金中的基金”，是一种专门投资于其他证券投资基金的基金。FOF 基金的概念起源于上世纪 70 年代。</p><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p>可以在不同的经济周期中保持合适的波动，可以以更低的风险获取稳健的回报。</p><h3 id="资产配置"><a href="#资产配置" class="headerlink" title="资产配置"></a>资产配置</h3><p>FOF 基金本质上是一种[[资产配置]]，在不同的经济周期中不同的资产有不同的表现，牛市中股票表现突出，在熊市中债券回报稳定。</p><p>FOF基金经理，可以在股票基金、债券基金、商品基金、黄金、REITs等资产中构建投资组合，实现灵活配置,以求中长期获得更加稳健的目标收益。</p><p>FOF 基金在大类资产上分散，并且通过专业人士的管理再平衡，可以有效地获取长期稳定收益。</p><h3 id="分散"><a href="#分散" class="headerlink" title="分散"></a>分散</h3><p>普通的基金已经通过调整股票、债券、现金的比例来分散风险了，FOF 基金则更进一步，二次分散风险。</p><p>FOF 还可以在传统的大类资产配置的基础上辅加以对冲基金等另类资产，丰富资产类别，降低组合波动。</p><h3 id="降低投资门槛"><a href="#降低投资门槛" class="headerlink" title="降低投资门槛"></a>降低投资门槛</h3><p>有一些基金因为市场规则，投资者可能无法直接参与其中，通过 FOF 基金，可以间接持有这些基金，拓宽了投资基金的种类，降低了多样化投资门槛。</p><h2 id="FOF基金和开放式基金的区别"><a href="#FOF基金和开放式基金的区别" class="headerlink" title="FOF基金和开放式基金的区别"></a>FOF基金和开放式基金的区别</h2><p>基金中的基金是以基金为投资标的，而开放式基金是以股票、债券等有价证券为投资标的，它通过专业机构对基金进行筛选，帮助投资者优化基金投资效果。</p><h2 id="申购费"><a href="#申购费" class="headerlink" title="申购费"></a>申购费</h2><p>基金管理人运用FOF基金财产如申购自家基金的（ETF除外），应当通过直销渠道申购且不得收取申购费、赎回费（按照相关法律法规、被投资基金招募说明书约定应当收取，并记入基金资产的赎回费用除外）、销售服务费等销售费用。</p><p>如申购其他基金公司管理的基金，需按其他基金公司的规定支付申购费、赎回费及销售服务费等，此费用由基金资产承担。</p><h2 id="申购平台"><a href="#申购平台" class="headerlink" title="申购平台"></a>申购平台</h2><p><a href="https://gtk.pw/qm" target="_blank" rel="noopener">且慢</a> 是一个专注于向个人提供简单、省心的公募基金投资方案，应用内就提供了专业人士管理的 FOF 基金。</p><p>在且慢中通过其规划的[[四笔钱]]，分别用于：</p><ul><li>活期现金，日常支出，随时取用</li><li>稳健理财，半年以上、三年以内，有具体用途随时动用的钱</li><li>长期投资，3年以上才有可能会用到，留给未来的钱</li><li>保险保障，在不确定的未来中，给你的生活托底的钱</li></ul><p>且慢中有几个非常著名的投资组合，比如货币三佳，我要稳稳的幸福，就是利用了 FOF 基金的思路。</p><h3 id="货币三佳"><a href="#货币三佳" class="headerlink" title="货币三佳"></a>货币三佳</h3><p>优选了市场收益最好的三个[[货币基金]]。</p><h3 id="我要稳稳的幸福"><a href="#我要稳稳的幸福" class="headerlink" title="我要稳稳的幸福"></a>我要稳稳的幸福</h3><p>我要稳稳的幸福则是交银施罗德基金多元资产管理部所负责的投资组合，比如购买10000元的组合，会分别购买如下的不同种类的基金。</p><p><img src="https://photo.einverne.info/images/2022/04/19/d5l9.jpg" alt="qieman 我要稳稳的幸福"></p><p>其中选择的基金在不同的时间可能会有不同。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是FOF基金？&quot;&gt;&lt;a href=&quot;#什么是FOF基金？&quot; class=&quot;headerlink&quot; title=&quot;什么是FOF基金？&quot;&gt;&lt;/a&gt;什么是FOF基金？&lt;/h2&gt;&lt;p&gt;FOF基金是 Fund of Funds 缩写，被称为“基金中的基金”，是一种专门投
+      
+    
+    </summary>
+    
+    
+      <category term="基金" scheme="https://invest.einverne.info/categories/%E5%9F%BA%E9%87%91/"/>
+    
+    
+      <category term="基金" scheme="https://invest.einverne.info/tags/%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="FOF基金" scheme="https://invest.einverne.info/tags/FOF%E5%9F%BA%E9%87%91/"/>
+    
+      <category term="FOF" scheme="https://invest.einverne.info/tags/FOF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米股票分析：过度谨慎的市场使得长期机会变大</title>
+    <link href="https://invest.einverne.info/2022/04/12/xiaomi-an-overcautious-market-opens-long-term-opportunities.html"/>
+    <id>https://invest.einverne.info/2022/04/12/xiaomi-an-overcautious-market-opens-long-term-opportunities.html</id>
+    <published>2022-04-12T05:01:44.000Z</published>
+    <updated>2024-03-15T13:30:09.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先总结一下：</p><ul><li>过去5个季度，小米股票一直处于长期下跌状态（long-drawn-out decline）</li><li>长期的下跌的状况可能尚未结束，谨慎的投资者可能采取观望态度</li><li>宏观不利因素（macro headwind）减弱、小米公司核心基本面，使得其当前的价格可以获得长期投资价值</li></ul><p>过去一年中一些不利因素使得小米公司股票一直处于下跌状态，在撰写本文时，小米股票的交易价格相较于 2021 年 1月创下的历史新高跌去了近 60%.</p><p>过去一年中出现的利空因素包括：</p><ul><li>美国的禁令（后取消）</li><li>全球芯片短缺（预计该问题可能逐步缓解，可能在 2022 年下半年恢复）</li><li>中国市场份额缓慢下降的状态也出现逆转，在最近季度中甚至略有回升</li></ul><p><img src="/images/china-smartphone-market-share.png" alt="china-smartphone-market-share"></p><p>现在主要的不利因素已经减弱，或即将消失。目前的价格足够有吸引力。</p><p>下文就从几个关键点来分析一下小米股票的长期价值。</p><h2 id="收入"><a href="#收入" class="headerlink" title="收入"></a>收入</h2><p>在我看来，盈利能力（收入规模）是评估一家公司未来前景的一个关键指标。只要公司的收入数据是向上的，那么其他问题都可以通过一些手段克服，包括定价能力（pricing power）、盈余管理（margin management）、现金管理（cash management）、资本配置（capital allocation）、投资者回报（investor return）和对现有产品和服务的扩张。</p><p><img src="/images/xiaomi-stock-price-20220412211313.png" alt="xiaomi stock price 2021"></p><p>但是和小米公司盈利曲线不符合的是过去一年的股票价格波动。可以理解的是，上文提到的不利因素是导致这种稳步下跌的原因，但是现在市场已经过度谨慎。所以本文重点要讨论的就是，小米公司在全球智能手机市场的地位，以及当前的价格已经打开了一个潜在的长期投资机会。</p><h2 id="长期和近期的收入"><a href="#长期和近期的收入" class="headerlink" title="长期和近期的收入"></a>长期和近期的收入</h2><p>首先来看看小米公司的收入趋势，分析的最新报告截止到 21 年 Q4。</p><p>尽管很多的不利因素导致小米的收入从 FY-16 到 FY-17 的 68%，下降到 FY-19/FY-20 的 18~19%，小米公司的销售额依然保持着两位数的增长。</p><p>[[FY17]] 表示 the financial year of the Group ended 30 April 2017.</p><p>小米公司的收入从 15 财年的 670 亿人民币增长到了 21 财年的 3280 亿人民币，同期的复合年增长率高达 30%。这一增长的贡献主要来自中国和印度，智能手机占总收入的 60% 以上。</p><p>Canalys 的数据<a href="https://www.canalys.com/newsroom/global-smartphone-market-2021" target="_blank" rel="noopener">显示</a> 截止 21 年第四季度和 21 财年，小米是全球和中国出货量排名第三的智能手机供应商，其地位基本与前期持平。</p><p><img src="/images/xiaomi-canalys-smartphone-market-share-20220412212537.png" alt=""><br>第 4 季度数据</p><p><img src="https://photo.einverne.info/images/2022/04/12/5DEW.jpg" alt="xiaomi canalys smartphone market share"><br>全年出货量份额。</p><p>小米总裁兼合伙人王翔在 Q4-21 财报电话会议上表示：</p><blockquote><p>随着小米在全球的扩展，在 14 个市场中排名第一，在 62 个市场中排名前 5。特别是，以 23% 的市场份额位居欧洲第二，连续两年保持西班牙第一，连续 17 个季度保持印度第一。</p></blockquote><p>小米的收入增长中智能手机并不是唯一收入。物联网和智能产品部门，包括智能电视、平板电脑、笔记本电脑部分，贡献了总收入的四分之一。互联网服务部门，包括广告和互联网产品，有着 74.1% 的高利润率（21 年财报毛利率为 74.1%）。</p><p>总体而言，历史的增长非常强劲，并且最近一个季度也是如此。在 Q4-21 ,和上一季度相比，整体收入增长了 24.1%，在年收入更是增长了 34%。</p><p>小米的收入增长可以对股价有很好的支撑。</p><h3 id="定价能力和产品组合"><a href="#定价能力和产品组合" class="headerlink" title="定价能力和产品组合"></a>定价能力和产品组合</h3><p>公司报告了智能手机和智能电视的 ASP（平均售价）的增长。小米手机的平均售价增长主要来自于产品向高端手机的转变。</p><p>智能电视的 ASP 增长尽管幅度很小，但随着这些趋势的继续，可以转化为持续的定价能力。</p><h3 id="盈利"><a href="#盈利" class="headerlink" title="盈利"></a>盈利</h3><p>智能手机的定价，被其他业务的增长的更高利润所抵消。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5UUQ.jpg" alt=""><br>小米 FY-21 年报</p><p><img src="https://photo.einverne.info/images/2022/04/12/5X0X.jpg" alt=""><br>小米销售成本 21 年 </p><p>销量增加和平均售价提高，总销售额进一步上升，随着时间推移逐步扩大其毛利率。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5hFi.jpg" alt=""></p><p>当时间更长的时候更加明显。</p><p><img src="https://photo.einverne.info/images/2022/04/12/5us0.jpg" alt=""></p><p>这种增加的杠杆还使得小米能在在不牺牲 21 财年的盈利的同时，在研发（增长 42.3%）和销售运营(增长 44.3%）上投入更多的资金。</p><p>高端智能手机出货量的成比例增长和高利润细分市场的强劲增长，使得公司的经营杠杆随着时间越来越高。进一步通过增加研发和销售营销来形成正向循环。</p><h3 id="资本配置和投资者回报。"><a href="#资本配置和投资者回报。" class="headerlink" title="资本配置和投资者回报。"></a>资本配置和投资者回报。</h3><p>21 年财报，公司研发支出为 132 亿人民币，去年同期 93 亿人民币。销售和营销支出从 20 年的 145 亿增加到 21 财年的 210 亿人民币。这些项目费用的增加，对盈利能力并没有造成重大的负面影响。从 22 财年到 26 财年的五年中，小米计划在研发上投入超过 1000 亿人民币，以帮助其实现在智能手机领域的高端化。</p><p>此外，小米积极参与收购具有协同效应和前瞻性的业务，包括逐步收购智能手机配件制造商紫米，以及收购自动驾驶汽车技术初创公司 Deepmotion。收购紫米有助于扩展智能手机配件的生态系统。收购 Deepmotion 将进一步推动小米在 2024 年上半年开始大规模产生电动汽车。</p><p>虽然小米不派发现金股息，但是他一直在回购在香港上市的股票。截止 21 财年，公司以约 87 亿港元的代价回购了约 3.58 亿股股份。</p><h3 id="投资者角度"><a href="#投资者角度" class="headerlink" title="投资者角度"></a>投资者角度</h3><p>从财务角度，小米公司的基础相当稳健。截止 2021 年底的[[资产负债表]]，流动性充足，流动资产为人民币 1860 亿，流动负债为人民币 1160 亿。</p><p><img src="https://photo.einverne.info/images/2022/04/12/54N9.jpg" alt=""></p><p>长期的 debt to equity 比率在 15 左右，是一个高杠杆，但是随着过去几年的增长和收入有所缓解。</p><p>在估值（valuation）方面，小米的价格和 <a href="TTM">[滚动市盈率]</a> ，估值约在 15 左右，而行业的中值为 29，这很大程度是过去 5 个季度下跌所致。</p><h2 id="风险"><a href="#风险" class="headerlink" title="风险"></a>风险</h2><p>投资小米股票的风险主要来自持续的供应链限制和普遍的政治不确定。如果能看到如今已经消退的逆风趋势，从长远来看，目前的价格（13 HKD）可能代表了一个极好的机会。</p><p>另外该股票的长期下跌可能尚未结束，可以采取谨慎观望的态度。</p><h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul><li><a href="https://gtk.pw/KUL2e" target="_blank" rel="noopener">Seeking Alpha</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;首先总结一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;过去5个季度，小米股票一直处于长期下跌状态（long-drawn-out decline）&lt;/li&gt;
+&lt;li&gt;长期的下跌的状况可能尚未结束，谨慎的投资者可能采取观望态度&lt;/li&gt;
+&lt;li&gt;宏观不利因素（macro headwind）
+      
+    
+    </summary>
+    
+    
+      <category term="股票分析" scheme="https://invest.einverne.info/categories/%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="小米" scheme="https://invest.einverne.info/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+      <category term="分析" scheme="https://invest.einverne.info/tags/%E5%88%86%E6%9E%90/"/>
+    
+      <category term="港股" scheme="https://invest.einverne.info/tags/%E6%B8%AF%E8%82%A1/"/>
+    
+      <category term="手机" scheme="https://invest.einverne.info/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+  </entry>
+  
+</feed>

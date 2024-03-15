@@ -1,0 +1,2080 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <!-- title -->
+
+
+    
+
+<!-- keywords -->
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="author" content="Ein Verne">
+    <meta name="renderer" content="webkit">
+    <meta name="copyright" content="Ein Verne">
+    
+        <meta name="keywords" content="投资,投资笔记,投资工具,投资书籍,投资心得,开户,券商对比,invest,证券,证券投资,期权">
+    
+    <meta name="description" content="希望通过这个博客，能够将自己的学习成果总结出来，与大家分享交流。">
+    <meta name="description" content="TD Ameritrade（德美利证券）是一家美国上市的券商，股票代码是 AMTD（后简称TD）。在外国的券商评级中常年处于前列。TD Ameritrade 诞生于 1975 年，创始人 Joe Ricketts（乔·里基茨）在美国内布拉斯加州奥马哈创建了公司。 2009年1月，TD Ameritrade 以 6.06 亿美金的价格收购了另一家上市的网上证券交易商 Thinkorswim (原NA">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TD Ameritrade 开户及介绍">
+<meta property="og:url" content="https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html">
+<meta property="og:site_name" content="EV 的投资笔记">
+<meta property="og:description" content="TD Ameritrade（德美利证券）是一家美国上市的券商，股票代码是 AMTD（后简称TD）。在外国的券商评级中常年处于前列。TD Ameritrade 诞生于 1975 年，创始人 Joe Ricketts（乔·里基茨）在美国内布拉斯加州奥马哈创建了公司。 2009年1月，TD Ameritrade 以 6.06 亿美金的价格收购了另一家上市的网上证券交易商 Thinkorswim (原NA">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-thinkorswim-web.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-register-nation.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-account-type.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-margin-account.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-license.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-address-prove.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-deposit.png">
+<meta property="og:image" content="https://invest.einverne.info/images/td-ameritrade-withdraw.png">
+<meta property="article:published_time" content="2021-06-03T12:58:12.000Z">
+<meta property="article:modified_time" content="2024-03-15T13:30:09.320Z">
+<meta property="article:author" content="Ein Verne">
+<meta property="article:tag" content="券商">
+<meta property="article:tag" content="TD Ameritrade">
+<meta property="article:tag" content="德美利证券">
+<meta property="article:tag" content="美股券商">
+<meta property="article:tag" content="免佣金券商">
+<meta property="article:tag" content="开户">
+<meta property="article:tag" content="入金">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://invest.einverne.info/images/td-ameritrade-thinkorswim-web.png">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="icon" href="/assets/favicon.ico">
+    
+        <link rel="alternate" href="/atom.xml" title="EV 的投资笔记" type="application/atom+xml">
+    
+    <title>TD Ameritrade 开户及介绍 · EV 的投资笔记</title>
+    <!-- /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/ -->
+<script>
+    (function (w) {
+        'use strict'
+        // rel=preload support test
+        if (!w.loadCSS) {
+            w.loadCSS = function () {}
+        }
+        // define on the loadCSS obj
+        var rp = (loadCSS.relpreload = {})
+        // rel=preload feature support test
+        // runs once and returns a function for compat purposes
+        rp.support = (function () {
+            var ret
+            try {
+                ret = w.document.createElement('link').relList.supports('preload')
+            } catch (e) {
+                ret = false
+            }
+            return function () {
+                return ret
+            }
+        })()
+
+        // if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+        // then change that media back to its intended value on load
+        rp.bindMediaToggle = function (link) {
+            // remember existing media attr for ultimate state, or default to 'all'
+            var finalMedia = link.media || 'all'
+
+            function enableStylesheet() {
+                link.media = finalMedia
+            }
+
+            // bind load handlers to enable media
+            if (link.addEventListener) {
+                link.addEventListener('load', enableStylesheet)
+            } else if (link.attachEvent) {
+                link.attachEvent('onload', enableStylesheet)
+            }
+
+            // Set rel and non-applicable media type to start an async request
+            // note: timeout allows this to happen async to let rendering continue in IE
+            setTimeout(function () {
+                link.rel = 'stylesheet'
+                link.media = 'only x'
+            })
+            // also enable media after 3 seconds,
+            // which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+            setTimeout(enableStylesheet, 3000)
+        }
+
+        // loop through link elements in DOM
+        rp.poly = function () {
+            // double check this to prevent external calls from running
+            if (rp.support()) {
+                return
+            }
+            var links = w.document.getElementsByTagName('link')
+            for (var i = 0; i < links.length; i++) {
+                var link = links[i]
+                // qualify links to those with rel=preload and as=style attrs
+                if (
+                    link.rel === 'preload' &&
+                    link.getAttribute('as') === 'style' &&
+                    !link.getAttribute('data-loadcss')
+                ) {
+                    // prevent rerunning on link
+                    link.setAttribute('data-loadcss', true)
+                    // bind listeners to toggle media back
+                    rp.bindMediaToggle(link)
+                }
+            }
+        }
+
+        // if unsupported, run the polyfill
+        if (!rp.support()) {
+            // run once at least
+            rp.poly()
+
+            // rerun poly on an interval until onload
+            var run = w.setInterval(rp.poly, 500)
+            if (w.addEventListener) {
+                w.addEventListener('load', function () {
+                    rp.poly()
+                    w.clearInterval(run)
+                })
+            } else if (w.attachEvent) {
+                w.attachEvent('onload', function () {
+                    rp.poly()
+                    w.clearInterval(run)
+                })
+            }
+        }
+
+        // commonjs
+        if (typeof exports !== 'undefined') {
+            exports.loadCSS = loadCSS
+        } else {
+            w.loadCSS = loadCSS
+        }
+    })(typeof global !== 'undefined' ? global : this)
+</script>
+
+    <style type="text/css">
+    @font-face {
+        font-family: 'Oswald-Regular';
+        src: url("/font/Oswald-Regular.ttf");
+    }
+
+    body {
+        margin: 0;
+    }
+
+    header,
+    footer,
+    .back-top,
+    .sidebar,
+    .container,
+    .site-intro-meta,
+    .toc-wrapper {
+        display: none;
+    }
+
+    .site-intro {
+        position: relative;
+        z-index: 3;
+        width: 100%;
+        /* height: 50vh; */
+        overflow: hidden;
+    }
+
+    .site-intro-placeholder {
+        position: absolute;
+        z-index: -2;
+        top: 0;
+        left: 0;
+        width: calc(100% + 300px);
+        height: 100%;
+        background: repeating-linear-gradient(-45deg, #444 0, #444 80px, #333 80px, #333 160px);
+        background-position: center center;
+        transform: translate3d(-226px, 0, 0);
+        animation: gradient-move 2.5s ease-out 0s infinite;
+    }
+
+    @keyframes gradient-move {
+        0% {
+            transform: translate3d(-226px, 0, 0);
+        }
+        100% {
+            transform: translate3d(0, 0, 0);
+        }
+    }
+</style>
+
+    <link rel="preload" href="/css/style.css?v=20210823" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="/css/dark.css?v=20210823" as="style">
+    <link rel="stylesheet" href="/css/dark.css" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="/css/mobile.css?v=20210823" media="(max-width: 960px)">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" as="script">
+    <link rel="preload" href="/scripts/main.js?v=20210823" as="script">
+    <link rel="preload" href="/scripts/dark.js?v=20210823" as="script">
+    <link rel="preload" href="/font/Oswald-Regular.ttf" as="font" crossorigin>
+    <link rel="preload" href="https://at.alicdn.com/t/font_327081_1dta1rlogw17zaor.woff" as="font" crossorigin>
+    <!-- algolia -->
+    
+    <!-- 百度统计  -->
+    
+    <!-- 谷歌统计  -->
+    
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-63782478-4', 'auto');
+            ga('send', 'pageview');
+        </script>
+    
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script type="text/javascript">
+        if (typeof window.$ == undefined) {
+            console.warn('jquery load from jsdelivr failed, will load local script')
+            document.write('<script src="/lib/jquery.min.js" />')
+        }
+    </script>
+    
+        <body class="post-body">
+    
+        <!-- header -->
+        <header class="header header-mobile">
+    <!-- top read progress line -->
+    <div class="header-element">
+        <div class="read-progress"></div>
+    </div>
+    <!-- sidebar menu button -->
+    <div class="header-element">
+        
+            <div class="header-sidebar-menu">
+        
+            
+                <div style="padding-left: 1px;">&#xe775;</div>
+            
+        </div>
+    </div>
+    <!-- header actions -->
+    <div class="header-actions">
+        <!-- theme mode switch button -->
+        <span class="header-theme-btn header-element">
+            <i class="fas fa-adjust"></i>
+        </span>
+        <!-- back to home page text -->
+        <span class="home-link header-element">
+            <a href=/>EV 的投资笔记</a>
+        </span>
+    </div>
+    <!-- toggle banner for post layout -->
+    
+        
+            <div class="banner">
+        
+            <div class="blog-title header-element">
+                <a href="/">EV 的投资笔记</a>
+            </div>
+            <div class="post-title header-element">
+                <a href="#" class="post-name">TD Ameritrade 开户及介绍</a>
+            </div>
+        </div>
+    
+</header>
+
+        <!-- fixed footer -->
+        <footer class="footer-fixed">
+    <!-- back to top button -->
+    <div class="footer-fixed-element">
+        
+            <div class="back-top back-top-hidden">
+        
+        
+            <div>&#xe639;</div>
+        
+        </div>
+    </div>
+</footer>
+
+        <!-- wrapper -->
+        <div class="wrapper">
+            <div class="site-intro" style="
+
+
+
+
+
+
+
+    height:50vh;
+
+">
+    
+    <!-- 主页  -->
+    
+        
+    <!-- 404页  -->
+            
+    <div class="site-intro-placeholder"></div>
+    <div class="site-intro-img" style="background-image: url(/intro/post-bg.jpg)"></div>
+    <div class="site-intro-meta">
+        <!-- 标题  -->
+        <h1 class="intro-title">
+            <!-- 主页  -->
+            
+                TD Ameritrade 开户及介绍
+            <!-- 404 -->
+            
+        </h1>
+        <!-- 副标题 -->
+        <p class="intro-subtitle">
+            <!-- 主页副标题  -->
+            
+                
+            <!-- 404 -->
+            
+        </p>
+        <!-- 文章页 meta -->
+        
+            <div class="post-intros">
+                <!-- 文章页标签  -->
+                
+                    <div class= post-intro-tags >
+    
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="券商">券商</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="TD Ameritrade">TD Ameritrade</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="德美利证券">德美利证券</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="美股券商">美股券商</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="免佣金券商">免佣金券商</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="开户">开户</a>
+    
+        <a class="post-tag" href="javascript:void(0);" data-tags="入金">入金</a>
+    
+</div>
+
+                
+                
+                    <div class="post-intro-read">
+                        <span>字数统计: <span class="post-count word-count">1.4k</span>阅读时长: <span class="post-count reading-time">4 min</span></span>
+                    </div>
+                
+                <div class="post-intro-meta">
+                    <!-- 撰写日期 -->
+                    <span class="iconfont-archer post-intro-calander">&#xe676;</span>
+                    <span class="post-intro-time">2021/06/03</span>
+                    <!-- busuanzi -->
+                    
+                        <span id="busuanzi_container_page_pv" class="busuanzi-pv">
+                            <span class="iconfont-archer post-intro-busuanzi">&#xe602;</span>
+                            <span id="busuanzi_value_page_pv"></span>
+                        </span>
+                    
+                    <!-- 文章分享 -->
+                    <span class="share-wrapper">
+                        <span class="iconfont-archer share-icon">&#xe71d;</span>
+                        <span class="share-text">Share</span>
+                        <ul class="share-list">
+                            <li class="iconfont-archer share-qr" data-type="qr">&#xe75b;
+                                <div class="share-qrcode"></div>
+                            </li>
+                            <li class="iconfont-archer" data-type="weibo">&#xe619;</li>
+                            <li class="iconfont-archer" data-type="qzone">&#xe62e;</li>
+                            <li class="iconfont-archer" data-type="twitter">&#xe634;</li>
+                            <li class="iconfont-archer" data-type="facebook">&#xe67a;</li>
+                        </ul>
+                    </span>
+                </div>
+            </div>
+        
+    </div>
+</div>
+
+            <script>
+  // get user agent
+  function getBrowserVersions() {
+    var u = window.navigator.userAgent
+    return {
+      userAgent: u,
+      trident: u.indexOf('Trident') > -1, //IE内核
+      presto: u.indexOf('Presto') > -1, //opera内核
+      webKit: u.indexOf('AppleWebKit') > -1, //苹果、谷歌内核
+      gecko: u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1, //火狐内核
+      mobile: !!u.match(/AppleWebKit.*Mobile.*/), //是否为移动终端
+      ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/), //ios终端
+      android: u.indexOf('Android') > -1 || u.indexOf('Linux') > -1, //android终端或者uc浏览器
+      iPhone: u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1, //是否为iPhone或者安卓QQ浏览器
+      iPad: u.indexOf('iPad') > -1, //是否为iPad
+      webApp: u.indexOf('Safari') == -1, //是否为web应用程序，没有头部与底部
+      weixin: u.indexOf('MicroMessenger') == -1, //是否为微信浏览器
+      uc: u.indexOf('UCBrowser') > -1, //是否为android下的UC浏览器
+    }
+  }
+  var browser = {
+    versions: getBrowserVersions(),
+  }
+  console.log('userAgent: ' + browser.versions.userAgent)
+
+  // callback
+  function fontLoaded() {
+    console.log('font loaded')
+    if (document.getElementsByClassName('site-intro-meta')) {
+      document
+        .getElementsByClassName('intro-title')[0]
+        .classList.add('intro-fade-in')
+      document
+        .getElementsByClassName('intro-subtitle')[0]
+        .classList.add('intro-fade-in')
+      var postIntros = document.getElementsByClassName('post-intros')[0]
+      if (postIntros) {
+        postIntros.classList.add('post-fade-in')
+      }
+    }
+  }
+
+  // UC不支持跨域，所以直接显示
+  function asyncCb() {
+    if (browser.versions.uc) {
+      console.log('UCBrowser')
+      fontLoaded()
+    } else {
+      WebFont.load({
+        custom: {
+          families: ['Oswald-Regular'],
+        },
+        loading: function () {
+          // 所有字体开始加载
+          // console.log('font loading');
+        },
+        active: function () {
+          // 所有字体已渲染
+          fontLoaded()
+        },
+        inactive: function () {
+          // 字体预加载失败，无效字体或浏览器不支持加载
+          console.log('inactive: timeout')
+          fontLoaded()
+        },
+        timeout: 5000, // Set the timeout to two seconds
+      })
+    }
+  }
+
+  function asyncErr() {
+    console.warn('script load from CDN failed, will load local script')
+  }
+
+  // load webfont-loader async, and add callback function
+  function async(u, cb, err) {
+    var d = document,
+      t = 'script',
+      o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0]
+    o.src = u
+    if (cb) {
+      o.addEventListener(
+        'load',
+        function (e) {
+          cb(null, e)
+        },
+        false
+      )
+    }
+    if (err) {
+      o.addEventListener(
+        'error',
+        function (e) {
+          err(null, e)
+        },
+        false
+      )
+    }
+    s.parentNode.insertBefore(o, s)
+  }
+
+  var asyncLoadWithFallBack = function (arr, success, reject) {
+    var currReject = function () {
+      reject()
+      arr.shift()
+      if (arr.length) async(arr[0], success, currReject)
+    }
+
+    async(arr[0], success, currReject)
+  }
+
+  asyncLoadWithFallBack(
+    [
+      'https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js',
+      'https://cdn.bootcss.com/webfont/1.6.28/webfontloader.js',
+      "/lib/webfontloader.min.js",
+    ],
+    asyncCb,
+    asyncErr
+  )
+</script>
+
+            <img class="loading" src="/assets/loading.svg" style="display: block; margin: 6rem auto 0 auto; width: 6rem; height: 6rem;" />
+            <div class="container container-unloaded">
+                <main class="main post-page">
+    <article class="article-entry">
+        <p>TD Ameritrade（德美利证券）是一家美国上市的券商，股票代码是 AMTD（后简称TD）。在外国的券商评级中常年处于前列。TD Ameritrade 诞生于 1975 年，创始人 Joe Ricketts（乔·里基茨）在美国内布拉斯加州奥马哈创建了公司。</p>
+<p>2009年1月，TD Ameritrade 以 6.06 亿美金的价格收购了另一家上市的网上证券交易商 Thinkorswim (原NASDAQ:SWIM)。</p>
+<p>TD 提供了强大的 thinkorswim 桌面平台和移动端的应用可以用来进行股票、期权和期货的交易。</p>
+<p>下面是 thinkorswim 模拟账户网页版的样子。 </p>
+<p><img src="/images/td-ameritrade-thinkorswim-web.png" alt="td-ameritrade-thinkorswim-web"></p>
+<p>其他桌面版或手机端的应用可以查看官网。</p>
+<h2 id="开户过程"><a href="#开户过程" class="headerlink" title="开户过程"></a>开户过程</h2><p>开户之前提前准备好自己的基本信息，包括住址、就业信息、身份证或护照号，以及地址证明。</p>
+<ul>
+<li>国内 <a href="https://ola.tdameritrade.com/" target="_blank" rel="noopener">https://ola.tdameritrade.com/</a></li>
+<li>在国外<a href="https://invest.tdameritrade.com/grid/p/accountApplication#" target="_blank" rel="noopener">https://invest.tdameritrade.com/grid/p/accountApplication#</a></li>
+</ul>
+<p>如实填写注册信息即可，主要的过程分为下面几大部分，官方的页面可能会随着时间有调整，如实的填写即可。</p>
+<h3 id="国籍状况"><a href="#国籍状况" class="headerlink" title="国籍状况"></a>国籍状况</h3><p>如实填写，大多数情况选「不是美国公民」，但如果人在美国，有工作或学生签证常居美国的，那就选第二个，选择「美国永久居民」的话后面会要求填写 SSN。</p>
+<p><img src="/images/td-ameritrade-register-nation.png" alt="td-ameritrade-register-nation.png"></p>
+<h3 id="账户类型"><a href="#账户类型" class="headerlink" title="账户类型"></a>账户类型</h3><p>一般选择个人账户，然后「投资新手」选否。</p>
+<p><img src="/images/td-ameritrade-account-type.png" alt="td-ameritrade-account-type.png"></p>
+<h3 id="融资融券账户"><a href="#融资融券账户" class="headerlink" title="融资融券账户"></a>融资融券账户</h3><p>在下面的账户类型中，可以选择「高级融资融券交易」，这样就可以把期权的交易权限都开了。</p>
+<p><img src="/images/td-ameritrade-margin-account.png" alt="td-ameritrade-margin-account"></p>
+<h3 id="地址和就业状况"><a href="#地址和就业状况" class="headerlink" title="地址和就业状况"></a>地址和就业状况</h3><p>所有需要填写地址的地方一定要使用英文。常用的英文地址书写方式：</p>
+<ul>
+<li>号 No.</li>
+<li>室、房间，使用 Room</li>
+<li>单元 Unit</li>
+<li>栋、Building</li>
+<li>街道 Street</li>
+<li>区 District</li>
+</ul>
+<p>北京市海淀区香山路某某小区6栋7单元附202，就是 Room 202, Unit 7, Building 6, MouMou, Xiangshan Road, Haidian District, Beijing</p>
+<p>就业状况最好如实填写，如果不想透露也可以写自雇（Self Employed），企业名称同样也可以写 Self Employed。</p>
+<h3 id="护照或者身份证号码"><a href="#护照或者身份证号码" class="headerlink" title="护照或者身份证号码"></a>护照或者身份证号码</h3><p>填写身份证号（或者护照号），名字也要写成英文的。</p>
+<h3 id="密码提示和信息渠道"><a href="#密码提示和信息渠道" class="headerlink" title="密码提示和信息渠道"></a>密码提示和信息渠道</h3><p>密码提示同样要写成英文的</p>
+<p>安全提示问题，和提示答案也填写成英文的，最好用相关的应用保存下来，我个人使用 Bitwarden 记录。</p>
+<h3 id="交易经验和资产收入"><a href="#交易经验和资产收入" class="headerlink" title="交易经验和资产收入"></a>交易经验和资产收入</h3><p>交易经验和收入尽量填高一些，股票 [[ETF 基金|ETF]] 的交易经验最好都6年以上，期权交易策略也都全部选上，不然无法开通「高级融资账户」</p>
+<h3 id="通知偏好"><a href="#通知偏好" class="headerlink" title="通知偏好"></a>通知偏好</h3><p>这里选择电子的。</p>
+<h3 id="用户协议"><a href="#用户协议" class="headerlink" title="用户协议"></a>用户协议</h3><p>散户这里一路选否就行，后面应该选”我是一个非专业人士”</p>
+<p><img src="/images/td-ameritrade-license.png" alt="td-ameritrade-license"></p>
+<h3 id="W8表格"><a href="#W8表格" class="headerlink" title="W8表格"></a>W8表格</h3><p>表格中内容如实填写即可，不过需要注意的是，地址需要和之前填写的保持一直，以及之后需要提交的住址证明也需要保持一致。</p>
+<p>表格中遇到如下的问题，按照如下填写：  </p>
+<ul>
+<li>上述人士是否为填写本表格之人？选是</li>
+<li>账户持有人无美国纳税人识别号，非美国居民就勾上</li>
+<li>账户持有人是否根据美国与其他国家之间的税收协定要求降低扣缴率？选否</li>
+</ul>
+<h3 id="证明文件"><a href="#证明文件" class="headerlink" title="证明文件"></a>证明文件</h3><p>证明文件这里需要提供两类证明：</p>
+<ul>
+<li>身份证明</li>
+<li>地址证明</li>
+</ul>
+<p>身份证明比较好弄，身份证复印件即可，但是地址证明，对于中国大陆的居民需要提供如下之一：</p>
+<ul>
+<li>天然气账单</li>
+<li>电费账单</li>
+<li>水费账单</li>
+<li>银行或经纪账户月结单</li>
+<li>户籍管理部门盖章认证的户口本复印件，含户口本首页和本人信息页</li>
+<li>社区居委会盖章的地址证明</li>
+<li>有效的驾照</li>
+<li>居民身份证正反面</li>
+<li>任职公司出具的地址证明</li>
+<li>银行出具的客户信息单（必须由银行抬头以及签名或盖章）</li>
+</ul>
+<p>这个提前准备好即可。</p>
+<p><img src="/images/td-ameritrade-address-prove.png" alt="td-ameritrade-address-prove"></p>
+<p>TD Ameritrade 提交了开户申请之后不会立即就能开通账户，现在 TD 的申请人数很多，会等待非常长的一段时间，所以提交申请之后就慢慢等待邮件通知即可，如果有材料不对或不准确在审核到的时候会有人员来通知，再次提交即可。</p>
+<h2 id="存款入金"><a href="#存款入金" class="headerlink" title="存款入金"></a>存款入金</h2><p>TD Ameritrade 提供了很多存款方式：</p>
+<ul>
+<li>[[ACH|自动结算公司网络]]</li>
+<li>电汇</li>
+<li>支票存入</li>
+<li>从另一家券商转入</li>
+<li>实质股票凭证存入</li>
+</ul>
+<p><img src="/images/td-ameritrade-deposit.png" alt="td-ameritrade-deposit"></p>
+<p>如果有美国本土银行就可以使用 ACH，如果没有美国银行，只能使用电汇转账。详细的提示在开户之后都有。</p>
+<h2 id="提款"><a href="#提款" class="headerlink" title="提款"></a>提款</h2><p>TD Ameritrade 也提供了多样的提款方式：</p>
+<ul>
+<li>[[ACH|自动结算公司网络]]</li>
+<li>电汇</li>
+<li>支票提额</li>
+</ul>
+<p><img src="/images/td-ameritrade-withdraw.png" alt="td-ameritrade-withdraw"></p>
+<h2 id="TD-Ameritrade-的优势"><a href="#TD-Ameritrade-的优势" class="headerlink" title="TD Ameritrade 的优势"></a>TD Ameritrade 的优势</h2><ul>
+<li>TD Ameritrade 交易无需手续费</li>
+<li>有强大的 thinkorswim 交易平台</li>
+<li>开户之后在其网页上有分析师报告可以免费查看</li>
+</ul>
+<h2 id="TD-Ameritrade-的劣势"><a href="#TD-Ameritrade-的劣势" class="headerlink" title="TD Ameritrade 的劣势"></a>TD Ameritrade 的劣势</h2><ul>
+<li>相较于[[老虎证券]]、[[富途证券]]这一类国内创业团队的交易客户端，TD Ameritrade 提供的 thinkorswim 有一定的学习成本</li>
+<li>TD Ameritrade 的入金方式对持有美国银行卡的人比较有利，ACH 注资不需要手续费，但是通过电汇方式，中转行会收取一定的手续费。</li>
+</ul>
+<h2 id="reference"><a href="#reference" class="headerlink" title="reference"></a>reference</h2><ul>
+<li><a href="https://www.tdameritrade.com/zh_CN/funding-and-transfers.page" target="_blank" rel="noopener">https://www.tdameritrade.com/zh_CN/funding-and-transfers.page</a></li>
+</ul>
+
+    </article>
+    <!-- license -->
+    
+        <div class="license-wrapper">
+            <p>原文作者：<a href="https://invest.einverne.info">Ein Verne</a>
+            <p>原文链接：<a href="https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html">https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html</a>
+            <p>发表日期：<a href="https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html">June 3rd 2021, 8:58:12 pm</a>
+            <p>更新日期：<a href="https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html">March 15th 2024, 9:30:09 pm</a>
+            <p>版权声明：本文采用<a rel="license noopener" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可</p>
+        </div>
+    
+    <!-- paginator -->
+    <ul class="post-paginator">
+        <li class="next">
+            
+                <div class="nextSlogan">Next Post</div>
+                <a href="/2021/06/26/itiger-broker-account-different.html" title="老虎证券环球账户和综合账户的区别">
+                    <div class="nextTitle">老虎证券环球账户和综合账户的区别</div>
+                </a>
+            
+        </li>
+        <li class="previous">
+            
+                <div class="prevSlogan">Previous Post</div>
+                <a href="/2020/03/15/option-learning-notes-1.html" title="美股期权学习笔记">
+                    <div class="prevTitle">美股期权学习笔记</div>
+                </a>
+            
+        </li>
+    </ul>
+    <!-- comment -->
+    
+        <div class="post-comment">
+            <!-- 来必力 City 版安装代码 -->
+
+
+            
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+        
+        var disqus_config = function () {
+        this.page.url = "https://invest.einverne.info/2021/06/03/td-ameritrade-open-an-account.html";  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "TD Ameritrade 开户及介绍"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        
+        (function () { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://ev-invest.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank" rel="noopener">comments powered by Disqus.</a></noscript>
+
+
+            
+
+            
+
+            <!-- utteranc评论 -->
+
+
+            <!-- partial('_partial/comment/changyan') -->
+            <!--PC版-->
+
+
+            
+            
+
+        </div>
+    
+    <!-- timeliness note -->
+    <!-- idea from: https://hexo.fluid-dev.com/posts/hexo-injector/#%E6%96%87%E7%AB%A0%E6%97%B6%E6%95%88%E6%80%A7%E6%8F%90%E7%A4%BA -->
+    
+    <!-- Mathjax -->
+    
+</main>
+
+                <!-- profile -->
+                
+            </div>
+            <footer class="footer footer-unloaded">
+    <!-- social  -->
+    
+        <div class="social">
+            
+    
+        
+            
+                <a href="mailto:i@einverne.info" class="iconfont-archer email" title=email ></a>
+            
+        
+    
+        
+            
+                <a href="//github.com/einverne" class="iconfont-archer github" target="_blank" title=github></a>
+            
+        
+    
+        
+            
+                <a href="//t.me/einverne" class="iconfont-archer telegram" target="_blank" title=telegram></a>
+            
+        
+    
+        
+            
+                <a href="//www.douban.com/people/einverne/" class="iconfont-archer douban" target="_blank" title=douban></a>
+            
+        
+    
+        
+            
+                <a href="//twitter.com/einverne" class="iconfont-archer twitter" target="_blank" title=twitter></a>
+            
+        
+    
+        
+            
+                <a href="//instagram.com/einverne" class="iconfont-archer instagram" target="_blank" title=instagram></a>
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+        </div>
+    
+    <!-- powered by Hexo  -->
+    <div class="copyright">
+        <span id="hexo-power">Powered by <a href="https://hexo.io/" target="_blank">Hexo</a></span><span class="iconfont-archer power">&#xe635;</span><span id="theme-info">theme <a href="https://github.com/fi3ework/hexo-theme-archer" target="_blank">Archer</a></span>
+    </div>
+    <!-- website approve for Chinese user -->
+    
+    <!-- 不蒜子  -->
+    
+        <div class="busuanzi-container">
+            
+             
+                <span id="busuanzi_container_site_pv">PageView: <span id="busuanzi_value_site_pv"></span> :)</span>
+            
+        </div>
+    	
+</footer>
+
+        </div>
+        <!-- toc -->
+        
+            <div class="toc-wrapper toc-wrapper-loding" style=
+
+
+
+
+
+
+
+    top:50vh;
+
+>
+                <div class="toc-catalog">
+                    <span class="iconfont-archer catalog-icon">&#xe613;</span><span>CATALOG</span>
+                </div>
+                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#开户过程"><span class="toc-number">1.</span> <span class="toc-text">开户过程</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#国籍状况"><span class="toc-number">1.1.</span> <span class="toc-text">国籍状况</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#账户类型"><span class="toc-number">1.2.</span> <span class="toc-text">账户类型</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#融资融券账户"><span class="toc-number">1.3.</span> <span class="toc-text">融资融券账户</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#地址和就业状况"><span class="toc-number">1.4.</span> <span class="toc-text">地址和就业状况</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#护照或者身份证号码"><span class="toc-number">1.5.</span> <span class="toc-text">护照或者身份证号码</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#密码提示和信息渠道"><span class="toc-number">1.6.</span> <span class="toc-text">密码提示和信息渠道</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#交易经验和资产收入"><span class="toc-number">1.7.</span> <span class="toc-text">交易经验和资产收入</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#通知偏好"><span class="toc-number">1.8.</span> <span class="toc-text">通知偏好</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#用户协议"><span class="toc-number">1.9.</span> <span class="toc-text">用户协议</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#W8表格"><span class="toc-number">1.10.</span> <span class="toc-text">W8表格</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#证明文件"><span class="toc-number">1.11.</span> <span class="toc-text">证明文件</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#存款入金"><span class="toc-number">2.</span> <span class="toc-text">存款入金</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#提款"><span class="toc-number">3.</span> <span class="toc-text">提款</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#TD-Ameritrade-的优势"><span class="toc-number">4.</span> <span class="toc-text">TD Ameritrade 的优势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#TD-Ameritrade-的劣势"><span class="toc-number">5.</span> <span class="toc-text">TD Ameritrade 的劣势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#reference"><span class="toc-number">6.</span> <span class="toc-text">reference</span></a></li></ol>
+            </div>
+        
+        <!-- sidebar -->
+        <div class="sidebar sidebar-hide">
+    <ul class="sidebar-tabs sidebar-tabs-active-0">
+        <li class="sidebar-tab-archives"><span class="iconfont-archer">&#xe67d;</span><span class="tab-name">Archive</span></li>
+        <li class="sidebar-tab-tags"><span class="iconfont-archer">&#xe61b;</span><span class="tab-name">Tag</span></li>
+        <li class="sidebar-tab-categories"><span class="iconfont-archer">&#xe666;</span><span class="tab-name">Cate</span></li>
+    </ul>
+    <div class="sidebar-content sidebar-content-show-archive">
+        <div class="sidebar-panel-archives">
+    <!-- 在 ejs 中将 archive 按照时间排序 -->
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    <div class="total-and-search">
+        <div class="total-archive">
+        Total : 31
+        </div>
+        <!-- search  -->
+        
+    </div>
+    
+    <div class="post-archive">
+    
+        
+            
+            
+            <div class="archive-year"> 2023 </div>
+            <ul class="year-list">
+            
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">12/29</span>
+            <a class="archive-post-title" href="/2023/12/29/htsc-v-membership.html">华泰涨乐全球通 V 会员</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">11/09</span>
+            <a class="archive-post-title" href="/2023/11/09/invest-japan-market-in-china.html">在中国国内投资日本股市</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">11/06</span>
+            <a class="archive-post-title" href="/2023/11/06/knowledge-not-in-school.html">学校里面不会教的财务公式</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">10/09</span>
+            <a class="archive-post-title" href="/2023/10/09/rmb-devaluation-deflation.html">为什么人民币贬值了还通缩</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">08/25</span>
+            <a class="archive-post-title" href="/2023/08/25/flowbank-swiss-digital-bank.html">FlowBank 瑞士数字银行开户及使用</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">07/12</span>
+            <a class="archive-post-title" href="/2023/07/12/btc-address-formats.html">BTC 地址格式</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">06/01</span>
+            <a class="archive-post-title" href="/2023/06/01/cmb-birthday-10x-points.html">经典白 生日十倍积分刷卡方式</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">05/27</span>
+            <a class="archive-post-title" href="/2023/05/27/kraken-register.html">加密货币交易所 Kraken 注册</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">05/06</span>
+            <a class="archive-post-title" href="/2023/05/06/cloudflare-stock-dive.html">Cloudflare 股价暴跌 22% 是为什么</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">04/22</span>
+            <a class="archive-post-title" href="/2023/04/22/binance-dual-investment.html">双币投资</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">04/11</span>
+            <a class="archive-post-title" href="/2023/04/11/government-bonds.html">国债逆回购以及购买小贴士</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">03/21</span>
+            <a class="archive-post-title" href="/2023/03/21/what-is-liquidity-pool.html">什么是 LP 池</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">03/17</span>
+            <a class="archive-post-title" href="/2023/03/17/citic-hk-card-atm.html">中信国际提款卡无法在日本提款问题解决</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">01/21</span>
+            <a class="archive-post-title" href="/2023/01/21/activate-tron-wallet.html">转入 TRX 激活 TRON 钱包以便接受 USDT 转入</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">01/20</span>
+            <a class="archive-post-title" href="/2023/01/20/cryptocurrency-mnemonic-phrase.html">加密货币数字钱包的助记词是什么</a>
+        </li>
+    
+        
+            
+            
+                
+                </ul>
+            
+            <div class="archive-year"> 2022 </div>
+            <ul class="year-list">
+            
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">12/21</span>
+            <a class="archive-post-title" href="/2022/12/21/bond.html">再次理解债券</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">07/26</span>
+            <a class="archive-post-title" href="/2022/07/26/htsc.html">华泰证券美港股 涨乐全球通使用</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">07/25</span>
+            <a class="archive-post-title" href="/2022/07/25/fire.html">如何理解 FIRE 财务独立 提前退休</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">04/19</span>
+            <a class="archive-post-title" href="/2022/04/19/fof-fund.html">FOF 基金简介</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">04/12</span>
+            <a class="archive-post-title" href="/2022/04/12/xiaomi-an-overcautious-market-opens-long-term-opportunities.html">小米股票分析：过度谨慎的市场使得长期机会变大</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">03/15</span>
+            <a class="archive-post-title" href="/2022/03/15/recommend-two-visulized-stock-market.html">推荐两个视觉化股市的网站</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">01/12</span>
+            <a class="archive-post-title" href="/2022/01/12/bond-fund-guide.html">债券基金购买指南</a>
+        </li>
+    
+        
+            
+            
+                
+                </ul>
+            
+            <div class="archive-year"> 2021 </div>
+            <ul class="year-list">
+            
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">10/04</span>
+            <a class="archive-post-title" href="/2021/10/04/cmbc-hk-activate.html">民生银行香港卡激活教程</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">08/07</span>
+            <a class="archive-post-title" href="/2021/08/07/cncbinternational-fps-futu.html">中信银行（国际）香港卡通过 FPS 入金券商</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">08/06</span>
+            <a class="archive-post-title" href="/2021/08/06/sell-call-option-to-keep-profit.html">通过卖出看涨期权止盈</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">08/06</span>
+            <a class="archive-post-title" href="/2021/08/06/sell-naked-put-to-open-a-position.html">通过卖出看跌期权抄底建仓</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">07/20</span>
+            <a class="archive-post-title" href="/2021/07/20/hsbc-transfer-to-hongkong.html">汇丰银行转账汇款到汇丰香港</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">07/05</span>
+            <a class="archive-post-title" href="/2021/07/05/interactive-brokers-eliminate-our-monthly-inactivity-fee.html">盈透证券取消每月账户闲置费用</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">06/26</span>
+            <a class="archive-post-title" href="/2021/06/26/itiger-broker-account-different.html">老虎证券环球账户和综合账户的区别</a>
+        </li>
+    
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">06/03</span>
+            <a class="archive-post-title" href="/2021/06/03/td-ameritrade-open-an-account.html">TD Ameritrade 开户及介绍</a>
+        </li>
+    
+        
+            
+            
+                
+                </ul>
+            
+            <div class="archive-year"> 2020 </div>
+            <ul class="year-list">
+            
+        
+        <li class="archive-post-item">
+            <span class="archive-post-date">03/15</span>
+            <a class="archive-post-title" href="/2020/03/15/option-learning-notes-1.html">美股期权学习笔记</a>
+        </li>
+    
+    </div>
+</div>
+
+        <div class="sidebar-panel-tags">
+    <div class="sidebar-tags-name">
+        
+            <span class="sidebar-tag-name" data-tags="books">
+                <span class="iconfont-archer">&#xe606;</span>
+                books
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="读书笔记">
+                <span class="iconfont-archer">&#xe606;</span>
+                读书笔记
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="读书">
+                <span class="iconfont-archer">&#xe606;</span>
+                读书
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="期权">
+                <span class="iconfont-archer">&#xe606;</span>
+                期权
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="老虎证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                老虎证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="券商">
+                <span class="iconfont-archer">&#xe606;</span>
+                券商
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="盈透证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                盈透证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="TD Ameritrade">
+                <span class="iconfont-archer">&#xe606;</span>
+                TD Ameritrade
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="德美利证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                德美利证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="美股券商">
+                <span class="iconfont-archer">&#xe606;</span>
+                美股券商
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="免佣金券商">
+                <span class="iconfont-archer">&#xe606;</span>
+                免佣金券商
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="开户">
+                <span class="iconfont-archer">&#xe606;</span>
+                开户
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="入金">
+                <span class="iconfont-archer">&#xe606;</span>
+                入金
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="brokers">
+                <span class="iconfont-archer">&#xe606;</span>
+                brokers
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="香港卡">
+                <span class="iconfont-archer">&#xe606;</span>
+                香港卡
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="中信国际">
+                <span class="iconfont-archer">&#xe606;</span>
+                中信国际
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="富途证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                富途证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="FPS">
+                <span class="iconfont-archer">&#xe606;</span>
+                FPS
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="中信银行国际">
+                <span class="iconfont-archer">&#xe606;</span>
+                中信银行国际
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="汇丰银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                汇丰银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="看涨期权">
+                <span class="iconfont-archer">&#xe606;</span>
+                看涨期权
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="call-option">
+                <span class="iconfont-archer">&#xe606;</span>
+                call-option
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="sell-call">
+                <span class="iconfont-archer">&#xe606;</span>
+                sell-call
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="sell-covered-call">
+                <span class="iconfont-archer">&#xe606;</span>
+                sell-covered-call
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="option">
+                <span class="iconfont-archer">&#xe606;</span>
+                option
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="民生银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                民生银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="银证转账">
+                <span class="iconfont-archer">&#xe606;</span>
+                银证转账
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="教程">
+                <span class="iconfont-archer">&#xe606;</span>
+                教程
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="债券基金">
+                <span class="iconfont-archer">&#xe606;</span>
+                债券基金
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="基金">
+                <span class="iconfont-archer">&#xe606;</span>
+                基金
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="网站推荐">
+                <span class="iconfont-archer">&#xe606;</span>
+                网站推荐
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="视觉化">
+                <span class="iconfont-archer">&#xe606;</span>
+                视觉化
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="股市">
+                <span class="iconfont-archer">&#xe606;</span>
+                股市
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="小米">
+                <span class="iconfont-archer">&#xe606;</span>
+                小米
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="分析">
+                <span class="iconfont-archer">&#xe606;</span>
+                分析
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="港股">
+                <span class="iconfont-archer">&#xe606;</span>
+                港股
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="手机">
+                <span class="iconfont-archer">&#xe606;</span>
+                手机
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="FOF基金">
+                <span class="iconfont-archer">&#xe606;</span>
+                FOF基金
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="FOF">
+                <span class="iconfont-archer">&#xe606;</span>
+                FOF
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="华泰证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                华泰证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="美港股">
+                <span class="iconfont-archer">&#xe606;</span>
+                美港股
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="涨乐">
+                <span class="iconfont-archer">&#xe606;</span>
+                涨乐
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="FIRE">
+                <span class="iconfont-archer">&#xe606;</span>
+                FIRE
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="财务独立">
+                <span class="iconfont-archer">&#xe606;</span>
+                财务独立
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="提前退休">
+                <span class="iconfont-archer">&#xe606;</span>
+                提前退休
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="bond">
+                <span class="iconfont-archer">&#xe606;</span>
+                bond
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="fund">
+                <span class="iconfont-archer">&#xe606;</span>
+                fund
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="债券">
+                <span class="iconfont-archer">&#xe606;</span>
+                债券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="利率">
+                <span class="iconfont-archer">&#xe606;</span>
+                利率
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="tron">
+                <span class="iconfont-archer">&#xe606;</span>
+                tron
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="usdt">
+                <span class="iconfont-archer">&#xe606;</span>
+                usdt
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="trx">
+                <span class="iconfont-archer">&#xe606;</span>
+                trx
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="binanceA">
+                <span class="iconfont-archer">&#xe606;</span>
+                binanceA
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="cryptocurrency">
+                <span class="iconfont-archer">&#xe606;</span>
+                cryptocurrency
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="加密货币">
+                <span class="iconfont-archer">&#xe606;</span>
+                加密货币
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="wallet">
+                <span class="iconfont-archer">&#xe606;</span>
+                wallet
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="hardware-wallet">
+                <span class="iconfont-archer">&#xe606;</span>
+                hardware-wallet
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="mnemonic-phrase">
+                <span class="iconfont-archer">&#xe606;</span>
+                mnemonic-phrase
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="助记词">
+                <span class="iconfont-archer">&#xe606;</span>
+                助记词
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="硬件钱包">
+                <span class="iconfont-archer">&#xe606;</span>
+                硬件钱包
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="提款卡">
+                <span class="iconfont-archer">&#xe606;</span>
+                提款卡
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="ATM">
+                <span class="iconfont-archer">&#xe606;</span>
+                ATM
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="取现">
+                <span class="iconfont-archer">&#xe606;</span>
+                取现
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="代币">
+                <span class="iconfont-archer">&#xe606;</span>
+                代币
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="数字货币">
+                <span class="iconfont-archer">&#xe606;</span>
+                数字货币
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="币安">
+                <span class="iconfont-archer">&#xe606;</span>
+                币安
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="binance">
+                <span class="iconfont-archer">&#xe606;</span>
+                binance
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="双币投资">
+                <span class="iconfont-archer">&#xe606;</span>
+                双币投资
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="卖出看涨期权">
+                <span class="iconfont-archer">&#xe606;</span>
+                卖出看涨期权
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="看出看跌期权">
+                <span class="iconfont-archer">&#xe606;</span>
+                看出看跌期权
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="国债逆回购">
+                <span class="iconfont-archer">&#xe606;</span>
+                国债逆回购
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="国债">
+                <span class="iconfont-archer">&#xe606;</span>
+                国债
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="理财">
+                <span class="iconfont-archer">&#xe606;</span>
+                理财
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="投资">
+                <span class="iconfont-archer">&#xe606;</span>
+                投资
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="Cloudflare">
+                <span class="iconfont-archer">&#xe606;</span>
+                Cloudflare
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="美股">
+                <span class="iconfont-archer">&#xe606;</span>
+                美股
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="加密货币交易所">
+                <span class="iconfont-archer">&#xe606;</span>
+                加密货币交易所
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="交易所">
+                <span class="iconfont-archer">&#xe606;</span>
+                交易所
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="招商银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                招商银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="经典白">
+                <span class="iconfont-archer">&#xe606;</span>
+                经典白
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="积分获取">
+                <span class="iconfont-archer">&#xe606;</span>
+                积分获取
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="信用卡">
+                <span class="iconfont-archer">&#xe606;</span>
+                信用卡
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="积分">
+                <span class="iconfont-archer">&#xe606;</span>
+                积分
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="btc">
+                <span class="iconfont-archer">&#xe606;</span>
+                btc
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="bitcoin">
+                <span class="iconfont-archer">&#xe606;</span>
+                bitcoin
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="数字银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                数字银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="flowbank">
+                <span class="iconfont-archer">&#xe606;</span>
+                flowbank
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="数字游民">
+                <span class="iconfont-archer">&#xe606;</span>
+                数字游民
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="瑞士银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                瑞士银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="瑞士数字银行">
+                <span class="iconfont-archer">&#xe606;</span>
+                瑞士数字银行
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="经济">
+                <span class="iconfont-archer">&#xe606;</span>
+                经济
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="人民币">
+                <span class="iconfont-archer">&#xe606;</span>
+                人民币
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="通缩">
+                <span class="iconfont-archer">&#xe606;</span>
+                通缩
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="贬值">
+                <span class="iconfont-archer">&#xe606;</span>
+                贬值
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="汇率">
+                <span class="iconfont-archer">&#xe606;</span>
+                汇率
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="消费">
+                <span class="iconfont-archer">&#xe606;</span>
+                消费
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="金融">
+                <span class="iconfont-archer">&#xe606;</span>
+                金融
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="日本">
+                <span class="iconfont-archer">&#xe606;</span>
+                日本
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="日经指数">
+                <span class="iconfont-archer">&#xe606;</span>
+                日经指数
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="日经225">
+                <span class="iconfont-archer">&#xe606;</span>
+                日经225
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="华泰">
+                <span class="iconfont-archer">&#xe606;</span>
+                华泰
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="证券">
+                <span class="iconfont-archer">&#xe606;</span>
+                证券
+            </span>
+        
+            <span class="sidebar-tag-name" data-tags="会员等级">
+                <span class="iconfont-archer">&#xe606;</span>
+                会员等级
+            </span>
+        
+    </div>
+    <div class="iconfont-archer sidebar-tags-empty">&#xe678;</div>
+    <div class="tag-load-fail" style="display: none; color: #ccc; font-size: 0.6rem;">
+        缺失模块，请参考主题文档进行安装配置：https://github.com/fi3ework/hexo-theme-archer#%E5%AE%89%E8%A3%85%E4%B8%BB%E9%A2%98
+    </div> 
+    <div class="sidebar-tags-list"></div>
+</div>
+
+        <div class="sidebar-panel-categories">
+    <div class="sidebar-categories-name">
+    
+        <span class="sidebar-category-name" data-categories="学习笔记">
+            <span class="iconfont-archer">&#xe60a;</span>
+            学习笔记
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="券商">
+            <span class="iconfont-archer">&#xe60a;</span>
+            券商
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="香港卡">
+            <span class="iconfont-archer">&#xe60a;</span>
+            香港卡
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="交易策略">
+            <span class="iconfont-archer">&#xe60a;</span>
+            交易策略
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="股票分析">
+            <span class="iconfont-archer">&#xe60a;</span>
+            股票分析
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="基金">
+            <span class="iconfont-archer">&#xe60a;</span>
+            基金
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="加密货币">
+            <span class="iconfont-archer">&#xe60a;</span>
+            加密货币
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="证券">
+            <span class="iconfont-archer">&#xe60a;</span>
+            证券
+        </span>
+    
+        <span class="sidebar-category-name" data-categories="证券/券商">
+            <span class="iconfont-archer">&#xe60a;</span>
+            证券/券商
+        </span>
+    
+    </div>
+    <div class="iconfont-archer sidebar-categories-empty">&#xe678;</div>
+    <div class="sidebar-categories-list"></div>
+</div>
+
+    </div>
+</div>
+
+        <!-- site-meta -->
+        <script>
+    var siteMeta = {
+        root: "/",
+        author: "Ein Verne"
+    }
+</script>
+
+        <!-- import experimental options here -->
+        <!-- Custom Font -->
+
+
+        <!-- main func -->
+        <script src="/scripts/main.js?v=20210823"></script>
+        <!-- dark mode -->
+        <script src="/scripts/dark.js?v=20210823"></script>
+        <!-- fancybox -->
+        <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" defer></script>
+        <!-- algolia -->
+        
+        <!-- busuanzi -->
+        
+            <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async></script>
+        
+        <!-- CNZZ -->
+        
+        <!-- async load share.js -->
+        
+            <script src="/scripts/share.js?v=20210823" async></script>
+        
+        <!-- mermaid -->
+        
+    </body>
+</html>
